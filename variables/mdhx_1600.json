@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_1600",
+  "display_name": "Wisdom Teeth Removed",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

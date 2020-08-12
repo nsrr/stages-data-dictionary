@@ -1,0 +1,10 @@
+{
+  "id": "narc_1100",
+  "display_name": "How long does muscle weakness last",
+  "description": "How long does muscle weakness typically last?  ",
+  "type": "choices",
+  "domain": "0=less than 30sec, 1=30sec-2min, 2=2min-10min, 3=more than 10min",
+  "labels": [
+    "narcolepsy"
+  ]
+}

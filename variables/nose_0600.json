@@ -1,0 +1,8 @@
+{
+  "id": "nose_0600",
+  "display_name": "NOSE Total Score",
+  "description": "Over the past ONE month, how much of a problem were the following conditions for you?",
+  "type": "choices",
+  "domain": "0=no problem, 20=worst possible problem with nasal obstruction",
+  "calculation": "NOSE Total = (_0100+_0200+_0300+_0400+_0500)*5"
+}

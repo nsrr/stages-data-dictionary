@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_1920",
+  "display_name": "Type of Apnea Surgery",
+  "description": "",
+  "type": "choices",
+  "domain": "0=nasal surgery, 1=rfa, 2=upp or laup, 3= mmo or mma, 4=gaa or hyoid suspension, 5=other, -55=don't know"
+}

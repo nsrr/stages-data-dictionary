@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6640",
+  "display_name": "Type of eating disorder",
+  "description": "",
+  "type": "choices",
+  "domain": "0=anorexia nervosa\n1=bulimia nervosa\n2=binge eating disorder\n3=other"
+}

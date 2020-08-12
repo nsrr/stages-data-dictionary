@@ -1,0 +1,7 @@
+{
+  "id": "diet_0500",
+  "display_name": "Do you feel more alert if you skip lunch?",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes, -44=i rarely/never skip lunch"
+}

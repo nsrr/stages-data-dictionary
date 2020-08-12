@@ -1,0 +1,10 @@
+{
+  "id": "rls_0100",
+  "display_name": "Unpleasant feelings in legs",
+  "description": "Have you ever had unpleasant feelings or sensations in your legs that occurred on a regular basis, and mainly while sitting or lying down?",
+  "type": "choices",
+  "domain": "0=no, 1-yes, current, 2=yes, past, -55=don't know",
+  "labels": [
+    "rls_plms"
+  ]
+}

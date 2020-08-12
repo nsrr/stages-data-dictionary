@@ -1,0 +1,10 @@
+{
+  "id": "sched_2300",
+  "display_name": "Total Sleep Time Week Night / School Night / Work Night or Day (Current Shift) - Hours",
+  "description": "On average, how much sleep do you get on work (school) nights? Hours",
+  "type": null,
+  "units": "hours",
+  "labels": [
+    "sleep_duration"
+  ]
+}

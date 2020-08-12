@@ -1,0 +1,7 @@
+{
+  "id": "pap_0200",
+  "display_name": "Remove your mask unknowingly while sleeping",
+  "description": "",
+  "type": "choices",
+  "domain": "0=rarely/never, 1=occasionally, 2=frequently"
+}

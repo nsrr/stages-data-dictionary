@@ -1,0 +1,10 @@
+{
+  "id": "sched_3700",
+  "display_name": "Sleep Latency Weekend Night / Non-School Night / Non-Work Night or Day - Hours",
+  "description": "On average, how long does it take you to fall asleep on non-work (non-school) nights? ___ hours",
+  "type": null,
+  "units": "hours",
+  "labels": [
+    "sleep_latency"
+  ]
+}

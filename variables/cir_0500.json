@@ -1,0 +1,11 @@
+{
+  "id": "cir_0500",
+  "display_name": "What time of day is your \"feeling best\" peak",
+  "description": "At what time of the day do you think that you reach your feeling best peak? (Check one) ",
+  "type": "choices",
+  "domain": "1=12-5am, 5=5-8am, 4=8-10am, 3=10am-5pm, 2-5-10pm, 1=10pm-12am",
+  "labels": [
+    "homeq",
+    "homeq_19feelbest"
+  ]
+}

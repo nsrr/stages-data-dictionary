@@ -1,0 +1,7 @@
+{
+  "id": "sched_1800",
+  "display_name": "Rise Time - Work Night or Day (3rd Shift)",
+  "description": "When working these hours, what time do you usually get out of bed after sleeping?   ",
+  "type": null,
+  "units": "time"
+}

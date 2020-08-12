@@ -1,0 +1,10 @@
+{
+  "id": "sched_3600",
+  "display_name": "Quality of Sleep (3rd Shift)",
+  "description": "Rate the usual quality of your sleep when working this shift",
+  "type": "choices",
+  "domain": "0=very good, 1=good, 2=fair, 3=poor, 4= very poor",
+  "labels": [
+    "sleep_quality"
+  ]
+}

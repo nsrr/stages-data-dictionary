@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6400",
+  "display_name": "Urinary / kidney problems",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

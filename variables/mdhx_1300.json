@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_1300",
+  "display_name": "Menopausal Status",
+  "description": "What is your menopausal status?  ",
+  "type": "choices",
+  "domain": "0=pre, 1=nearing, 2=post, -55=don't know"
+}

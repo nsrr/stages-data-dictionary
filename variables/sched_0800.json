@@ -1,0 +1,10 @@
+{
+  "id": "sched_0800",
+  "display_name": "Time Work Ends (Current Shift)",
+  "description": "Please indicate the start and end times for your work shifts, beginning with your current shift:  ",
+  "type": null,
+  "units": "time",
+  "labels": [
+    "work_schedule"
+  ]
+}

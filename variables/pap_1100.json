@@ -1,0 +1,7 @@
+{
+  "id": "pap_1100",
+  "display_name": "How often do you have a dry mouth/throat",
+  "description": "",
+  "type": "choices",
+  "domain": "0=never/rarely, 1=occasionally, 2=frequently"
+}

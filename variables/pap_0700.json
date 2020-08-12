@@ -1,0 +1,7 @@
+{
+  "id": "pap_0700",
+  "display_name": "Does your PAP have a heated tube?",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes, -55=don't know"
+}

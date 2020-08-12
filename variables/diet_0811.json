@@ -1,0 +1,7 @@
+{
+  "id": "diet_0811",
+  "display_name": "No lunch",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes, if yes, then diet_0810=-44"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "rls_0800",
+  "display_name": "How old were you when they began (Present and Past)",
+  "description": "Approximately how old were you when you first noticed these unpleasant sensations in your legs while sitting or lying down?",
+  "type": "choices",
+  "domain": "-55=don't remember",
+  "units": "Year",
+  "labels": [
+    "rls_plms"
+  ]
+}

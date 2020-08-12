@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_5810",
+  "display_name": "Copd",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

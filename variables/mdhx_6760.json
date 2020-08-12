@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6760",
+  "display_name": "Type of hematologic disease",
+  "description": "",
+  "type": "choices",
+  "domain": "0= anemia (iron deficiency, vit. b 12 deficiency, etc.)\n1= blood cancer (lymphoma, leukemia, myeloma, etc)\n2= coagulation, purpura, or other hemorrhagic condition (factor v leiden, hemophilia, von willebrand disease, antiphospholipid syndrome, protein s or c deficiency, etc.)"
+}

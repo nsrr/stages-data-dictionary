@@ -1,0 +1,10 @@
+{
+  "id": "sched_3220",
+  "display_name": "Total Sleep Latency In Minutes - Work Night or Day (3rd Shift)",
+  "description": "Calculated - Total self-reported sleep latency in minutes",
+  "type": null,
+  "units": "minutes",
+  "labels": [
+    "sleep_latency"
+  ]
+}

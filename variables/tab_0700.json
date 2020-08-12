@@ -1,0 +1,10 @@
+{
+  "id": "tab_0700",
+  "display_name": "Your heart beat pounding in your head",
+  "description": "During the past month, when you lie awake in bed, how often do you think about the following?",
+  "type": "choices",
+  "domain": "0=never, 1=rarely, 2=sometimes, 3=frequently, 4=always, -55=don't know",
+  "labels": [
+    "insomnia"
+  ]
+}

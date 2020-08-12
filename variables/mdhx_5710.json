@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_5710",
+  "display_name": "Chronic heart failure (CHF)",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

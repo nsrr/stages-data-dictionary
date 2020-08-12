@@ -1,0 +1,8 @@
+{
+  "id": "soclhx_1500",
+  "display_name": "Use of Street/Recreational Drugs",
+  "description": "Have you ever used street/recreational drugs regularly? ",
+  "type": "choices",
+  "domain": "0=never used street/recreational drugs regularly, 1=former user, 2=current user, 3=prefer not to answer",
+  "units": "event count"
+}

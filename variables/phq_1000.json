@@ -1,0 +1,12 @@
+{
+  "id": "phq_1000",
+  "display_name": "PHQ Total Score",
+  "description": "Summary score for Patient Health Questionnaire 9-item. Each item is scored from 0 to 3, while the total score range from 0 to 27. The PHQ-9 score can be divided into the following categories of increasing severity: minimal (04), mild (59), moderate (1014), moderately severe (1519), and severe (20-27). [Kroenke K et al. 2001 (PubMED ID: 11556941)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1495268/)<br><br> [Search for all PHQ-9 variables within this dataset](https://sleepdata.org/datasets/stages/variables?search=phq9)",
+  "type": null,
+  "domain": "<5=not clinically significant, 5-9=minimal symptoms, 10-14+minor depression/dysthymia/mild major depression, 15-19=moderately severe major depression, ?20=severe major depression",
+  "calculation": "PHQTotal=phq_0100+_0200+_0300+_0400+_0500+_0600+_0700+_0800+_0900",
+  "labels": [
+    "phq9",
+    "phq9_total"
+  ]
+}

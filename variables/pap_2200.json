@@ -1,0 +1,7 @@
+{
+  "id": "pap_2200",
+  "display_name": "What improvements have you experienced on PAP?  ",
+  "description": "",
+  "type": "choices",
+  "domain": "0=have not experienced any improvement, 1=less choking/gasping in my sleep, 2=snore less or not at all, 3=sleep quality is better, 4=nasal congestion/ allergies are better, 5=not napping or dozing off as often, 6=memory, concentration and focus are better, 7=wake up less often during the night, 8=fewer headaches when i wake up, 9=have more energy, 10=blood pressure is better, 11=do not toss & turn/move in my sleep as much, 12=gerd (reflux/ heartburn) is better, 13=more alert during the day, 14=feel more refreshed when i wake up, 15=go to the bathroom less often at night, 16=less sleepy during the day, 17=mood is better, 18=other"
+}

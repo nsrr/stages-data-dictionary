@@ -1,0 +1,10 @@
+{
+  "id": "par_0210",
+  "display_name": "Sleepwalk - Time Frame",
+  "description": "How often do you walk in your sleep? Per night/week/month/year",
+  "type": "choices",
+  "domain": "0=week, 1=month, 2=year",
+  "labels": [
+    "sleepwalk"
+  ]
+}

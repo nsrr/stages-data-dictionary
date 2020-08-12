@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_1500",
+  "display_name": "Orthodontics/braces/headgear/expander to straighten teeth",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

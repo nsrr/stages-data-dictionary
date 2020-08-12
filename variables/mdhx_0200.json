@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_0200",
+  "display_name": "Previously been to Sleep Specialist",
+  "description": "Have you ever seen a sleep specialist, either for a daytime or overnight appointment? ",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

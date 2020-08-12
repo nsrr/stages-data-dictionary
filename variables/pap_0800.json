@@ -1,0 +1,7 @@
+{
+  "id": "pap_0800",
+  "display_name": "How often do you use your heated humidifier",
+  "description": "",
+  "type": "choices",
+  "domain": "0=nightly, 1=most nights, 2=inconsistently"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "pap_1000",
+  "display_name": "How often do you have nasal congestion/runny nose",
+  "description": "",
+  "type": "choices",
+  "domain": "0=never/rarely, 1=occasionally, 2=frequently"
+}

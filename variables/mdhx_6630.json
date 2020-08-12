@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6630",
+  "display_name": "Type of bipolar",
+  "description": "",
+  "type": "choices",
+  "domain": "0=bipolar i\n1=bipolar ii\n-55=dont know"
+}

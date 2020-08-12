@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_1400",
+  "display_name": "Ovaries Removed",
+  "description": "Have you had both of your ovaries removed? ",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6620",
+  "display_name": "Type of anxiety disorder",
+  "description": "",
+  "type": "choices",
+  "domain": "0=panic disorder/attack\n1=social anxiety disorder\n2=generalized anxiety disorder"
+}

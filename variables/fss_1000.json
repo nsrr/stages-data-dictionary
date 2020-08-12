@@ -1,0 +1,12 @@
+{
+  "id": "fss_1000",
+  "display_name": "FSS Total Score",
+  "description": "Calculated - Total score based on a 9-item questionnsiares assessing how fatigue interferes with certain activities and its severity. [Schwartz, Jandorf & Krupp, 1993 (PubMed ID: 8229906)](https://pubmed.ncbi.nlm.nih.gov/8229906/) Scale 1 - 7 for individual items; 7 - 63 for overall score. Higher score indicates greater fatigue severity. <br><br>[Search for all Fatigue Severity Scale variables within this dataset](https://sleepdata.org/datasets/stages/variables?search=fss)",
+  "type": null,
+  "domain": "?36 indicates fatigue",
+  "calculation": "FSS Total = fss_01_0100+_0200+_0300+_0400+_0500+_0600+_0700+_0800+_0900",
+  "labels": [
+    "fss",
+    "fss_total"
+  ]
+}

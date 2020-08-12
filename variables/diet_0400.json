@@ -1,0 +1,7 @@
+{
+  "id": "diet_0400",
+  "display_name": "How does eating impact your alertness/wakefulness?",
+  "description": "",
+  "type": "choices",
+  "domain": "0= significantly increases sleepiness,\n1= increases sleepiness,\n2= no effect,\n3= increases alertness,\n4= significantly increases alertness"
+}

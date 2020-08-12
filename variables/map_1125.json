@@ -1,0 +1,11 @@
+{
+  "id": "map_1125",
+  "display_name": "HH - Episodes per week",
+  "description": "During the last month on how many nights or days per week have you had or been told you had the following (please check only one box per question)? Find yourself in a vivid dreamlike state when falling asleep even though you know you are awake, if so, how often?",
+  "type": null,
+  "units": "events per week",
+  "calculation": "?",
+  "labels": [
+    "narcolepsy"
+  ]
+}

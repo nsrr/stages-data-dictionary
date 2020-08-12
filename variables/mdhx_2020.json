@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_2020",
+  "display_name": "Type of Cardiac Surgeries",
+  "description": "",
+  "type": "choices",
+  "domain": "0=bypass, 1-stents, 2=valve replacement, 4-other, -55=don't know"
+}

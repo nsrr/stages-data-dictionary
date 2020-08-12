@@ -1,0 +1,7 @@
+{
+  "id": "med_0501",
+  "display_name": "Medication Dose / Don't Know",
+  "description": "Please list all of your current prescription and non-prescription medications (including vitamins and nutritional and herbal supplements): Don't know the dose",
+  "type": "choices",
+  "domain": "0=no, 1=yes, if yes, med_0500=-55"
+}

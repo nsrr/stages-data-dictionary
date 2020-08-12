@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6510",
+  "display_name": "Type of Pain/Fatigue problems ",
+  "description": "",
+  "type": "choices",
+  "domain": "0=chronic pain\n1=back and/or neck pain\n2=frequent headaches / migraines\n3=fibromyalgia\n4=chronic fatigue syndrome \n5=other"
+}

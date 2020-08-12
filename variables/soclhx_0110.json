@@ -1,0 +1,10 @@
+{
+  "id": "soclhx_0110",
+  "display_name": "Nap - Time frame",
+  "description": "How often do you nap? Per day/week/month",
+  "type": "choices",
+  "domain": "0=week, 1=month, 2=year",
+  "labels": [
+    "sleep_hygiene"
+  ]
+}

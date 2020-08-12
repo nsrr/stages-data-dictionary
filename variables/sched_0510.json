@@ -1,0 +1,10 @@
+{
+  "id": "sched_0510",
+  "display_name": "Do you work a split shift? (Do you work a swing shift (your shift divided into two or more periods of time with several hours off in between)",
+  "description": "Is your shift divided into two or more periods of time with several hours off in between? ",
+  "type": "choices",
+  "domain": "0=no, 1=yes",
+  "labels": [
+    "work_schedule"
+  ]
+}

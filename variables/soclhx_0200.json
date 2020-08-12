@@ -1,0 +1,10 @@
+{
+  "id": "soclhx_0200",
+  "display_name": "Nap duration - hours",
+  "description": "What is the usual length of your naps?  - hours",
+  "type": null,
+  "units": "hours",
+  "labels": [
+    "sleep_hygiene"
+  ]
+}

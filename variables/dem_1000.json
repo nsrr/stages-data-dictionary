@@ -1,0 +1,7 @@
+{
+  "id": "dem_1000",
+  "display_name": "Racial Category - Main",
+  "description": "",
+  "type": "choices",
+  "domain": "0=blank, 1=white/caucasian, 2=black/african american, 3=amer indian/alaska native, 4=asian, 5=pacific islander, 6=two races"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "famhx_0810_1",
+  "display_name": "Depression Relations",
+  "description": "",
+  "type": "choices",
+  "domain": "0=mother, 1=father, 2=sibling, 3=child"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6020",
+  "display_name": "Type of Orthodontics",
+  "description": "",
+  "type": "choices",
+  "domain": "0=permanent teeth extracted\n1=palate expander "
+}

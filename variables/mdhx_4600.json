@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_4600",
+  "display_name": "Chronic Fatigue Syndrome",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

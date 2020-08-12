@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_5700",
+  "display_name": "High blood pressure/hypertension",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

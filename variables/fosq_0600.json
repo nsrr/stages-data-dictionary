@@ -1,0 +1,11 @@
+{
+  "id": "fosq_0600",
+  "display_name": "Has relationship with family/friends/colleagues been affected",
+  "description": "Item from Functional Outcomes of Sleep Questionnaire. [Weaver et. al, 1997 (Pubmed ID: 9415942)](https://www.ncbi.nlm.nih.gov/pubmed/9415942)<br><br> [Search for all Functional Outcomes of Sleep variables within this dataset](https://sleepdata.org/datasets/stages/variables?search=fosq)",
+  "type": "choices",
+  "domain": "-44=i don't do this, 1=yes, extreme, 2=yes, moderate, 3=yes, a little, 4=no",
+  "labels": [
+    "fosq",
+    "fosq_15relate"
+  ]
+}

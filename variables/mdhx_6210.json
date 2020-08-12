@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6210",
+  "display_name": "Type of Neurological problems",
+  "description": "",
+  "type": "choices",
+  "domain": "0=stroke\n1=alzheimers dementia\n2=parkinsons disease/lewy body dementia\n3=any head injury resulting in loss of consciousness\n4=epilepsy\n5=neuromuscular disease \n6=peripheral neuropathy\n7=other"
+}

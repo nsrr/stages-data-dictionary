@@ -1,0 +1,11 @@
+{
+  "id": "ess_0100",
+  "display_name": "Sitting reading",
+  "description": "Item from the Epworth Sleepiness Scale [Johns MW 1991 (PubMed ID: 1798888)](https://www.ncbi.nlm.nih.gov/pubmed/1798888)<br><br> [Search for all ESS variables within this dataset](https://sleepdata.org/datasets/stages/variables?search=epworth)",
+  "type": "choices",
+  "domain": "0=never, 1=slight chance, 2=moderate chance, 3=high chance",
+  "labels": [
+    "epworth",
+    "ess_1sitread"
+  ]
+}

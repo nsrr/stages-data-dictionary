@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_3300",
+  "display_name": "Diabetes",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

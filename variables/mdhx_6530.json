@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6530",
+  "display_name": "Type of Headache",
+  "description": "",
+  "type": "choices",
+  "domain": "0=tension headache\n1=migraine without warning or aura\n2=migraine with warning or aura\n3=other"
+}

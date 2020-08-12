@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6740",
+  "display_name": "Type of autoimmune disease",
+  "description": "",
+  "type": "choices",
+  "domain": "0=diabetes type 1\n1=rheumatoid arthritis\n2=hashimoto thyroiditis\n3=graves disease \n4=multiple sclerosis (ms) \n5=systemic lupus erythematosus (lupus)\n6=psoriasis\n7=guillain barré syndrome\n8=inflammatory bowel disease (crohns disease and ulcerative colitis)\n9=other"
+}

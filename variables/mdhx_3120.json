@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_3120",
+  "display_name": "Type of Pulmonary Problem",
+  "description": "",
+  "type": "choices",
+  "domain": "0=asthma, 1=copd, 2=other, -55=don't know"
+}

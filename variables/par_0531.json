@@ -1,0 +1,10 @@
+{
+  "id": "par_0531",
+  "display_name": "How old were you when first acted out dreams - DK",
+  "description": "During sleep, how often do you (or have been told that you) shout, scream, punch or flail your arms in the air? How old were you when this first happened? Don't know",
+  "type": "choices",
+  "domain": "0=no, 1=yes, if yes, par_0530=-55=don't know",
+  "labels": [
+    "sleepwalk"
+  ]
+}

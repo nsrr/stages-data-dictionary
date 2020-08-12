@@ -1,0 +1,10 @@
+{
+  "id": "narc_1000",
+  "display_name": "Fallen to ground unable to move",
+  "description": "Please indicate which muscles are affected when you experience muscle weakness.  Then specify the two situations which are most frequently associated with each type of muscle weakness.",
+  "type": "choices",
+  "domain": "0=no, 1=yes",
+  "labels": [
+    "narcolepsy"
+  ]
+}

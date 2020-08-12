@@ -1,0 +1,7 @@
+{
+  "id": "med_0100",
+  "display_name": "No medication",
+  "description": "Please list all of your current prescription and non-prescription medications (including vitamins and nutritional and herbal supplements): I am not currently taking any type of medication. ",
+  "type": "choices",
+  "domain": "0=unchecked, 1=checked"
+}

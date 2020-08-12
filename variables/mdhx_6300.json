@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6300",
+  "display_name": "High cholesterol",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

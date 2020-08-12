@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_3220",
+  "display_name": "Type of GI or Digestive Problem",
+  "description": "",
+  "type": "choices",
+  "domain": "0=gerd, 1=ibs, 2=other, -55=don't know"
+}

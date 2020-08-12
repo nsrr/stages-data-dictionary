@@ -1,0 +1,7 @@
+{
+  "id": "soclhx_1310",
+  "display_name": "Cigarettes - Time Frame",
+  "description": "How many cigarettes did you typically smoke? Per day/week",
+  "type": "choices",
+  "domain": "0=day, 1=week"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "cir_0400",
+  "display_name": "At what time in the evening do you feel tired, in need of sleep",
+  "description": "At what time in the evening do you feel tired and, as a result, in need of sleep? (Check one) ",
+  "type": "choices",
+  "domain": "5=8-9pm, 4=9-10:15pm, 3=10:15pm-12:30am, 2=12:30-1:45am, 1=1:45-3am",
+  "labels": [
+    "homeq",
+    "homeq_09needslp"
+  ]
+}

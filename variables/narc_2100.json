@@ -1,0 +1,11 @@
+{
+  "id": "narc_2100",
+  "display_name": "Cataplexy Frequency Score - Current",
+  "description": "",
+  "type": null,
+  "domain": "0-16 scale",
+  "calculation": "=narc_0100+_0200+_0300+_0500",
+  "labels": [
+    "narcolepsy"
+  ]
+}

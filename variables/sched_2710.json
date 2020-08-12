@@ -1,0 +1,9 @@
+{
+  "id": "sched_2710",
+  "display_name": "Sleep Latency- Work Night or Day  (Next Shift) - Minutes",
+  "description": "On average, how long does it take you to fall asleep on work (school) nights?   Minutes",
+  "type": null,
+  "labels": [
+    "sleep_latency"
+  ]
+}

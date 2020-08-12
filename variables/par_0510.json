@@ -1,0 +1,10 @@
+{
+  "id": "par_0510",
+  "display_name": "Act out dreams - Time Frame",
+  "description": "During sleep, how often do you (or have been told that you) shout, scream, punch or flail your arms in the air? Per night/week/month/year",
+  "type": "choices",
+  "domain": "0=week, 1=month, 2=year",
+  "labels": [
+    "sleepwalk"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_5900",
+  "display_name": "Allergies/simus problems",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

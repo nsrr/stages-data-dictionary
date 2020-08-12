@@ -1,0 +1,7 @@
+{
+  "id": "diet_0600",
+  "display_name": "Do you sleep less soundly if you skip dinner?",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes, -44=i rarely/never skip dinner"
+}

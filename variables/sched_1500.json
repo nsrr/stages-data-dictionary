@@ -1,0 +1,10 @@
+{
+  "id": "sched_1500",
+  "display_name": "Time Work Starts (3rd Shift)",
+  "description": "When working these hours, what time do you usually get into bed to sleep?   ",
+  "type": null,
+  "units": "time",
+  "labels": [
+    "work_schedule"
+  ]
+}

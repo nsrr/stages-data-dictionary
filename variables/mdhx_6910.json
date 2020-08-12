@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6910",
+  "display_name": "Was test done through your doctor or through a company like 23andMe",
+  "description": "Was test done through your doctor or through a company like 23andMe",
+  "type": "choices",
+  "domain": "0=doctor, 1=company"
+}

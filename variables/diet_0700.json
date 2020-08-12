@@ -1,0 +1,7 @@
+{
+  "id": "diet_0700",
+  "display_name": "Do you feel?",
+  "description": "",
+  "type": "choices",
+  "domain": "0=underweight, 1=healthy weight, 2=overweight"
+}

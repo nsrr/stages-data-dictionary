@@ -1,0 +1,7 @@
+{
+  "id": "dem_0110",
+  "display_name": "Age at enrollment",
+  "description": "",
+  "type": null,
+  "calculation": "DEM_0110 is derrived from PHI_0500 and irb_end"
+}

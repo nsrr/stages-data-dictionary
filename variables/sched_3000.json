@@ -1,0 +1,10 @@
+{
+  "id": "sched_3000",
+  "display_name": "Total Time Awake - Work Night or Day  (Next Shift) - Hours",
+  "description": "On average, how much total time do you spend awake during these awakenings on work (school) nights?   _____ hours   ",
+  "type": null,
+  "units": "hours",
+  "labels": [
+    "insomnia"
+  ]
+}

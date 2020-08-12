@@ -1,0 +1,10 @@
+{
+  "id": "sched_3400",
+  "display_name": "Number of Awakenings- Work Night or Day (3rd Shift)",
+  "description": "On average, how many times do you awaken during the night on work (school) nights?   ____ times per night",
+  "type": null,
+  "units": "event count",
+  "labels": [
+    "insomnia"
+  ]
+}

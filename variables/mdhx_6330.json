@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6330",
+  "display_name": "Type of Metabolic/Hormone/Endocrine problems",
+  "description": "",
+  "type": "choices",
+  "domain": "0=high triglyceride level\n1=thyroid problems\n2=iron deficiency\n3=other "
+}

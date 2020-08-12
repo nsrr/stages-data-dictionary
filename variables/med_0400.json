@@ -1,0 +1,7 @@
+{
+  "id": "med_0400",
+  "display_name": "Medication Frequency",
+  "description": "How often do you take this medication?",
+  "type": "choices",
+  "domain": "0=daily, 1=as needed"
+}

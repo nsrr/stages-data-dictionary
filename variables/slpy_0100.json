@@ -1,0 +1,11 @@
+{
+  "id": "slpy_0100",
+  "display_name": "How often difficulty staying awake during the day - Number",
+  "description": "How often do you have difficulty staying awake during the day? Times",
+  "type": null,
+  "domain": "if never or rarely checked, slpy_0100=0 and _0110=1",
+  "units": "event count",
+  "labels": [
+    "subjective_sleepiness"
+  ]
+}

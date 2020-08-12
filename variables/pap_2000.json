@@ -1,0 +1,7 @@
+{
+  "id": "pap_2000",
+  "display_name": "What problems do you experience with your current mask?",
+  "description": "",
+  "type": "choices",
+  "domain": "0=frequent mask air leakage, 1=frequently wakes me up, 2=occasional mask air leakage, 3=noisy, 4=frequently have to adjust and fuss with the mask, 5=pressure on nasal bridge or nostrils, 6=trouble with the air pressure (too high or low), 7=water condensation in the mask, 8=skin irritation, 9=causes gas or bloating, 10=uncomfortable, 11=i wish i could wear glasses with it, 12=eye irritation, 13=my bed partner complains about it, 14=difficult for me to put on and take off, 15=i need a different size, 16=nose bleeds, 17=other"
+}

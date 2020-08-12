@@ -1,0 +1,7 @@
+{
+  "id": "phq_0350",
+  "display_name": "Which is the most bothersome?",
+  "description": "If \"trouble falling or staying asleep, sleeping too much\" >=2, which is the most bothersome?",
+  "type": "choices",
+  "domain": "0=trouble falling asleep, 1=trouble staying asleep, 2=sleeping too much"
+}

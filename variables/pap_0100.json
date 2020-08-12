@@ -1,0 +1,7 @@
+{
+  "id": "pap_0100",
+  "display_name": "Fall asleep before your mask/ PAP is on",
+  "description": "",
+  "type": "choices",
+  "domain": "0=rarely/never, 1=occasionally, 2=frequently"
+}

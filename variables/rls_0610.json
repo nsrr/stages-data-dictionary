@@ -1,0 +1,10 @@
+{
+  "id": "rls_0610",
+  "display_name": "How distressing were sensations - Past",
+  "description": "When you actually experienced these unpleasant sensations in your legs or the urge to move your legs, how distressing were they?",
+  "type": "choices",
+  "domain": "0=not at all, 1=a little bit, 2=moderately, 3=extremely, -55=don't know",
+  "labels": [
+    "rls_plms"
+  ]
+}

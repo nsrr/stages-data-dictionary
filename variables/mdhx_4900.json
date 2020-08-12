@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_4900",
+  "display_name": "Major Depression",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

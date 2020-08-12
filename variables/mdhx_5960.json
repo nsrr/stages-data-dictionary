@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_5960",
+  "display_name": "Type of ENT problem",
+  "description": "",
+  "type": "choices",
+  "domain": "0=freq tonsil infection\n1=freq sinus infection\n2=nose/jaw fracture\n3=other"
+}

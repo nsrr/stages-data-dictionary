@@ -1,0 +1,7 @@
+{
+  "id": "famhx_1100",
+  "display_name": "Med Family Hx Psychiatric Treatment",
+  "description": "Have any blood relatives in your immediate family (which includes brother/sister, father/mother, son/daughter) had any of the following? Psychiatric treatment",
+  "type": "choices",
+  "domain": "0=no, 1=yes, -55=don't know"
+}

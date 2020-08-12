@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6110",
+  "display_name": "Type of GI problems or surgery ",
+  "description": "",
+  "type": "choices",
+  "domain": "0=gerd\n1=ibs\n2=gallstones / gall bladder stone\n3=cholecystectomy\n4=liver disease\n5=other "
+}

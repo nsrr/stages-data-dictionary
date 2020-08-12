@@ -1,0 +1,10 @@
+{
+  "id": "par_0710",
+  "display_name": "Nightmares - Time Frame",
+  "description": "How often do you have nightmares (frightening dreams)? Per night/week/month/year",
+  "type": "choices",
+  "domain": "0=week, 1=month, 2=year",
+  "labels": [
+    "nightmare"
+  ]
+}

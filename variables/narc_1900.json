@@ -1,0 +1,11 @@
+{
+  "id": "narc_1900",
+  "display_name": "Sleep Paralysis Frequency Score",
+  "description": "",
+  "type": null,
+  "domain": "0-4 scale",
+  "calculation": "=map_1000",
+  "labels": [
+    "narcolepsy"
+  ]
+}

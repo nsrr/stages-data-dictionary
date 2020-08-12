@@ -1,0 +1,7 @@
+{
+  "id": "pap_0400",
+  "display_name": "Forget to use your PAP with naps",
+  "description": "",
+  "type": "choices",
+  "domain": "0=rarely/never, 1=occasionally, 2=frequently, -44=i don't nap"
+}

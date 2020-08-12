@@ -1,0 +1,10 @@
+{
+  "id": "narc_1400",
+  "display_name": "During a typical episode, do you fall asleep",
+  "description": "During a typical episode of muscle weakness",
+  "type": "choices",
+  "domain": "0=never, 1=rarely, 2=sometimes, 3=always, -55=don't know",
+  "labels": [
+    "narcolepsy"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": "slpy_0300",
+  "display_name": "When sleepy, how often perform activities without awareness - Number",
+  "description": "When sleepy, how often do you perform activities without being aware of doing things for a few seconds or minutes (e.g., drive a car without remembering the last few minutes, read without remembering what you read, etc.)?  (Enter 0 if you do not perform activities without awareness)",
+  "type": null,
+  "domain": "if never or rarely checked, slpy_0300=0 and _0310=1",
+  "units": "event count",
+  "labels": [
+    "sleep_related_impairment"
+  ]
+}

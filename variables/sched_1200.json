@@ -1,0 +1,10 @@
+{
+  "id": "sched_1200",
+  "display_name": "Time Work Ends (Next Shift)",
+  "description": "Please indicate the start and end times for your work shifts, next work shift",
+  "type": null,
+  "units": "time",
+  "labels": [
+    "work_schedule"
+  ]
+}

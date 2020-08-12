@@ -1,0 +1,7 @@
+{
+  "id": "pap_1200",
+  "display_name": "How often do you get water in my tubing/ mask",
+  "description": "",
+  "type": "choices",
+  "domain": "0=never/rarely, 1=occasionally, 2=frequently"
+}

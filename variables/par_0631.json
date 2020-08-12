@@ -1,0 +1,10 @@
+{
+  "id": "par_0631",
+  "display_name": "How old were you when first had violent behavior - DK",
+  "description": "How old were you when this first happened? Don't know",
+  "type": "choices",
+  "domain": "0=no, 1=yes, if yes, par_0630=-55=don't know",
+  "labels": [
+    "sleepwalk"
+  ]
+}

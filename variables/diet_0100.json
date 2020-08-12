@@ -1,0 +1,7 @@
+{
+  "id": "diet_0100",
+  "display_name": "Do you have any food allergies?",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no allergies, 1=milk,2=eggs, 3=peanuts, 4=tree nuts other than peanut, 5=fish, 6=shellfish, 7=soy, 8=wheat, 9=other"
+}

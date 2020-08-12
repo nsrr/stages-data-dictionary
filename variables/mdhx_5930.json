@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_5930",
+  "display_name": "Type of ENT surgeries",
+  "description": "",
+  "type": "choices",
+  "domain": "0=nasal surgery (e.g., septoplasty, inferior turbinate reduction)\n1=radiofrequency ablation (rfa) of the turbinates or turbinectomy \n2=uvulopalatopharyngoplasty (uppp) or laser assisted uvulopalatoplasty (laup)\n3=maxillomandibular osteotomy or advancement (mmo or mma) or surgery on one or both jaws\n4=hypoglossal nerve stimulation (hgns)\n5=genio tubercle or glossus advancement (gga) or hyoid suspension \n6=glossectomy or frenectomy \n7=other \n-55=dont know"
+}

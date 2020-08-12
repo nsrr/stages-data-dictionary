@@ -1,0 +1,10 @@
+{
+  "id": "tab_1000",
+  "display_name": "What the future might hold and what you should do for things to work out well",
+  "description": "During the past month, when you lie awake in bed, how often do you think about the following?",
+  "type": "choices",
+  "domain": "0=never, 1=rarely, 2=sometimes, 3=frequently, 4=always, -55=don't know",
+  "labels": [
+    "insomnia"
+  ]
+}

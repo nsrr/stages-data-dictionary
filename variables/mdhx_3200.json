@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_3200",
+  "display_name": "GI or Digestive Problems",
+  "description": "",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

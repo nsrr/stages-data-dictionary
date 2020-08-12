@@ -1,0 +1,11 @@
+{
+  "id": "cir_0700",
+  "display_name": "rMEQ Total Score",
+  "description": "",
+  "type": null,
+  "domain": "range = 4-25, 4-7=definitely evening tendency; 8-11=moderately evening type; 12-17=neither type; 18-21=moderately morning type; 22-25=definitely morning type",
+  "calculation": "rMEQ Total = cir_0100+_0200+_0300+_0400+_0500+_0600",
+  "labels": [
+    "chronotype"
+  ]
+}

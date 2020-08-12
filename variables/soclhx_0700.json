@@ -1,0 +1,8 @@
+{
+  "id": "soclhx_0700",
+  "display_name": "Alcohol - Number of times",
+  "description": "How often do you drink alcohol? Times",
+  "type": null,
+  "units": "event count",
+  "calculation": "Total = soclhx_0710+_0720+_0730"
+}
