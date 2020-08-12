@@ -1,0 +1,8 @@
+{
+  "id": "par_0900",
+  "display_name": "Remember dreams, times",
+  "description": "How often do you remember your dreams? Times",
+  "type": null,
+  "domain": "if never checked, par_0700=0 and _0710=1, -55=don't know",
+  "units": "event count"
+}

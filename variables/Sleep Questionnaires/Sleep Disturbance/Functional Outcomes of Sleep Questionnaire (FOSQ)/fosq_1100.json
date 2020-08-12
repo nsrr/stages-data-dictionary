@@ -1,0 +1,11 @@
+{
+  "id": "fosq_1100",
+  "display_name": "Functional Outcomes of Sleep: ",
+  "description": "Q for Jim: Review scoring criteria, do we want the subscores?, Accidentally allowed \"don't do this activity\" as a response on Q1, 2, 8 and 9 until 7/17/2014",
+  "type": null,
+  "domain": "[[[(q1+q2)/2] + [(q3+q4+q7)/3] + q5 + [(q6+q8+q9)/3] + q10]]] / 5 x 5\n\nrange is 5-20, higher scores are better",
+  "calculation": "Set all negative values (ie. -44) to zero.  [[[(fosq_0100+ fosq_0200)/2] + [(fosq_0300+ fosq_0400+ fosq_0700)/3] + fosq_0500 + [(fosq_0600+ fosq_0800+ fosq_0900)/3] + fosq_1000]]] / 5 X 5    ",
+  "labels": [
+    "fosq"
+  ]
+}

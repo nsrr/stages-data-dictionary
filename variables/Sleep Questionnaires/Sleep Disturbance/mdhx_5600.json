@@ -1,0 +1,10 @@
+{
+  "id": "mdhx_5600",
+  "display_name": "Use sleep aids at least once per week",
+  "description": "Do you take a sleeping aid once a week or more?",
+  "type": "choices",
+  "domain": "0=no, 1=yes",
+  "labels": [
+    "insomnia"
+  ]
+}

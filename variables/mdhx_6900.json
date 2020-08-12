@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_6900",
-  "display_name": "Have you ever had genetic testing performed?",
-  "description": "Have you ever had genetic testing performed?",
-  "type": "choices",
-  "domain": "0=no, 1=yes"
-}

@@ -1,0 +1,10 @@
+{
+  "id": "par_0201",
+  "display_name": "Frequency of sleepwalk, never or don't know",
+  "description": "How often do you walk in your sleep? Never or don't know",
+  "type": "choices",
+  "domain": "0=no, 1=yes, if never par_0200=0 and _0210=1, if dk, par_0200=-55=don't know",
+  "labels": [
+    "sleepwalk"
+  ]
+}

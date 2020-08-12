@@ -1,0 +1,10 @@
+{
+  "id": "rls_0710",
+  "display_name": "How often did sensations occur, past",
+  "description": "On average, how often did you experience these unpleasant sensations in your legs or the urge to move your legs?",
+  "type": "choices",
+  "domain": "0=every day, 1=4-5 days/week, 2=2-3 days/week, 3=1 day/week, 4=1-3 days/month, 5=less than 1/day month, -55 =don't know",
+  "labels": [
+    "rls_plms"
+  ]
+}

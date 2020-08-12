@@ -1,0 +1,11 @@
+{
+  "id": "narc_1710",
+  "display_name": "Muscle weakness, month of first episode",
+  "description": "In what month (approximately) did your first episode of muscle weakness occur?  ",
+  "type": "choices",
+  "domain": "1=jan, 2=feb, 3=march, 4=april, 5=may, 6=june, 7=july, 8=aug, 9=sept, 10=oct, 11=nov, 12=dec",
+  "units": "Month",
+  "labels": [
+    "narcolepsy"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "soclhx_1600",
+  "display_name": "Street or recreational drugs consumption, regular use, type",
+  "description": "Which drugs have you used regularly?  (check all that apply)",
+  "type": "choices",
+  "domain": "0=stimulants,\n1=sedatives/hypnotics,\n2=marijuana,\n3=cocaine,\n4=narcotics/opiates/opioids,\n5=phencyclidine,\n6=psychedelics,\n7=designer/synthetic drugs,\n8=inhalants/solvents,\n9=nitrous oxide,\n10=prescription drugs,\n11=other"
+}

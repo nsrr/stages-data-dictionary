@@ -1,7 +1,0 @@
-{
-  "id": "sched_2000",
-  "display_name": "Rise Time - Weekend Night / Non-School Night / Non-Work Night or Day",
-  "description": "On days you are not working, what time do you usually get out of bed after sleeping?  ",
-  "type": null,
-  "units": "time"
-}

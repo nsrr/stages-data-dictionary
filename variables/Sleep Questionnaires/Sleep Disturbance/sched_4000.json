@@ -1,0 +1,7 @@
+{
+  "id": "sched_4000",
+  "display_name": "Self-reported total awake duration (i.e. wake after sleep onset) on weekend nights, non-school nights,non-work nights or days",
+  "description": "On average, how much total time do you spend awake during these awakenings on non-work (non-school) nights?   _____ hours   ",
+  "type": null,
+  "units": "hours"
+}

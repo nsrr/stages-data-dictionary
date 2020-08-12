@@ -1,0 +1,11 @@
+{
+  "id": "par_0320",
+  "display_name": "Frequency of eat/drink in sleep, number of episodes per week",
+  "description": "How often do you awaken during the night and are unable to return to sleep without having something to eat or drink (other than water for thirst or a dry mouth)?",
+  "type": null,
+  "units": "events per week",
+  "calculation": "If par_0310=0 then par_0320=par_0300*7, If par_00310=1 then par_0320=par_0300,    If par_0310=2 then par_0320=par_0300/4, If par_0310=3 then par_0320=par_0300/52",
+  "labels": [
+    "sleep_eat"
+  ]
+}

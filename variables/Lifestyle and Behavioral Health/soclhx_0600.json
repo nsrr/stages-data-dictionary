@@ -1,0 +1,7 @@
+{
+  "id": "soclhx_0600",
+  "display_name": "Exercise, time of day",
+  "description": "What time of day do you usually exercise?",
+  "type": "choices",
+  "domain": "0=early morning, 1=late morning, 2=early afternoon, 3=late afternoon, 4=between supper and bedtime,  5=time of day varies"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "soclhx_0520",
+  "display_name": "Exercise, time frame",
+  "description": "How often do you exercise? Per day/week/month",
+  "type": "choices",
+  "domain": "0=week, 1=month, 2=year"
+}

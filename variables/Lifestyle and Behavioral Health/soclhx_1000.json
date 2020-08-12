@@ -1,0 +1,10 @@
+{
+  "id": "soclhx_1000",
+  "display_name": "Caffeine consumption, time of last drink",
+  "description": "What time of day do you consume your last caffeinated drink?  ",
+  "type": null,
+  "units": "time",
+  "labels": [
+    "sleep_hygiene"
+  ]
+}

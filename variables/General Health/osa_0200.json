@@ -1,0 +1,7 @@
+{
+  "id": "osa_0200",
+  "display_name": "Perspire heavily during the night, days per week",
+  "description": "During the last three months on how many nights or days per week have you had or been told you had the following (please check only one box per question)?",
+  "type": "choices",
+  "domain": "0=never, 1=rarely, 2=sometimes, 3=frequently, 4=always, -55=don't know"
+}

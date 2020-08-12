@@ -1,7 +1,0 @@
-{
-  "id": "bthbts_0100",
-  "display_name": "Bed partner",
-  "description": "Do you have a bed partner or roommate?  ",
-  "type": "choices",
-  "domain": "0=none, 1=in other room, 2=in same room but not in same bed, 3=in same bed, 4=child/children in  same bed "
-}

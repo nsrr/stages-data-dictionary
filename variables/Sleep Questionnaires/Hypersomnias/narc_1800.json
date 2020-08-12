@@ -1,0 +1,9 @@
+{
+  "id": "narc_1800",
+  "display_name": "Muscle weakness, describe the situration",
+  "description": "Please describe the situation in which a typical episode of muscle weakness occurred, including what you were doing, what brought the event about and how long it lasted. ",
+  "type": null,
+  "labels": [
+    "narcolepsy"
+  ]
+}

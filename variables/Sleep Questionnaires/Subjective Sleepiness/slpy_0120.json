@@ -1,0 +1,11 @@
+{
+  "id": "slpy_0120",
+  "display_name": "Difficulty staying awake during the day, times per week",
+  "description": "How often do you have difficulty staying awake during the day? ",
+  "type": null,
+  "units": "events per week",
+  "calculation": "?",
+  "labels": [
+    "subjective_sleepiness"
+  ]
+}

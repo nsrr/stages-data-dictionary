@@ -1,0 +1,7 @@
+{
+  "id": "dem_0400",
+  "display_name": "Participant's Highest Level of Education",
+  "description": "",
+  "type": "choices",
+  "domain": "0=elementary school, 1=high school, 3=assoc degree, 4=bachelors degree, 5=grad degree"
+}

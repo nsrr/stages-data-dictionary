@@ -1,7 +1,0 @@
-{
-  "id": "bthbts_0200",
-  "display_name": "Disrupts sleep",
-  "description": "Please indicate if any of the following regularly disrupt your sleep?  Check all that apply",
-  "type": "choices",
-  "domain": "0=rarely disrupted, 1=bed partner, 2=care for another, 3=pets, 4=pain, 5=need to urinate, 6=bed/mattress, 7=light, 8=worries, 9=temperature, 10=noise, 11=other"
-}

@@ -1,0 +1,10 @@
+{
+  "id": "slpy_0101",
+  "display_name": "Difficulty staying awake during the day, never",
+  "description": "How often do you have difficulty staying awake during the day? Never",
+  "type": "choices",
+  "domain": "0=no, 1=yes, if yes, slpy_0100=0 and _0110=1",
+  "labels": [
+    "subjective_sleepiness"
+  ]
+}

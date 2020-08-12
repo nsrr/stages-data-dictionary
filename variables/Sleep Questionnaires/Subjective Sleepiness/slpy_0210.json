@@ -1,0 +1,10 @@
+{
+  "id": "slpy_0210",
+  "display_name": "Sleep attacks, time frame",
+  "description": "How often do you experience sudden sleep attacks that are so intense that you must stop what you are doing or take a nap?  Per day/week/month/year",
+  "type": "choices",
+  "domain": "0=day, 1=week, 2=month, 3=year",
+  "labels": [
+    "subjective_sleepiness"
+  ]
+}

@@ -1,8 +1,0 @@
-{
-  "id": "sched_4220",
-  "display_name": "How many hours of sleep do you need to feel fully rested - TotalMinues",
-  "description": "Calculated - total minutes of sleep needed to feel fully arrested",
-  "type": null,
-  "units": "minute",
-  "calculation": "=(sched_4100*60) + (sched_4210)"
-}

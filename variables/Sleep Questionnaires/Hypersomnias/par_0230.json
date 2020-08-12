@@ -1,0 +1,11 @@
+{
+  "id": "par_0230",
+  "display_name": "Sleepwalk, age of first episode",
+  "description": "How old were you when this first happened?",
+  "type": "choices",
+  "domain": "-55=don't know",
+  "units": "years",
+  "labels": [
+    "sleepwalk"
+  ]
+}

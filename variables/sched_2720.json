@@ -1,9 +1,0 @@
-{
-  "id": "sched_2720",
-  "display_name": "Total Sleep Latency In Minutes - Work Night or Day (Next Shift)",
-  "description": "Calculated - Total self-reported sleep latency in minutes",
-  "type": null,
-  "labels": [
-    "sleep_latency"
-  ]
-}

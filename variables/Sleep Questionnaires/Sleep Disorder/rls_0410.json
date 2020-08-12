@@ -1,0 +1,10 @@
+{
+  "id": "rls_0410",
+  "display_name": "Improved with movement, past",
+  "description": "If you got up and moved around, did these unpleasant sensations in your legs get any better with moving or walking?",
+  "type": "choices",
+  "domain": "0=no, 1=yes, -55=don't know",
+  "labels": [
+    "rls_plms"
+  ]
+}

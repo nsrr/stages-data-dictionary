@@ -1,0 +1,10 @@
+{
+  "id": "sched_4100",
+  "display_name": "Self-reported sleep quality for weekend nights, non-school nights, non-work nights or days",
+  "description": "Rate the usual quality of your sleep",
+  "type": "choices",
+  "domain": "0=very good, 1=good, 2=fair, 3=poor, 4= very poor",
+  "labels": [
+    "sleep_quality"
+  ]
+}

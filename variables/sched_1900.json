@@ -1,7 +1,0 @@
-{
-  "id": "sched_1900",
-  "display_name": "Bed Time - Weekend Night / Non-School Night / Non-Work Night or Day",
-  "description": "On days you are not working, what time do you usually get into bed to sleep? ",
-  "type": null,
-  "units": "time"
-}

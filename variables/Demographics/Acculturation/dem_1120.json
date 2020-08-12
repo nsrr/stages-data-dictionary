@@ -1,0 +1,7 @@
+{
+  "id": "dem_1120",
+  "display_name": "Proficiency in English",
+  "description": "Are you fluent reading/writing in English?",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

@@ -1,0 +1,8 @@
+{
+  "id": "soclhx_0710",
+  "display_name": "Alcohol consumption, time frame",
+  "description": "How often do you drink alcohol? Per day/week/month",
+  "type": "choices",
+  "domain": "0=week, 1=month",
+  "units": "event count"
+}

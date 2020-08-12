@@ -1,0 +1,10 @@
+{
+  "id": "sched_3810",
+  "display_name": "Self-reported total sleep duration (i.e. total sleep time) on weekend nights, non-school nights, non-work nights or days",
+  "description": "On average, how much sleep do you get non-work (non-school) nights ?   _____ minutes",
+  "type": null,
+  "units": "minutes",
+  "labels": [
+    "sleep_duration"
+  ]
+}

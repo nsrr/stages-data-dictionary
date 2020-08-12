@@ -1,0 +1,10 @@
+{
+  "id": "sched_3100",
+  "display_name": "Self-reported sleep quality on week nights, school nights, work nights or days, next shift",
+  "description": "Rate the usual quality of your sleep when working this shift",
+  "type": "choices",
+  "domain": "0=very good, 1=good, 2=fair, 3=poor, 4= very poor",
+  "labels": [
+    "sleep_quality"
+  ]
+}

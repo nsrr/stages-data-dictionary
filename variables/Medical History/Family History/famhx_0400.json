@@ -1,0 +1,7 @@
+{
+  "id": "famhx_0400",
+  "display_name": "Family History of Restless Leg Syndrome",
+  "description": "Have any blood relatives in your immediate family (which includes brother/sister, father/mother, son/daughter) had any of the following? Restless Leg Syndrome",
+  "type": "choices",
+  "domain": "0=no, 1=yes, -55=don't know"
+}

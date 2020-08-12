@@ -1,0 +1,10 @@
+{
+  "id": "rls_0500",
+  "display_name": "Sensations worse in evening, present",
+  "description": "Are these sensations worse in the evening or night than they are in the morning?",
+  "type": "choices",
+  "domain": "0=no, 1=yes",
+  "labels": [
+    "rls_plms"
+  ]
+}

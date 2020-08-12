@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_5500",
+  "display_name": "Trigger for sleep disorder",
+  "description": "Is there an event that triggered your sleep problems? ",
+  "type": "choices",
+  "domain": "0=no, 1=yes"
+}

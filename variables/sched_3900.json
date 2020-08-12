@@ -1,7 +1,0 @@
-{
-  "id": "sched_3900",
-  "display_name": "Number of Awakenings Weekend Night / Non-School Night / Non-Work Night or Day",
-  "description": "On average, how many times do you awaken during the night on non-work (non-school) nights?   ____ times per night",
-  "type": null,
-  "units": "event count"
-}

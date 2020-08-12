@@ -1,0 +1,11 @@
+{
+  "id": "soclhx_0120",
+  "display_name": "Self-reported frequency of napping",
+  "description": "Calculated - number of naps per week",
+  "type": null,
+  "units": "events per week",
+  "calculation": "To discuss",
+  "labels": [
+    "sleep_hygiene"
+  ]
+}

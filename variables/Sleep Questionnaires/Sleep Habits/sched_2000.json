@@ -1,0 +1,7 @@
+{
+  "id": "sched_2000",
+  "display_name": "Self-reported out-bed time on weekend nights, non-school nights, non-work nights or days",
+  "description": "On days you are not working, what time do you usually get out of bed after sleeping?  ",
+  "type": null,
+  "units": "time"
+}

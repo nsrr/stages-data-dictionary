@@ -1,0 +1,11 @@
+{
+  "id": "cir_0300",
+  "display_name": "Horne-Ostberg Morningness-Eveningness Questionnaire: Tiredness during first half-hour after waking",
+  "description": "During the first half hour after having awakened in the morning, how tired do you feel? (Check one)",
+  "type": "choices",
+  "domain": "1=very tired, 2=fairly tired, 3=fairly refreshed, 4=very refreshed",
+  "labels": [
+    "homeq",
+    "homeq_08tired"
+  ]
+}

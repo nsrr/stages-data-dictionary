@@ -1,0 +1,11 @@
+{
+  "id": "map_1040",
+  "display_name": "Feel paralyzed (Cataplexy), age of first episode",
+  "description": "During the last month on how many nights or days per week have you had or been told you had the following (please check only one box per question)? Feeling paralyzed or unable to move when falling asleep or when awakening, if so, how old were you when this first occurred?",
+  "type": "choices",
+  "domain": "-55=don't know",
+  "units": "years",
+  "labels": [
+    "narcolepsy"
+  ]
+}

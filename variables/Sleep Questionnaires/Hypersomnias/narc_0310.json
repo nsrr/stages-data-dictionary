@@ -1,0 +1,10 @@
+{
+  "id": "narc_0310",
+  "display_name": "Frequency of muscle weakness when angry, before treatment",
+  "description": "How often do you currently experience episodes of muscle weakness in your legs or buckling of your knees in the following situations",
+  "type": "choices",
+  "domain": "0=never, 1=only a few times ever, 2= less than once/month, 3=at least once/month but less than once/week, 4=at least once/week",
+  "labels": [
+    "narcolepsy"
+  ]
+}

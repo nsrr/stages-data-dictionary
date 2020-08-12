@@ -1,0 +1,10 @@
+{
+  "id": "sched_3200",
+  "display_name": "Self-reported sleep latency on week nights, school nights, work nights or days, 3rd shift",
+  "description": "On average, how long does it take you to fall asleep on work (school) nights?   Hours",
+  "type": null,
+  "units": "hours",
+  "labels": [
+    "sleep_latency"
+  ]
+}

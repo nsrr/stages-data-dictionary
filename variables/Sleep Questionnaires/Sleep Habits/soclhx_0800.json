@@ -1,0 +1,10 @@
+{
+  "id": "soclhx_0800",
+  "display_name": "Alcohol consumption, as sleep aid",
+  "description": "Do you consume alcohol to help you fall asleep?  ",
+  "type": "choices",
+  "domain": "0=no, 1=yes",
+  "labels": [
+    "sleep_hygiene"
+  ]
+}

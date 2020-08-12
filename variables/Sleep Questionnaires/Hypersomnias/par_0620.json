@@ -1,0 +1,11 @@
+{
+  "id": "par_0620",
+  "display_name": "Frequency of violent behavior during sleep, number of episodes per week",
+  "description": "How often do you have violent or injurious behavior during sleep?",
+  "type": null,
+  "units": "events per week",
+  "calculation": "If par_0610=0 then par_0620=par_0600*7, If par_0610=1 then par_0620=par_0600,    If par_0610=2 then par_0620=par_0600/4, If par_0610=3 then par_0620=par_0600/52",
+  "labels": [
+    "sleepwalk"
+  ]
+}

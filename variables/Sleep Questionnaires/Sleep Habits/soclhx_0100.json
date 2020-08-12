@@ -1,0 +1,10 @@
+{
+  "id": "soclhx_0100",
+  "display_name": "Self-reported frequency of napping",
+  "description": "How often do you nap? Number of times",
+  "type": null,
+  "units": "event count",
+  "labels": [
+    "sleep_hygiene"
+  ]
+}

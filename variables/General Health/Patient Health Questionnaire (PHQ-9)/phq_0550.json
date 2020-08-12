@@ -1,0 +1,7 @@
+{
+  "id": "phq_0550",
+  "display_name": "Most bothersome appetite problem",
+  "description": "If \"poor appetite or overeating\" >= 2, which is more bothersome?",
+  "type": "choices",
+  "domain": "0=poor apetite, 1=overeating"
+}

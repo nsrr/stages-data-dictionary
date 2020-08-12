@@ -1,0 +1,10 @@
+{
+  "id": "narc_1650",
+  "display_name": "Muscle weakness, last experience",
+  "description": "When did you last experience an episode of muscle weakness?",
+  "type": "choices",
+  "domain": "0=in the last week, 1=in the last month, 2=in the last year, 3=more then a year ago",
+  "labels": [
+    "narcolepsy"
+  ]
+}
