@@ -1,11 +1,11 @@
-Stages-data-dictionary Data Dictionary
+STAGES Data Dictionary
 ======================
 
-[![Build Status](https://travis-ci.com/<REPOSITORY>/stages-data-dictionary-data-dictionary.svg?branch=master)](https://travis-ci.com/<REPOSITORY>/stages-data-dictionary-data-dictionary)
+[![Build Status](https://travis-ci.com/nsrr/stages-data-dictionary.svg?branch=master)](https://travis-ci.com/nsrr/stages-data-dictionary)
 
 ### Exports
 
-The stages-data-dictionary data dictionary can be exported to CSV by typing:
+The stages-data-dictionary can be exported to CSV by typing:
 
 ```
 spout export
@@ -17,7 +17,7 @@ dictionary.
 
 ### Testing
 
-The stages-data-dictionary data dictionary is tested using the
+The stages-data-dictionary is tested using the
 [Spout Gem](https://github.com/sleepepi/spout).
 
 Data dictionary tests can be run by typing:
@@ -43,4 +43,4 @@ approach for changing version numbers uses a variation on
 [Semantic Versioning](http://semver.org).
 
 A full list of changes for each version can be viewed in the
-[CHANGELOG](https://github.com/<REPOSITORY>/stages-data-dictionary-data-dictionary/blob/master/CHANGELOG.md).
+[CHANGELOG](https://github.com/nsrr/stages-data-dictionary/blob/master/CHANGELOG.md).
