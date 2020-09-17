@@ -1,7 +1,0 @@
-{
-  "id": "med_0100",
-  "display_name": "Medication, use: Self-reported",
-  "description": "Please list all of your current prescription and non-prescription medications (including vitamins and nutritional and herbal supplements): I am not currently taking any type of medication. ",
-  "type": "choices",
-  "domain": "checked"
-}

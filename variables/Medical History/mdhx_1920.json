@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_1920",
-  "display_name": "Apnea Surgery, type: Self-reported",
-  "description": "Which surgical procedure(s) did you undergo?  ",
-  "type": "choices",
-  "domain": "nasalsurg"
-}

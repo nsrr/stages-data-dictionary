@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_3220",
-  "display_name": "Gastrointestinal or Digestive Problem, type: Self-reported",
-  "description": "Which GI/digestive problems or surgeries do you have or have you had?  ",
-  "type": "choices",
-  "domain": "giprob4"
-}

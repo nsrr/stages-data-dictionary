@@ -1,7 +1,0 @@
-{
-  "id": "med_0501",
-  "display_name": "Medication, unknown dose: Self-reported",
-  "description": "Please list all of your current prescription and non-prescription medications (including vitamins and nutritional and herbal supplements): Don't know the dose",
-  "type": "choices",
-  "domain": "noyes"
-}

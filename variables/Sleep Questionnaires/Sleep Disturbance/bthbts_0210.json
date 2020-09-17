@@ -1,9 +1,0 @@
-{
-  "id": "bthbts_0210",
-  "display_name": "Sleep disruptions - other",
-  "description": "Please indicate if any of the following regularly disrupt your sleep?  Other (Describe)",
-  "type": "text",
-  "labels": [
-    "insomnia"
-  ]
-}

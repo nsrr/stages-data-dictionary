@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_3120",
-  "display_name": "Pulmonary Problem, type: Self-reported",
-  "description": "Which pulmonary/lung problems do you have or have you had?  ",
-  "type": "choices",
-  "domain": "copd"
-}

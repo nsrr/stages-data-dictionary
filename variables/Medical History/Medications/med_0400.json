@@ -1,7 +1,0 @@
-{
-  "id": "med_0400",
-  "display_name": "Medication, frequency: Self-reported",
-  "description": "How often do you take this medication?",
-  "type": "choices",
-  "domain": "daily"
-}

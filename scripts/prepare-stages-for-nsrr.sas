@@ -59,6 +59,13 @@
       asq_isi_in
       ;
     by subject_code survey_id;
+
+    *remove variables systematically;
+    drop
+      last_module /* administrative variable */
+      next_module /* administrative variable */
+      survey_id /* administrative variable */
+      map_1125 /* empty variable */
   run;
 
   data stages_final;
@@ -91,7 +98,7 @@
   run;
 
   proc freq data=stages_final;
-    table narc_1620;
+    table tab_0700;
   run;
 
   */

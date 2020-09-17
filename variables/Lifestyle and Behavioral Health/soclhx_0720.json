@@ -1,8 +1,0 @@
-{
-  "id": "soclhx_0720",
-  "display_name": "Alcohol consumption, times per week",
-  "description": "How often do you drink alcohol? ",
-  "type": "integer",
-  "units": "events per week",
-  "calculation": "If soclhx_0710=0 then_0720=_0700.  If soclhx_0710=1 then _0720=_0700/4"
-}

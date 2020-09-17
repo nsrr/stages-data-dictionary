@@ -1,5 +1,5 @@
 {
-  "id": "map_score",
+  "id": "score",
   "display_name": "MAP Score",
   "description": "",
   "type": "numeric",

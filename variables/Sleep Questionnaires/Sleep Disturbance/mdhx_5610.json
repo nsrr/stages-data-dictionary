@@ -1,9 +1,0 @@
-{
-  "id": "mdhx_5610",
-  "display_name": "Provide the list of sleep aids used at least once per week",
-  "description": "Do you take a sleeping aid once a week or more? Please provide the list",
-  "type": "text",
-  "labels": [
-    "insomnia"
-  ]
-}

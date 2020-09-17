@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_2020",
-  "display_name": "Cardiac Surgery, type: Self-reported",
-  "description": "Which cardiovascular/heart surgeries have you had?  ",
-  "type": "choices",
-  "domain": "cardiosurg"
-}
