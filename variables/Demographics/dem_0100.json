@@ -1,0 +1,6 @@
+{
+  "id": "dem_0100",
+  "display_name": "Participant's year of birth",
+  "description": "",
+  "type": "integer"
+}

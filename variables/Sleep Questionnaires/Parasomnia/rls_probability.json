@@ -1,5 +1,5 @@
 {
-  "id": "_rls_probability",
+  "id": "rls_probability",
   "display_name": "RLS Current Probability",
   "description": "",
   "type": "numeric",
