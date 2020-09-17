@@ -1,7 +1,7 @@
 {
   "id": "mdhx_3900",
-  "display_name": "Anemia",
+  "display_name": "Anemia: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

@@ -3,5 +3,5 @@
   "display_name": "Do you use a chin strap  ",
   "description": "",
   "type": "choices",
-  "domain": "0=never/rarely, 1=occasionally, 2=frequently"
+  "domain": "neverrarely"
 }

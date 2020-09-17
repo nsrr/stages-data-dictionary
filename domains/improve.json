@@ -1,0 +1,97 @@
+[
+  {
+    "value": "0",
+    "display_name": "Have experienced any improvement",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Snore less or not at all",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Nasal congestion/allergies are better",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Memory, concentration and focus are better",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Fewer headaches when I wake up",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Blood pressure is better",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "GERD (reflux/ heartburn) is better",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Feel more refreshed when I wake up",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Less sleepy during the day",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Less choking/gasping in my sleep",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "Sleep quality is better",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "Not napping or dozing off as often",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "Wake up less often during the night",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "Have more energy",
+    "description": ""
+  },
+  {
+    "value": "14",
+    "display_name": "Do not toss & turn/move in my sleep as much",
+    "description": ""
+  },
+  {
+    "value": "15",
+    "display_name": "More alert during the day",
+    "description": ""
+  },
+  {
+    "value": "16",
+    "display_name": "Go to the bathroom less often at night",
+    "description": ""
+  },
+  {
+    "value": "17",
+    "display_name": "Mood is better",
+    "description": ""
+  },
+  {
+    "value": "18",
+    "display_name": "Other improvements with pap",
+    "description": ""
+  }
+]

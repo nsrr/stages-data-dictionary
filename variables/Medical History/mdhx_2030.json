@@ -1,6 +1,6 @@
 {
   "id": "mdhx_2030",
-  "display_name": "Type of Cardiac Surgeries - Other Details",
+  "display_name": "Cardiac Surgery, details: Self reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

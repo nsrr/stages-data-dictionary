@@ -1,6 +1,6 @@
 {
   "id": "dem_1020",
-  "display_name": "Country/Province(s) of Origin of the Participant",
+  "display_name": "Participant's country/province(s) of origin",
   "description": "",
-  "type": null
+  "type": "text"
 }

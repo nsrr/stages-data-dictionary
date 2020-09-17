@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Less than 30 sec",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "30 sec - 2 min",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2 min - 10 min",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "more than 10 min",
+    "description": ""
+  }
+]

@@ -1,6 +1,6 @@
 {
   "id": "mdhx_6780",
-  "display_name": "Type of blood cancer- Other Description",
+  "display_name": "Hematologic Malignancy, description: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

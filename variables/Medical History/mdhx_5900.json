@@ -1,7 +1,7 @@
 {
   "id": "mdhx_5900",
-  "display_name": "Allergies/simus problems",
+  "display_name": "Allergies or Sinus Problems: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

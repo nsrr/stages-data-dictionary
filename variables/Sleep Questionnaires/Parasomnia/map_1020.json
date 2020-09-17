@@ -1,0 +1,10 @@
+{
+  "id": "map_1020",
+  "display_name": "Feel paralyzed (Cataplexy), number of times",
+  "description": "During the last month on how many nights or days per week have you had or been told you had the following (please check only one box per question)? Feeling paralyzed or unable to move when falling asleep or when awakening, if so, how often?",
+  "type": "integer",
+  "units": "event count",
+  "labels": [
+    "narcolepsy"
+  ]
+}

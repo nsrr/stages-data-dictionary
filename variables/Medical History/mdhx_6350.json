@@ -1,6 +1,6 @@
 {
   "id": "mdhx_6350",
-  "display_name": "Type Metabolic/Hormone/Endocrine problems - Other Description",
+  "display_name": "Endocrine or Metabolic Problem, description: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

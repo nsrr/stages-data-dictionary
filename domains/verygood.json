@@ -1,0 +1,32 @@
+[
+  {
+    "value": "0",
+    "display_name": "Very good",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Good",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Fair",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Poor",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Very poor",
+    "description": ""
+  },
+  {
+    "value": "-66",
+    "display_name": "Missing data",
+    "description": ""
+  }
+]

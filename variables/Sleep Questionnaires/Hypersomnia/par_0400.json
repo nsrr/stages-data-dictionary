@@ -1,0 +1,10 @@
+{
+  "id": "par_0400",
+  "display_name": "Frequency of teeth grinding",
+  "description": "Do you grind your teeth while you sleep?",
+  "type": "choices",
+  "domain": "neveralways",
+  "labels": [
+    "bruxism"
+  ]
+}

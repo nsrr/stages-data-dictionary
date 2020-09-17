@@ -1,0 +1,10 @@
+{
+  "id": "par_0101",
+  "display_name": "Frequency of leg twitch/kick, never or don't know",
+  "description": "How often do your legs twitch or kick when you sleep? Never or don't know",
+  "type": "choices",
+  "domain": "noyesdontknow",
+  "labels": [
+    "sleep_paralysis"
+  ]
+}

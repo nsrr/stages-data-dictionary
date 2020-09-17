@@ -2,6 +2,5 @@
   "id": "dem_0800",
   "display_name": "Bmi",
   "description": "",
-  "type": null,
-  "units": "? Make metric, then convert"
+  "type": "numeric"
 }

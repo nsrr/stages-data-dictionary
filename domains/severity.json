@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "None",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Mild",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Moderate",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Severe",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Very Severe",
+    "description": ""
+  }
+]

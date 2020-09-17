@@ -1,7 +1,7 @@
 {
   "id": "bthbts_0540",
-  "display_name": "How many are adults aged 60 years or older?",
-  "description": "",
-  "type": null,
+  "display_name": "Number of adults aged 60 years of older living in your household",
+  "description": "How many are adults aged 60 years or older?",
+  "type": "integer",
   "units": "count"
 }

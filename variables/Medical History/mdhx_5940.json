@@ -1,6 +1,6 @@
 {
   "id": "mdhx_5940",
-  "display_name": "ENT Surgeries - Other Description",
+  "display_name": "Ear, Nose, and Throat Surgery, description: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

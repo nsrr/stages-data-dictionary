@@ -2,6 +2,6 @@
   "id": "soclhx_1700",
   "display_name": "Street or recreational drugs consumption, age started",
   "description": "How old were you when you started using drugs regularly?",
-  "type": null,
+  "type": "integer",
   "units": "years"
 }

@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6410",
-  "display_name": "Type of Urinary / kidney problems",
-  "description": "",
+  "display_name": "Urologic or Kidney Problem, type: Self-reported",
+  "description": "Which urinary/kidney problems do you have or have you had?  ",
   "type": "choices",
-  "domain": "0=urinary incontinence\n1=benign prostate hyperplasia\n2=chronic kidney disease / failure\n3=other "
+  "domain": "urinary"
 }

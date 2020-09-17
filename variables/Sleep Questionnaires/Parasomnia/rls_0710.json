@@ -1,0 +1,10 @@
+{
+  "id": "rls_0710",
+  "display_name": "How often did sensations occur, past",
+  "description": "On average, how often did you experience these unpleasant sensations in your legs or the urge to move your legs?",
+  "type": "choices",
+  "domain": "freqmonth",
+  "labels": [
+    "rls_plms"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "dem_0920",
-  "display_name": "Ethnicity (Hispanic or Latino Origin) of the Participant (Other Details)",
+  "display_name": "Participant's ethnicity (hispanic or latino origin - other details)",
   "description": "",
-  "type": null
+  "type": "text"
 }

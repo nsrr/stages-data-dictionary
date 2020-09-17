@@ -1,0 +1,10 @@
+{
+  "id": "par_0610",
+  "display_name": "Frequency of violent behavior during sleep, time frame",
+  "description": "How often do you have violent or injurious behavior during sleep? Time frame",
+  "type": "choices",
+  "domain": "weekmonthyear",
+  "labels": [
+    "sleepwalk"
+  ]
+}

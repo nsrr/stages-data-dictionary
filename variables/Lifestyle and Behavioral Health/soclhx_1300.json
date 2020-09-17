@@ -2,6 +2,6 @@
   "id": "soclhx_1300",
   "display_name": "Cigarette smoking, number of cigarettes",
   "description": "How many cigarettes did you typically smoke? Number",
-  "type": null,
+  "type": "integer",
   "units": "event count"
 }

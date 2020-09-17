@@ -3,5 +3,5 @@
   "display_name": "Exercise, rarely or never",
   "description": "How often do you exercise?  I rarely or never exercise",
   "type": "choices",
-  "domain": "0=no, 1=yes, if yes, soclhx_0500=0 and _0510=1"
+  "domain": "noyes"
 }

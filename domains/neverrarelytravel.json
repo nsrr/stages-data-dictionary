@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Never/rarely",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Occasionally",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Frequently",
+    "description": ""
+  },
+  {
+    "value": "-44",
+    "display_name": "I rarely travel",
+    "description": ""
+  }
+]

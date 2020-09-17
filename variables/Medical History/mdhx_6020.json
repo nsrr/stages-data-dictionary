@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6020",
-  "display_name": "Type of Orthodontics",
-  "description": "",
+  "display_name": "Orthodontics, type: Self-reported",
+  "description": "What type of orthodontic work have you had?",
   "type": "choices",
-  "domain": "0=permanent teeth extracted\n1=palate expander "
+  "domain": "ortho"
 }

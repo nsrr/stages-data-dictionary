@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6530",
-  "display_name": "Type of Headache",
-  "description": "",
+  "display_name": "Headache, type: Self-reported",
+  "description": "What type of headaches/migraines do you have or have you had?  ",
   "type": "choices",
-  "domain": "0=tension headache\n1=migraine without warning or aura\n2=migraine with warning or aura\n3=other"
+  "domain": "headache"
 }

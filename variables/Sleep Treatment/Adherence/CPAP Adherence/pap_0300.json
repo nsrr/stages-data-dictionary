@@ -3,5 +3,5 @@
   "display_name": "Forget to put mask on after bathroom",
   "description": "",
   "type": "choices",
-  "domain": "0=rarely/never, 1=occasionally, 2=frequently"
+  "domain": "neverrarely"
 }

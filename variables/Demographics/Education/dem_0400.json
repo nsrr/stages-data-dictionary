@@ -1,0 +1,7 @@
+{
+  "id": "dem_0400",
+  "display_name": "Participant's highest level of education",
+  "description": "",
+  "type": "choices",
+  "domain": "education"
+}

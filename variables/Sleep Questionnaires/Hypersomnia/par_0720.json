@@ -1,0 +1,11 @@
+{
+  "id": "par_0720",
+  "display_name": "Frequency of nightmares, number of episodes per week",
+  "description": "How often do you have nightmares (frightening dreams)? ",
+  "type": "integer",
+  "units": "events per week",
+  "calculation": "If par_0710=0 then par_0720=par_0700*7, If par_0710=1 then par_0720=par_0700,    If par_0710=2 then par_0720=par_0700/4, If par_0710=3 then par_0720=par_0700/52",
+  "labels": [
+    "nightmare"
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "10pm-12am",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "5-10pm",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "10am-5pm",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "8-10am",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "5-8am",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "12-5am",
+    "description": ""
+  }
+]

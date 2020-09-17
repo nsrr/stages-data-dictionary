@@ -1,0 +1,11 @@
+{
+  "id": "slpy_0200",
+  "display_name": "Sleep attacks, number of times",
+  "description": "How often do you experience sudden sleep attacks that are so intense that you must stop what you are doing or take a nap?  (Enter 0 if you do not experience sudden sleep attacks)",
+  "type": "integer",
+  "domain": "if never or rarely checked, slpy_0200=0 and _0210=1",
+  "units": "event count",
+  "labels": [
+    "subjective_sleepiness"
+  ]
+}

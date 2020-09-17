@@ -1,7 +1,7 @@
 {
   "id": "mdhx_2700",
-  "display_name": "High Blood Pressure",
+  "display_name": "Hypertension: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

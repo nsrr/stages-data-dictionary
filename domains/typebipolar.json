@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "Bipolar I",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Bipolar II",
+    "description": ""
+  },
+  {
+    "value": "-55",
+    "display_name": "Don't Know",
+    "description": ""
+  }
+]

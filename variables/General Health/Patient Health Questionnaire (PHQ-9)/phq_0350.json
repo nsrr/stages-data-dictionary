@@ -3,5 +3,8 @@
   "display_name": "Most bothersome sleep disturbance symptom",
   "description": "If \"trouble falling or staying asleep, sleeping too much\" >=2, which is the most bothersome?",
   "type": "choices",
-  "domain": "0=trouble falling asleep, 1=trouble staying asleep, 2=sleeping too much"
+  "domain": "phqdis",
+  "labels": [
+    "phq9"
+  ]
 }

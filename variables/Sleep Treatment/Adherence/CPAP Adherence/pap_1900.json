@@ -3,5 +3,5 @@
   "display_name": "How do you feel about your current mask",
   "description": "",
   "type": "choices",
-  "domain": "0=like mask and want to stay with same style, 1= like mask, but want to look at others, 2=do not like my mask"
+  "domain": "currmask"
 }

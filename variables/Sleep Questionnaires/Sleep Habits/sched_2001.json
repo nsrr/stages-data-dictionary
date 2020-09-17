@@ -1,7 +1,10 @@
 {
   "id": "sched_2001",
-  "display_name": "Rise Time - Weekend Night - Varies",
-  "description": "",
+  "display_name": "Self-reported out-bed time on weekend nights, non-school nights, non-work nights or days - varies",
+  "description": "On days you are not working, what time do you usually get out of bed after sleeping?  It varies",
   "type": "choices",
-  "domain": "0=no, 1=yes, if yes, then sched_1100=-44"
+  "domain": "noyes",
+  "labels": [
+    "sleep_timing"
+  ]
 }

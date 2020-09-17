@@ -1,6 +1,6 @@
 {
   "id": "mdhx_6650",
-  "display_name": "Type of eating disorder - Other Description",
+  "display_name": "Eating Disorder, description: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

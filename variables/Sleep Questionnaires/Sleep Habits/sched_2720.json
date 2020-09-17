@@ -2,7 +2,7 @@
   "id": "sched_2720",
   "display_name": "Self-reported sleep latency on week nights, school nights, work nights or days, next shift",
   "description": "Calculated - Total self-reported sleep latency in minutes",
-  "type": null,
+  "type": "numeric",
   "labels": [
     "sleep_latency"
   ]

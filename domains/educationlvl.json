@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "high school",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Undergraduate",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "graduate",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "non-degree program",
+    "description": ""
+  }
+]

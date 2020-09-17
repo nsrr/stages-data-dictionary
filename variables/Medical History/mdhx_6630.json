@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6630",
-  "display_name": "Type of bipolar",
+  "display_name": "Bipolar Disorder, type: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=bipolar i\n1=bipolar ii\n-55=dont know"
+  "domain": "typebipolar"
 }

@@ -1,0 +1,10 @@
+{
+  "id": "narc_0710",
+  "display_name": "Two most frequent situations - Abrupt dropping of head and/or shoulders",
+  "description": "Please indicate which muscles are affected when you experience muscle weakness.  Then specify the two situations which are most frequently associated with each type of muscle weakness.",
+  "type": "choices",
+  "domain": "trigger",
+  "labels": [
+    "narcolepsy"
+  ]
+}

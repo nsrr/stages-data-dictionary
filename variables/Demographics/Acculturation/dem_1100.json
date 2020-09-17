@@ -3,5 +3,5 @@
   "display_name": "English as native language",
   "description": "Is English your native language?",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

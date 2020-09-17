@@ -1,0 +1,32 @@
+[
+  {
+    "value": "0",
+    "display_name": "More than once a week",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Every week",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Every 2 weeks",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Every 3 weeks",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Every month",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
+    "description": ""
+  }
+]

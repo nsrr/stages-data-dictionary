@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "Nightly",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Most nights",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Inconsistently",
+    "description": ""
+  }
+]

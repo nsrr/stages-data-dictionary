@@ -1,7 +1,7 @@
 {
   "id": "dem_0900",
-  "display_name": "Ethnicity (Hispanic or Latino) of the Participant",
+  "display_name": "Participant's ethnicity (hispanic or latino)",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

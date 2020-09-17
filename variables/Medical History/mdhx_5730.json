@@ -1,7 +1,7 @@
 {
   "id": "mdhx_5730",
-  "display_name": "Type of cardiovascular problems/surgeries",
-  "description": "",
+  "display_name": "Cardiovascular Problem, other, type: Self-reported",
+  "description": "Which cardiovascular/heart problems do you have or have you had?  ",
   "type": "choices",
-  "domain": "0=orthostatic hypotension \n1=atrial fibrillation \n2=pacemaker\n3=coronary artery disease (cad) / angina pectoris\n4=myocardial infarction \n5=heart valve problems\n6=thrombosis/embolism \n7=cardiac surgeries\n8=other"
+  "domain": "cardio"
 }

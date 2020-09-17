@@ -1,0 +1,10 @@
+{
+  "id": "map_1130",
+  "display_name": "Hypnogogic Hallucinations, age of first episode",
+  "description": "During the last month on how many nights or days per week have you had or been told you had the following (please check only one box per question)? Find yourself in a vivid dreamlike state when falling asleep even though you know you are awake, if so, how old were you when this first occurred?",
+  "type": "integer",
+  "units": "years",
+  "labels": [
+    "hypnogogic_hallucinations"
+  ]
+}

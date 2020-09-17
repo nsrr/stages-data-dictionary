@@ -1,7 +1,0 @@
-{
-  "id": "map_lr",
-  "display_name": "MAP Likelihood  Ration (LR)",
-  "description": "",
-  "type": null,
-  "calculation": "See Documentation from G Maslin - first x is calculated where [x=-8.16+(1.299*index_1)+ (0.163*BMI)-(0.028*index_1*BMI)+(0.032*Age)+(1.278*Gender)] then "
-}

@@ -1,6 +1,6 @@
 {
   "id": "mdhx_3030",
-  "display_name": "Type of Cardiovascular Problem - Other Details",
+  "display_name": "Cardiovascular Problem, detail: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

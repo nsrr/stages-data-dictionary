@@ -1,0 +1,10 @@
+{
+  "id": "sched_2100",
+  "display_name": "How often change work shifts",
+  "description": "Please indicate how often you change work shifts",
+  "type": "choices",
+  "domain": "weekfreq",
+  "labels": [
+    "work_schedule"
+  ]
+}

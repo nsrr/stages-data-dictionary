@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6710",
-  "display_name": "Type of medical problems",
-  "description": "",
+  "display_name": "Medical Problem, type: Self-reported",
+  "description": "Which medical problems do you have or have you had?  ",
   "type": "choices",
-  "domain": "0=cancer\n1=glaucoma\n2=blindness\n3=tinnitus (perception of noise or ringing in the ear)\n4=autoimmune disease (e.g. diabetes type 1, rheumatoid arthritis, multiple sclerosis, lupus, psoriasis, etc.)\n5=hematologic diseases\n6=erectile dysfunction\n7=other surgeries\n8=other conditions not listed above"
+  "domain": "otherprob"
 }

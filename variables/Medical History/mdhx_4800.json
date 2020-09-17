@@ -1,7 +1,7 @@
 {
   "id": "mdhx_4800",
-  "display_name": "Anxiety Disorders",
+  "display_name": "Anxiety Disorder: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

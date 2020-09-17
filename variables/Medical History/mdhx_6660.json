@@ -1,6 +1,6 @@
 {
   "id": "mdhx_6660",
-  "display_name": "Type of psychiatric/mental health problems - Other Description",
+  "display_name": "Psychiatric or Mental Health Problem, description: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

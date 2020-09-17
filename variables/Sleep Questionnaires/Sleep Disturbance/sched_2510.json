@@ -2,7 +2,7 @@
   "id": "sched_2510",
   "display_name": "Self-reported total awake duration (i.e. wake after sleep onset) on week nights, school nights, work nights or days, current shift",
   "description": "On average, how much total time do you spend awake during these awakenings on work (school) nights?   _____ minutes",
-  "type": null,
+  "type": "integer",
   "units": "minutes",
   "labels": [
     "insomnia"

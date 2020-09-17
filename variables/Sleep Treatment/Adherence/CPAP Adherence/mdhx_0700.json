@@ -1,7 +1,7 @@
 {
   "id": "mdhx_0700",
-  "display_name": "How Many Nights/Week Use PAP",
+  "display_name": "Frequency of PAP use",
   "description": "How many nights do you use the device during an average week?",
-  "type": null,
-  "units": "day"
+  "type": "integer",
+  "units": "days"
 }

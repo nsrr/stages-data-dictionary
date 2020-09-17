@@ -1,0 +1,10 @@
+{
+  "id": "_rls_probability",
+  "display_name": "RLS Current Probability",
+  "description": "",
+  "type": "numeric",
+  "calculation": "Current Probability: Likely if rls1 or rls2=Yes-Present AND rls3=No AND rls4=Yes or DK AND rls5=Yes; Possible if rls1 or rls2=Yes- Present, AND rls3=No AND rls4 or rls5=No; Unlikely if rls1 and rls2=No or Yes- Past OR rls3=Yes\nPast Probability: Possible:  rls1 or rls2=Yes, in the Past, AND rls3=No",
+  "labels": [
+    "rls_plms"
+  ]
+}

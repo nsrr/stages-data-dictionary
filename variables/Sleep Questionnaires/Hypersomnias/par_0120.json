@@ -1,8 +1,0 @@
-{
-  "id": "par_0120",
-  "display_name": "Frequency of leg twitch/kick, number of episodes per week",
-  "description": "How often do your legs twitch or kick when you sleep? ",
-  "type": null,
-  "units": "events per week",
-  "calculation": "If par_0110=0 then par_0120=par_0100*7, If par_0110=1 then par_0120=par_0100,    If par_0110=2 then par_0120=par_0100/4, If par_0110=3 then par_0120=par_0100/52"
-}

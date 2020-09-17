@@ -1,0 +1,10 @@
+{
+  "id": "rls_0900",
+  "display_name": "Did it begin with pregnancy",
+  "description": "Approximately how old were you when the unpleasant sensations in your legs stopped occurring?",
+  "type": "choices",
+  "domain": "noyespreg",
+  "labels": [
+    "rls_plms"
+  ]
+}

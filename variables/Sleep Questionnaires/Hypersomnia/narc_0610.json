@@ -1,0 +1,10 @@
+{
+  "id": "narc_0610",
+  "display_name": "Two most frequent situations - Sagging or dropping of jaw",
+  "description": "Please indicate which muscles are affected when you experience muscle weakness.  Then specify the two situations which are most frequently associated with each type of muscle weakness.",
+  "type": "choices",
+  "domain": "trigger",
+  "labels": [
+    "narcolepsy"
+  ]
+}

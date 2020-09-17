@@ -3,7 +3,7 @@
   "display_name": "Sleep affected work",
   "description": "If you have experienced any sleep symptoms during the past month, please check-mark the appropriate number to let us know how your sleep is affecting your daily life.",
   "type": "choices",
-  "domain": "0=not at all, 1=a little bit, 2=moderately, 3=quite a bit, 4=extremely",
+  "domain": "degree5",
   "labels": [
     "sleep_related_impairment"
   ]

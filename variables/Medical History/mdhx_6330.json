@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6330",
-  "display_name": "Type of Metabolic/Hormone/Endocrine problems",
-  "description": "",
+  "display_name": "Endocrine or Metabolic Problem, type: Self-reported",
+  "description": "Which hormone/endocrine problems do you have or have you had?  ",
   "type": "choices",
-  "domain": "0=high triglyceride level\n1=thyroid problems\n2=iron deficiency\n3=other "
+  "domain": "endocrine"
 }

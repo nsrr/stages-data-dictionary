@@ -1,0 +1,11 @@
+{
+  "id": "narc_1701",
+  "display_name": "Muscle weakness, age of first episode, don't know",
+  "description": "How old were you the first time you experience an episode of muscle weakness?  Don't know",
+  "type": "choices",
+  "domain": "noyesdontknow",
+  "calculation": "If 1, then narc_1700=-55",
+  "labels": [
+    "narcolepsy"
+  ]
+}

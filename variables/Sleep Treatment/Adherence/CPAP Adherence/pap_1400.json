@@ -3,5 +3,5 @@
   "display_name": "My mask size",
   "description": "",
   "type": "choices",
-  "domain": "0=petite, 1=extra small,2=small, 3=wide, 4=medium, 5=large, 6=extra large, 7=other, -55=don't know"
+  "domain": "masksize"
 }

@@ -1,6 +1,10 @@
 {
   "id": "sched_1701",
-  "display_name": "Bed Time - Work Night or Day  (3rd Shift) - Varies",
-  "description": "",
-  "type": null
+  "display_name": "Self-reported in-bed time on week nights, school nights, work nights or days, 3rd shift - varies",
+  "description": "When working these hours, what time do you usually get into bed to sleep?   It varies.",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "sleep_timing"
+  ]
 }

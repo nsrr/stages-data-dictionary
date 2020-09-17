@@ -1,6 +1,6 @@
 {
   "id": "mdhx_5120",
-  "display_name": "Other - Description",
+  "display_name": "Other Condition, description: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

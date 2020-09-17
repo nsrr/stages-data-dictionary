@@ -1,7 +1,7 @@
 {
   "id": "dem_1010",
-  "display_name": "Race of the Participant (Sub)",
+  "display_name": "Participant's race (sub)",
   "description": "",
   "type": "choices",
-  "domain": "0=european, 1=middle eastern, 2=n. african, 3=other white/european, 4=asian indian, 5=chinese, 6=filipino, 7=japanese, 8=korean, 9=vietnamese, 10=other asian, 11=native hawaiian, 12=guamanian or chamorro, 13=samoan, 14=other pacific islander"
+  "domain": "subrace"
 }

@@ -3,5 +3,5 @@
   "display_name": "Type of PAP Device",
   "description": "What type of PAP device do you have?",
   "type": "choices",
-  "domain": "0=cpap, 1=bilevel, -55=don't know"
+  "domain": "paptype"
 }

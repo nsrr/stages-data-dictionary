@@ -3,5 +3,5 @@
   "display_name": "Routinely travel to other time zones",
   "description": "Do you routinely travel to other time zones?",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

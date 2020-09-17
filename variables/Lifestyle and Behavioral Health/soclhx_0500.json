@@ -2,7 +2,7 @@
   "id": "soclhx_0500",
   "display_name": "Exercise, times per week",
   "description": "How often do you exercise?  ",
-  "type": null,
+  "type": "integer",
   "units": "events per week",
   "calculation": "?"
 }

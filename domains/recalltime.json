@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "In the last week",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "In the last month",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "In the last year",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "More then a year ago",
+    "description": ""
+  }
+]

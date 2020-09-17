@@ -1,0 +1,32 @@
+[
+  {
+    "value": "0",
+    "display_name": "Chronic pain",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Chronic pain",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Frequent headaches/migraines",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Fibromyalgia",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Chronic fatigue syndrome",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other",
+    "description": ""
+  }
+]

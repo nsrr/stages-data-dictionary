@@ -1,0 +1,10 @@
+{
+  "id": "par_0500",
+  "display_name": "Frequency of acting out dreams, times",
+  "description": "During sleep, how often do you (or have been told that you) shout, scream, punch or flail your arms in the air? Times",
+  "type": "integer",
+  "units": "event count",
+  "labels": [
+    "bruxism"
+  ]
+}

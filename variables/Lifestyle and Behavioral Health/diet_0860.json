@@ -2,6 +2,6 @@
   "id": "diet_0860",
   "display_name": "Usual additional meal/snack time4",
   "description": "",
-  "type": null,
+  "type": "numeric",
   "units": "time"
 }

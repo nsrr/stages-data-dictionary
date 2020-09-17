@@ -1,0 +1,32 @@
+[
+  {
+    "value": "0",
+    "display_name": "Early morning",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Late morning",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Early afternoon",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Late afternoon",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Between supper and bedtime",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Time of day varies",
+    "description": ""
+  }
+]

@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6610",
-  "display_name": "Type of Psychiatric/mental health problems",
-  "description": "",
+  "display_name": "Psychiatric or Mental Health Problem, type: Self-reported",
+  "description": "Which psychiatric/mental health problems do you have or have you had?  ",
   "type": "choices",
-  "domain": "0=anxiety disorders (generalized anxiety, panic attacks)\n1=obsessive compulsive disorder (ocd)\n2=post traumatic stress disorder (ptsd)\n3=major depression \n4=bi-polar disorder\n5=psychosis (schizophrenia)\n6=attention deficit disorder (add)/attention-deficit/hyperactivity disorder (adhd)\n7=eating disorder\n8=other"
+  "domain": "psych"
 }

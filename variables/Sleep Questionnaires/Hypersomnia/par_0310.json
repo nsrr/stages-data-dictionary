@@ -1,0 +1,10 @@
+{
+  "id": "par_0310",
+  "display_name": "Frequency of eat/drink in sleep, time frame",
+  "description": "How often do you awaken during the night and are unable to return to sleep without having something to eat or drink (other than water for thirst or a dry mouth)? Per night/week/month/year",
+  "type": "choices",
+  "domain": "weekmonthyear",
+  "labels": [
+    "sleep_eat"
+  ]
+}

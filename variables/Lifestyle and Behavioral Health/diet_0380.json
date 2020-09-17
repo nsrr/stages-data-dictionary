@@ -1,6 +1,6 @@
 {
   "id": "diet_0380",
-  "display_name": "Please approximate the percent of 24 hour food intake for each meal - Snack5",
-  "description": "",
-  "type": null
+  "display_name": "Percentage of snack 5 among all food intake over 24 hours",
+  "description": "Please approximate the percent of 24 hour food intake for each meal - Snack5",
+  "type": "numeric"
 }

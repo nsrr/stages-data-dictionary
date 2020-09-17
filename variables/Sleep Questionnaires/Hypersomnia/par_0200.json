@@ -1,0 +1,10 @@
+{
+  "id": "par_0200",
+  "display_name": "Frequency of sleepwalk, number of times",
+  "description": "How often do you walk in your sleep? Times",
+  "type": "integer",
+  "units": "event count",
+  "labels": [
+    "sleepwalk"
+  ]
+}

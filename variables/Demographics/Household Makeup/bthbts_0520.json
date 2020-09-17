@@ -1,7 +1,7 @@
 {
   "id": "bthbts_0520",
-  "display_name": "How many are children aged 6-17 years?",
-  "description": "",
-  "type": null,
+  "display_name": "Number of children aged 6 - 17 living in your household",
+  "description": "How many are children aged 6-17 years?",
+  "type": "integer",
   "units": "count"
 }

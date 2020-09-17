@@ -1,7 +1,0 @@
-{
-  "id": "par_0800",
-  "display_name": "Seizures during sleep",
-  "description": "Do you have seizures, convulsions or fits during sleep? ",
-  "type": "choices",
-  "domain": "0=no, 1=yes, -55 =don't know"
-}

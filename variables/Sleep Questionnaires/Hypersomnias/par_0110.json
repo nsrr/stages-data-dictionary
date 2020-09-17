@@ -1,7 +1,0 @@
-{
-  "id": "par_0110",
-  "display_name": "Frequency of leg twitch/kick, time frame",
-  "description": "How often do your legs twitch or kick when you sleep? Per night/week/month/year",
-  "type": "choices",
-  "domain": "0=week, 1=month, 2=year"
-}

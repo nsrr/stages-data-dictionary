@@ -1,7 +1,7 @@
 {
   "id": "mdhx_3220",
-  "display_name": "Type of GI or Digestive Problem",
-  "description": "",
+  "display_name": "Gastrointestinal or Digestive Problem, type: Self-reported",
+  "description": "Which GI/digestive problems or surgeries do you have or have you had?  ",
   "type": "choices",
-  "domain": "0=gerd, 1=ibs, 2=other, -55=don't know"
+  "domain": "giprob4"
 }

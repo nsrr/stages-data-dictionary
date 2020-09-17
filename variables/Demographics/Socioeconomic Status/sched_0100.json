@@ -1,7 +1,0 @@
-{
-  "id": "sched_0100",
-  "display_name": "Education Level of the Participant",
-  "description": "Please indicate the level of school you are attending",
-  "type": "choices",
-  "domain": "0=high school, 1=undergraduate, 2=graduate, 3=non-degree program"
-}

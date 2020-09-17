@@ -1,7 +1,7 @@
 {
   "id": "diet_0841",
-  "display_name": "No additional meal/snack2",
+  "display_name": "Usually no additional meal/snack2",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes, if yes, then diet_0840=-44"
+  "domain": "noyes"
 }

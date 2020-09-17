@@ -1,7 +1,7 @@
 {
   "id": "mdhx_1200",
-  "display_name": "Currently Pregnant",
+  "display_name": "Pregnancy, current",
   "description": "Are you currently pregnant?",
   "type": "choices",
-  "domain": "0=no, 1=yes, -55=don't know"
+  "domain": "noyesdontknow"
 }

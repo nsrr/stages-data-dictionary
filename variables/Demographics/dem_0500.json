@@ -1,7 +1,7 @@
 {
   "id": "dem_0500",
-  "display_name": "Participant's Sex",
+  "display_name": "Participant's sex",
   "description": "",
   "type": "choices",
-  "domain": "0=male, 1=female"
+  "domain": "sex"
 }

@@ -3,7 +3,7 @@
   "display_name": "Feeling refreshed after nap",
   "description": "After a nap, do you feel refreshed (not sleepy anymore)?",
   "type": "choices",
-  "domain": "0=rarely, 1=sometimes, 2=half the time, 3=often, 4=always",
+  "domain": "rarely",
   "labels": [
     "sleep_hygiene"
   ]

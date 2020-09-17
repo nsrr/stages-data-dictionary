@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "Never",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Only a few times ever",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Less than once/month",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "At least once/month but less than once/week",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "At least once/week",
+    "description": ""
+  }
+]

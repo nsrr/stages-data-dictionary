@@ -3,7 +3,7 @@
   "display_name": "Horne-Ostberg Morningness-Eveningness Questionnaire: Morning or evening type",
   "description": "One hears about morning and evening types of people.  Which ONE of these types do you consider yourself to be?",
   "type": "choices",
-  "domain": "6=definitely morning, 4=more morning than evening, 2=more evening than morning, 0=definitely evening",
+  "domain": "earlymorning4",
   "labels": [
     "homeq",
     "homeq_04type"

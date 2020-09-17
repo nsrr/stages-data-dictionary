@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6910",
-  "display_name": "Genetic testing performed through doctor or a company such as 23andMe",
+  "display_name": "Genetic Testing, source: Self-reported",
   "description": "Was test done through your doctor or through a company like 23andMe",
   "type": "choices",
-  "domain": "0=doctor, 1=company"
+  "domain": "gentest"
 }

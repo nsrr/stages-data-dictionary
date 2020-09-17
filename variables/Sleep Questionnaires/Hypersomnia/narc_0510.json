@@ -1,0 +1,10 @@
+{
+  "id": "narc_0510",
+  "display_name": "Frequency of muscle weakness when making verbal response in playful context, before treatment",
+  "description": "How often do you currently experience episodes of muscle weakness in your legs or buckling of your knees in the following situations",
+  "type": "choices",
+  "domain": "freq",
+  "labels": [
+    "narcolepsy"
+  ]
+}

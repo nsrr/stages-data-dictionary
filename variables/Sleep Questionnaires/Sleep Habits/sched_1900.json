@@ -2,6 +2,9 @@
   "id": "sched_1900",
   "display_name": "Self-reported in-bed time on weekend nights, non-school nights, non-work nights or days",
   "description": "On days you are not working, what time do you usually get into bed to sleep? ",
-  "type": null,
-  "units": "time"
+  "type": "time",
+  "units": "time",
+  "labels": [
+    "sleep_timing"
+  ]
 }

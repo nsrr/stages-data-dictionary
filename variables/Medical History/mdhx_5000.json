@@ -1,7 +1,7 @@
 {
   "id": "mdhx_5000",
-  "display_name": "Add/Adhd",
+  "display_name": "Attention Deficit Disorder or Attention Deficit Hyperactivity Disorder: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

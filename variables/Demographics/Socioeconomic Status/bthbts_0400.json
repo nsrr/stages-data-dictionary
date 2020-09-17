@@ -1,7 +1,0 @@
-{
-  "id": "bthbts_0400",
-  "display_name": "Employment Status of the Participant",
-  "description": "Please indicate what work or school schedule(s) best represents your current situation.  You can choose more than one.  Are you currently:",
-  "type": "choices",
-  "domain": "0=employed full time, 1=employed part time, 2=unemployed, 3=student full time, 4=student part time, 5=caretaker of another person, 6=home maker, 7=retired, 8=on disability"
-}

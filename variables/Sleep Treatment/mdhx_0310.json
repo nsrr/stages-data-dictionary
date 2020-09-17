@@ -1,6 +1,6 @@
 {
   "id": "mdhx_0310",
-  "display_name": "Current Treatment - Other Description",
+  "display_name": "Current treatment for sleep problem(s) - other description",
   "description": "What type of treatment(s) are you currently using for your sleep problem(s)?  Describe other",
-  "type": null
+  "type": "text"
 }

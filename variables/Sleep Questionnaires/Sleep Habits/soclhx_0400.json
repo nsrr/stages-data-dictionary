@@ -3,7 +3,7 @@
   "display_name": "Easily awakened after nap",
   "description": "When you nap, can you easily waken?",
   "type": "choices",
-  "domain": "0=rarely, 1=sometimes, 2=half the time, 3=often, 4=always",
+  "domain": "rarelywake",
   "labels": [
     "sleep_hygiene"
   ]

@@ -1,0 +1,67 @@
+[
+  {
+    "value": "0",
+    "display_name": "Employed full-time (includes volunteer work)",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Jan",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Feb",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "March",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "April",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "May",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "June",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "July",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Aug",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Sept",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "Oct",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "Nov",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "Dec",
+    "description": ""
+  }
+]

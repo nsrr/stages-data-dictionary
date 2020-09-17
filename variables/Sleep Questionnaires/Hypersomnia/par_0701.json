@@ -1,0 +1,10 @@
+{
+  "id": "par_0701",
+  "display_name": "Frequency of nightmares, never or don't know",
+  "description": "How often do you have nightmares (frightening dreams)? Never or don't know",
+  "type": "choices",
+  "domain": "noyesdontknow",
+  "labels": [
+    "nightmare"
+  ]
+}

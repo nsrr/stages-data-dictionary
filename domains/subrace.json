@@ -1,0 +1,77 @@
+[
+  {
+    "value": "0",
+    "display_name": "European",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Middle Eastern",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "North African",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Asian Indian",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Chinese",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Filipino",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Japanese",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Korean",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Vietnamese",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "Other Asian",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "Native Hawaiian",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "Guamanian or Chamorro",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "Samoan",
+    "description": ""
+  },
+  {
+    "value": "14",
+    "display_name": "Other Pacific Islander",
+    "description": ""
+  }
+]

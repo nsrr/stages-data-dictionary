@@ -1,0 +1,10 @@
+{
+  "id": "par_0401",
+  "display_name": "Frequency of teeth grinding, never or don't know",
+  "description": "Do you grind your teeth while you sleep? Never or don't know",
+  "type": "choices",
+  "domain": "noyesdontknow",
+  "labels": [
+    "bruxism"
+  ]
+}

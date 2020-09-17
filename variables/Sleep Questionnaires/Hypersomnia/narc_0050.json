@@ -1,0 +1,10 @@
+{
+  "id": "narc_0050",
+  "display_name": "Currently being treated for narcolepsy",
+  "description": "Are you currently being treated for Narcolepsy?  ",
+  "type": "choices",
+  "domain": "noyesdontknow",
+  "labels": [
+    "narcolepsy"
+  ]
+}

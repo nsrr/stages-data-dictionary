@@ -1,6 +1,6 @@
 {
   "id": "mdhx_6730",
-  "display_name": "Type of cancer - Other Description",
+  "display_name": "Cancer, type: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

@@ -1,0 +1,10 @@
+{
+  "id": "slpy_0201",
+  "display_name": "Sleep attacks, never",
+  "description": "How often do you experience sudden sleep attacks that are so intense that you must stop what you are doing or take a nap?  Never",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "subjective_sleepiness"
+  ]
+}

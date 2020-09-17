@@ -3,7 +3,7 @@
   "display_name": "Insomnia Severity Index: Problems waking up too early",
   "description": "Item from Insomnia Severity Index. (Morin CM, Insomnia, psychological assessment and management. Guilford Press, New York, 1993)[https://www.thoracic.org/members/assemblies/assemblies/srn/questionaires/isi.php]<br><br> [Search for all ISI variables within this dataset](https://sleepdata.org/datasets/stages/variables?search=isi)",
   "type": "choices",
-  "domain": "0=none, 1=mild, 2=moderate, 3=severe, 4=very severe",
+  "domain": "severity",
   "labels": [
     "isi",
     "isi_03wakeearly"

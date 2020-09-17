@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6310",
-  "display_name": "Diabetes Type 2",
+  "display_name": "Type 2 Diabetes: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

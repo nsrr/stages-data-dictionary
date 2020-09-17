@@ -2,6 +2,9 @@
   "id": "sched_1700",
   "display_name": "Self-reported in-bed time on week nights, school nights, work nights or days, 3rd shift",
   "description": "When working these hours, what time do you usually get into bed to sleep?   ",
-  "type": null,
-  "units": "time"
+  "type": "time",
+  "units": "time",
+  "labels": [
+    "sleep_timing"
+  ]
 }

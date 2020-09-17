@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Mexican, Mexican American, Chicano",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Puerto Rican",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Cuban",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Another Hispanic, Latino, or Spanish group (for example Argentinean, Colombian, Dominican, Nicaraguan, Salvadoran, Spaniard)",
+    "description": ""
+  }
+]

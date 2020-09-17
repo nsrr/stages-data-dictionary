@@ -1,7 +1,0 @@
-{
-  "id": "famhx_0310_1",
-  "display_name": "Narcolepsy Relations",
-  "description": "",
-  "type": "choices",
-  "domain": "0=mother, 1=father, 2=sibling, 3=child"
-}

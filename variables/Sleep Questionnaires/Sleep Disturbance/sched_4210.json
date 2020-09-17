@@ -1,7 +1,10 @@
 {
   "id": "sched_4210",
-  "display_name": "Amount of sleep needed to feel fully rested",
+  "display_name": "Amount of sleep needed to feel fully rested, minutes",
   "description": "How many hours of sleep do you need to feel fully rested? _____ minutes  ",
-  "type": null,
-  "units": "minute"
+  "type": "integer",
+  "units": "minute",
+  "labels": [
+    "sleep_satisfaction"
+  ]
 }

@@ -1,0 +1,7 @@
+{
+  "id": "sched_0100",
+  "display_name": "Level of school",
+  "description": "Please indicate the level of school you are attending",
+  "type": "choices",
+  "domain": "educationlvl"
+}

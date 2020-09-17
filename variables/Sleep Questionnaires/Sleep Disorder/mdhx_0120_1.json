@@ -1,7 +1,7 @@
 {
   "id": "mdhx_0120_1",
-  "display_name": "Previous Diagnosis Sleep Disorder",
+  "display_name": "archived variable?",
   "description": "Please indicate if you have been diagnosed with any of the following sleep disorders.  Check all that apply. ",
   "type": "choices",
-  "domain": "0=no previous dx, 1=sleep apnea, 2=insomnia, 3=circadian rhythm disturbance, 4=rls/plm, 5=narcolepsy, 6=rbd, 7=sleepwalking, 8=other"
+  "domain": "slpdx"
 }

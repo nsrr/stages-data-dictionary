@@ -1,7 +1,7 @@
 {
   "id": "mdhx_2000",
-  "display_name": "Cardiac Surgeries",
+  "display_name": "Cardiac Surgery: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

@@ -1,7 +1,7 @@
 {
   "id": "mdhx_3120",
-  "display_name": "Type of Pulmonary Problem",
-  "description": "",
+  "display_name": "Pulmonary Problem, type: Self-reported",
+  "description": "Which pulmonary/lung problems do you have or have you had?  ",
   "type": "choices",
-  "domain": "0=asthma, 1=copd, 2=other, -55=don't know"
+  "domain": "copd"
 }

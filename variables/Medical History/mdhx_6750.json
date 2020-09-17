@@ -1,6 +1,6 @@
 {
   "id": "mdhx_6750",
-  "display_name": "Type of autoimmune disease - Other Description",
+  "display_name": "Autoimmune Disorder, type: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

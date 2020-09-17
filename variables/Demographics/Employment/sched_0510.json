@@ -1,0 +1,10 @@
+{
+  "id": "sched_0510",
+  "display_name": "Do you work a split shift?",
+  "description": "Is your shift divided into two or more periods of time with several hours off in between? ",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "work_schedule"
+  ]
+}

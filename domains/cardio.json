@@ -1,0 +1,47 @@
+[
+  {
+    "value": "0",
+    "display_name": "Orthostatic hypotension",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Atrial fibrillation",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Pacemaker",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Coronary artery disease (CAD)/angina pectoris (blocked coronary arteries)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Myocardial infarction (heart attack)",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Heart valve problems",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Thrombosis/Embolism (deep vein thrombosis)",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Cardiac (heart) surgeries",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Other",
+    "description": ""
+  }
+]

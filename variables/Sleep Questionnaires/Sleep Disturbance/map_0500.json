@@ -1,9 +1,9 @@
 {
   "id": "map_0500",
-  "display_name": "Frequent tossing, turning, thrashing, days per week",
+  "display_name": "Frequent tossing, turning, thrashing",
   "description": "During the last month on how many nights or days per week have you had or been told you had the following (please check only one box per question)? Frequent tossing, turning, or thrashing",
   "type": "choices",
-  "domain": "0=never, 1=rarely, 2=sometimes, 3=frequently, 4=always, -55=don't know",
+  "domain": "neveronlyfreq",
   "labels": [
     "insomnia"
   ]

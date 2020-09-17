@@ -2,7 +2,7 @@
   "id": "sched_2300",
   "display_name": "Self-reported total sleep duration (i.e. total sleep time) on week nights, school nights, work nights or days, current shift",
   "description": "On average, how much sleep do you get on work (school) nights? Hours",
-  "type": null,
+  "type": "integer",
   "units": "hours",
   "labels": [
     "sleep_duration"

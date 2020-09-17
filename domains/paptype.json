@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "CPAP (fixed pressure or auto-CPAP)",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": BiPAP/BiLevel (fixed pressure, auto-BiPAP, Adaptive Servo-Ventilation Machine (ASV), Average Volume Assured Pressure Support (AVAPS), other)",
+    "description": ""
+  },
+  {
+    "value": "-55",
+    "display_name": "Do not know",
+    "description": ""
+  }
+]

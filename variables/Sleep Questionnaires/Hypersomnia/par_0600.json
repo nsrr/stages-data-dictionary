@@ -1,0 +1,10 @@
+{
+  "id": "par_0600",
+  "display_name": "Frequency of violent behavior during sleep, times",
+  "description": "How often do you have violent or injurious behavior during sleep? Times",
+  "type": "integer",
+  "units": "event count",
+  "labels": [
+    "sleepwalk"
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "Rarely (never)",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Sometimes (mostly not refreshed)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Half the time",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Often (almost every nap)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Always (every nap)",
+    "description": ""
+  }
+]

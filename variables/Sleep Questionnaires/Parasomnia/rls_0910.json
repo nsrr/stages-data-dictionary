@@ -1,0 +1,10 @@
+{
+  "id": "rls_0910",
+  "display_name": "Did it end with same pregnancy",
+  "description": "Did the unpleasant sensations in your legs begin when you were pregnant?",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "rls_plms"
+  ]
+}

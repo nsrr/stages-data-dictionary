@@ -1,0 +1,10 @@
+{
+  "id": "narc_0800",
+  "display_name": "Weakness in arms",
+  "description": "Please indicate which muscles are affected when you experience muscle weakness.  Then specify the two situations which are most frequently associated with each type of muscle weakness.",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "narcolepsy"
+  ]
+}

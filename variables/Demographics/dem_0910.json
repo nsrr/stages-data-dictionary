@@ -1,7 +1,7 @@
 {
   "id": "dem_0910",
-  "display_name": "Ethnicity (Hispanic or Latino Origin) of the Participant",
+  "display_name": "Participant's ethnicity (sub hispanic or latino origin)",
   "description": "",
   "type": "choices",
-  "domain": "0=mexican, mex/amer, chicano, 1=puerto rican, 2=cuban, 3=other"
+  "domain": "hisorigin"
 }

@@ -1,7 +1,7 @@
 {
   "id": "mdhx_3700",
-  "display_name": "Cold Hands/Feet",
+  "display_name": "Cold Hands or Feet: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

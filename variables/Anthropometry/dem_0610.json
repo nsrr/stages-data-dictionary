@@ -2,6 +2,6 @@
   "id": "dem_0610",
   "display_name": "Height in inches",
   "description": "",
-  "type": null,
+  "type": "integer",
   "units": "inches"
 }

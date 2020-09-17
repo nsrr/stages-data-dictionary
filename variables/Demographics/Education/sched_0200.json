@@ -1,0 +1,9 @@
+{
+  "id": "sched_0200",
+  "display_name": "Days per week in school",
+  "description": "How many days per week do you typically attend school? ",
+  "type": "integer",
+  "labels": [
+    "work_schedule"
+  ]
+}

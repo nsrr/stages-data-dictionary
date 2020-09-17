@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "Significantly increases sleepiness",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Increases sleepiness",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "No effect",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Increases alertness",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Significantly increases alertness",
+    "description": ""
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "id": "par_0901",
+  "display_name": "Remember dreams, never or don't know",
+  "description": "How often do you remember your dreams? Never or don't know",
+  "type": "choices",
+  "domain": "noyesdontknow"
+}

@@ -3,5 +3,5 @@
   "display_name": "Cigarette smoking, time frame",
   "description": "How many cigarettes did you typically smoke? Per day/week",
   "type": "choices",
-  "domain": "0=day, 1=week"
+  "domain": "dayweek"
 }

@@ -2,7 +2,7 @@
   "id": "soclhx_0210",
   "display_name": "Self-reported usual duration of naps",
   "description": "What is the usual length of your naps?  - minutes",
-  "type": null,
+  "type": "integer",
   "units": "minutes",
   "labels": [
     "sleep_hygiene"

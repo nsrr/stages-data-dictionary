@@ -2,6 +2,6 @@
   "id": "soclhx_1200",
   "display_name": "Cigarette smoking, age started",
   "description": "How old were you when you started smoking?",
-  "type": null,
+  "type": "integer",
   "units": "years"
 }

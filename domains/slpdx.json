@@ -1,0 +1,52 @@
+[
+  {
+    "value": "0",
+    "display_name": "I have never been diagnosed with a sleep disorder",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Sleep Apnea (breathing stops at night)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Insomnia",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Circadian Rhythm Disturbance (Advanced/Delayed Sleep Phase, Shift work)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Restless Leg Syndrome and/or Periodic Limb Movements",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Narcolepsy or Cataplexy",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "REM Behavior Disorder (act out dreams in my sleep)",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Sleepwalking",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Other (please specify)",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Hypersomnia",
+    "description": ""
+  }
+]

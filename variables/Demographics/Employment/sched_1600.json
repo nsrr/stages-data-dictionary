@@ -1,0 +1,10 @@
+{
+  "id": "sched_1600",
+  "display_name": "Self-reported work end time, 3rd shift",
+  "description": "When working these hours, what time do you usually get out of bed after sleeping?   ",
+  "type": "time",
+  "units": "time",
+  "labels": [
+    "work_schedule"
+  ]
+}

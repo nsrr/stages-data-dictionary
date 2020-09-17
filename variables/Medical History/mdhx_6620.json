@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6620",
-  "display_name": "Type of anxiety disorder",
-  "description": "",
+  "display_name": "Anxiety Disorder, type: Self-reported",
+  "description": "Which anxiety disorder do you have or have you had?  ",
   "type": "choices",
-  "domain": "0=panic disorder/attack\n1=social anxiety disorder\n2=generalized anxiety disorder"
+  "domain": "anxiety"
 }

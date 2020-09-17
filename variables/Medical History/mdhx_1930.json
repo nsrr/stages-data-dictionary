@@ -1,6 +1,6 @@
 {
   "id": "mdhx_1930",
-  "display_name": "Type of Apnea Surgery - Other Details",
+  "display_name": "Apnea Surgery, details: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

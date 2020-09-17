@@ -1,0 +1,10 @@
+{
+  "id": "narc_1200",
+  "display_name": "Can you hear during a typical episode",
+  "description": "During a typical episode of muscle weakness",
+  "type": "choices",
+  "domain": "neveralways",
+  "labels": [
+    "narcolepsy"
+  ]
+}

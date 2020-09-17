@@ -1,0 +1,10 @@
+{
+  "id": "sched_1501",
+  "display_name": "Self-reported work start time, no 3rd shift",
+  "description": "",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "work_schedule"
+  ]
+}

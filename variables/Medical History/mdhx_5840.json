@@ -1,6 +1,6 @@
 {
   "id": "mdhx_5840",
-  "display_name": "Pulmonary problems - Other Description",
+  "display_name": "Pulmonary Problem, other, description: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

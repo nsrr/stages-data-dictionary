@@ -1,6 +1,6 @@
 {
   "id": "mdhx_6520",
-  "display_name": "Chronic pain - Description",
+  "display_name": "Chronic Pain, type: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

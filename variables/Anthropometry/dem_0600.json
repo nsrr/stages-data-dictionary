@@ -2,6 +2,6 @@
   "id": "dem_0600",
   "display_name": "Height in feet",
   "description": "",
-  "type": null,
+  "type": "integer",
   "units": "feet"
 }

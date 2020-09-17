@@ -2,6 +2,6 @@
   "id": "soclhx_1800",
   "display_name": "Street or recreational drugs consumption, age stopped",
   "description": "How old were you when you stopped using drugs regularly?",
-  "type": null,
+  "type": "integer",
   "units": "years"
 }

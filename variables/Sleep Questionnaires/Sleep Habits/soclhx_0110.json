@@ -3,7 +3,7 @@
   "display_name": "Self-reported frequency of napping",
   "description": "How often do you nap? Per day/week/month",
   "type": "choices",
-  "domain": "0=week, 1=month, 2=year",
+  "domain": "weekmonthyear",
   "labels": [
     "sleep_hygiene"
   ]

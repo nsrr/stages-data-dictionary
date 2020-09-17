@@ -1,0 +1,47 @@
+[
+  {
+    "value": "0",
+    "display_name": "Petite",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Extra small",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Small",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Wide",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Medium",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Large",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Extra large",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "-55",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

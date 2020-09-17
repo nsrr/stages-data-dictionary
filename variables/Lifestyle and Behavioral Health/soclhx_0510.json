@@ -2,6 +2,6 @@
   "id": "soclhx_0510",
   "display_name": "Exercise, number of times",
   "description": "How often do you exercise? Times",
-  "type": null,
+  "type": "integer",
   "units": "event count"
 }

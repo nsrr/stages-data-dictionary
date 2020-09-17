@@ -1,0 +1,10 @@
+{
+  "id": "sched_0600",
+  "display_name": "Days per week at work",
+  "description": "How many days per week do you typically work? ",
+  "type": "integer",
+  "units": "days per week",
+  "labels": [
+    "work_schedule"
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "id": "bthbts_0510",
-  "display_name": "How many are children aged 5 years or younger? ",
-  "description": "",
-  "type": null,
+  "display_name": "Number of children aged 5 years or younger living in your household",
+  "description": "How many are children aged 5 years or younger? ",
+  "type": "integer",
   "units": "count"
 }

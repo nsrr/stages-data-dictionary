@@ -1,7 +1,7 @@
 {
   "id": "mdhx_0300",
-  "display_name": "Current Treatment",
-  "description": "What type of treatment(s) are you currently using for your sleep problem(s)?  Check all that apply. <br><br> 9/2017 Wording changed for answer options 1, 9, and 10 (\"(prescription or over the counter)\" added to 1, \"(e.g. melatonin, vitamins)\" added to 9, \"for insomnia\" added to 10",
+  "display_name": "Current treatment for sleep problem(s)",
+  "description": "What type of treatment(s) are you currently using for your sleep problem(s)?  Check all that apply.",
   "type": "choices",
-  "domain": "0=i am not currently being treated, 1=medication (prescription or over the counter), 2=cpap/bipap type machine, 3=supplemental oxygen, 4=prior sleep apnea surgery, 5=oral appliance or dental device, 6=weight loss, 7=sleep position modification, 8=provent nasal device, 9=herbal product/nutritional supplement (e.g. melatonin, vitamins), 10=cognitive behavioral therapy for insomnia (cbti),11=sleep hygiene/other behavioral modification, 12=other, 13=don't know"
+  "domain": "treatments"
 }

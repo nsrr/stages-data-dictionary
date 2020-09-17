@@ -1,6 +1,6 @@
 {
   "id": "mdhx_6340",
-  "display_name": "Thyroid Problem Description",
+  "display_name": "Thyroid Problem, description: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6720",
-  "display_name": "Type of cancer",
-  "description": "",
+  "display_name": "Cancer: Self-reported",
+  "description": "Which cancer do you have or have you had?  ",
   "type": "choices",
-  "domain": "0=lung cancer\n1=breast cancer\n2=prostate cancer\n3=colon cancer\n4=rectal cancer\n5=other cancer"
+  "domain": "cancertype"
 }

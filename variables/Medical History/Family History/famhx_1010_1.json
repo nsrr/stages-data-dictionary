@@ -1,7 +1,0 @@
-{
-  "id": "famhx_1010_1",
-  "display_name": "Psychiatric Illness Relations",
-  "description": "",
-  "type": "choices",
-  "domain": "0=mother, 1=father, 2=sibling, 3=child"
-}

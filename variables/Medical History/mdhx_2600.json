@@ -1,7 +1,7 @@
 {
   "id": "mdhx_2600",
-  "display_name": "Head Injury Resulting in Loss of Consciousness",
+  "display_name": "Head Injury with Loss of Consciousness: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

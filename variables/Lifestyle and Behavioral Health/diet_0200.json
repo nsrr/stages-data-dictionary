@@ -1,7 +1,7 @@
 {
   "id": "diet_0200",
-  "display_name": "What kind of diet are you following?",
-  "description": "",
+  "display_name": "King of diet",
+  "description": "What kind of diet are you following?",
   "type": "choices",
-  "domain": "0=balanced, 1=high protein, 2=high fat, 3=low calorie, 4=low carbohydrate, 5=low fat, 6=low salt, 7=low sugar, 8=gluten-free, 9=paleo, 10=vegan (no dairy, no eggs), 11=vegetarian - lacto-ovo (dairy and eggs ok), 12=vegetarian - lacto (dairy ok, no eggs), 13=vegetarian - ovo (no dairy, eggs ok), 14=raw, 15=other"
+  "domain": "diet"
 }

@@ -1,0 +1,10 @@
+{
+  "id": "cir_0700",
+  "display_name": "rMEQ Total Score",
+  "description": "The summary score of morningness-eveningness questionnaire has a range from 4 to 25. There are give categories: definitely evening tendency (4-7), moderately evening type (8-11), neither type (12-17), moderately morning type (18-21), definitely morning type (22-25).",
+  "type": "integer",
+  "calculation": "rMEQ Total = cir_0100+_0200+_0300+_0400+_0500+_0600",
+  "labels": [
+    "chronotype"
+  ]
+}

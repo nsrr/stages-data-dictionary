@@ -1,8 +1,6 @@
 {
   "id": "med_0500",
-  "display_name": "Medication Dose",
+  "display_name": "Medication, dose: Self-reported",
   "description": "Please list all of your current prescription and non-prescription medications (including vitamins and nutritional and herbal supplements): Dose",
-  "type": "choices",
-  "domain": "-55=don't know",
-  "units": "varies"
+  "type": "test"
 }

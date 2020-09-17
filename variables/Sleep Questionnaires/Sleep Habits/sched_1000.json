@@ -2,6 +2,9 @@
   "id": "sched_1000",
   "display_name": "Self-reported out-bed time on week nights, school nights, work nights or days, current shift",
   "description": "When working these hours, what time do you usually get out of bed after sleeping?   ",
-  "type": null,
-  "units": "time"
+  "type": "time",
+  "units": "time",
+  "labels": [
+    "sleep_timing"
+  ]
 }

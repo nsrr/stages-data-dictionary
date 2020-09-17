@@ -1,6 +1,6 @@
 {
   "id": "dem_0200",
-  "display_name": "Participant's Country of Birth",
+  "display_name": "Participant's country of birth",
   "description": "",
-  "type": null
+  "type": "text"
 }

@@ -1,6 +1,7 @@
 {
   "id": "mdhx_5200",
-  "display_name": "Ocd",
+  "display_name": "Obsessive-Compulsive Disorder: Self-reported",
   "description": "",
-  "type": null
+  "type": "choices",
+  "domain": "noyes"
 }

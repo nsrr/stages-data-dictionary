@@ -1,7 +1,7 @@
 {
   "id": "dem_0700",
-  "display_name": "Weight",
+  "display_name": "Weight in pounds",
   "description": "",
-  "type": null,
+  "type": "integer",
   "units": "pounds"
 }

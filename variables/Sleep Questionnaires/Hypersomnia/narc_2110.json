@@ -1,0 +1,10 @@
+{
+  "id": "narc_2110",
+  "display_name": "Cataplexy Frequency Score - Before Treatment",
+  "description": "Summary score range from 0 to 16",
+  "type": "integer",
+  "calculation": "#NAME?",
+  "labels": [
+    "narcolepsy"
+  ]
+}

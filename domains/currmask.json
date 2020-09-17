@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "I like my current mask and want to stay with the same mask",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I like my current mask and but am interested in looking at other masks",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "I do not like my current mask",
+    "description": ""
+  }
+]

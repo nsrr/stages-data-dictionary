@@ -1,0 +1,32 @@
+[
+  {
+    "value": "0",
+    "display_name": "Gastroesophageal reflux disease (GERD)/reflux",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Irritable bowel syndrome (IBS)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Gallstones/gall bladder stone",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Cholecystectomy (gall bladder removal)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Liver disease (poor liver function) (please describe)",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Other (please describe)",
+    "description": ""
+  }
+]

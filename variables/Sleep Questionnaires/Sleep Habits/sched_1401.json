@@ -1,6 +1,10 @@
 {
   "id": "sched_1401",
-  "display_name": "Rise Time  -  Work Night or Day  (Next Shift) - Varies",
-  "description": "",
-  "type": null
+  "display_name": "Self-reported out-bed time on week nights, school nights, work nights or days, next shift - varies",
+  "description": "When working these hours, what time do you usually get out of bed after sleeping?   It varies.",
+  "type": "choices",
+  "domain": "noyes",
+  "labels": [
+    "sleep_timing"
+  ]
 }

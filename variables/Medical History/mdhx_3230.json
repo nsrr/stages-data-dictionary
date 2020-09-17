@@ -1,6 +1,6 @@
 {
   "id": "mdhx_3230",
-  "display_name": "Type of GI or Digestive - Other Details",
+  "display_name": "Gastrointestinal or Digestive Problem, detail: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

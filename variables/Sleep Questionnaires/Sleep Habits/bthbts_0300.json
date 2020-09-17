@@ -3,7 +3,7 @@
   "display_name": "Last use TV or computer before bed",
   "description": "How long before bedtime do you last use a computer or television?",
   "type": "choices",
-  "domain": "0=less than 1 hr, 1=1-2 hrs, 2=2-3 hrs, 3=greater than 3 hrs",
+  "domain": "hours",
   "labels": [
     "sleep_hygiene"
   ]

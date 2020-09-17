@@ -1,0 +1,10 @@
+{
+  "id": "rls_0310",
+  "display_name": "Unpleasant sensation was always due to muscle cramp, past",
+  "description": "Were these unpleasant sensations in your legs or the urge to move your legs always due to a Charlie-horse or muscle cramp?",
+  "type": "choices",
+  "domain": "noyesdontknow",
+  "labels": [
+    "rls_plms"
+  ]
+}

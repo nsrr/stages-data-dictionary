@@ -1,7 +1,7 @@
 {
   "id": "mdhx_3020",
-  "display_name": "Type of Cardiovascular Problem",
-  "description": "",
+  "display_name": "Cardiovascular Problem, type: Self-reported",
+  "description": "Which cardiovascular/heart problems do you have or have you had?  ",
   "type": "choices",
-  "domain": "0=arrhythmia, 1=pacemaker, 2=angina, 3=cad, 4=mi, 5=heart valve prob, 6=chf, 7=other, -55=don't know"
+  "domain": "cardioprob"
 }

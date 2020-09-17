@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6000",
-  "display_name": "Dental issues/work",
+  "display_name": "Dental Problems: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

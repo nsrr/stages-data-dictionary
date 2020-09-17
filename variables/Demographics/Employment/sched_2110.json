@@ -1,0 +1,9 @@
+{
+  "id": "sched_2110",
+  "display_name": "How often change work shifts - other",
+  "description": "Please indicate how often you change work shifts - Other (Describe)",
+  "type": "text",
+  "labels": [
+    "work_schedule"
+  ]
+}

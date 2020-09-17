@@ -2,7 +2,7 @@
   "id": "soclhx_1320",
   "display_name": "Cigarette smoking, number of cigarettes per day",
   "description": "How many cigarettes did you typically smoke? ",
-  "type": null,
+  "type": "integer",
   "units": "events per day",
   "calculation": "If soclhx_1310=0 then_1320=_1300/7.  If soclhx_1310=1 then _1320=_1300/7"
 }

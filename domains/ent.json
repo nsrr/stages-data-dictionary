@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Frequent tonsil infections",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Frequent sinus infections",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Frequent sinus infections",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Other (please describe)",
+    "description": ""
+  }
+]

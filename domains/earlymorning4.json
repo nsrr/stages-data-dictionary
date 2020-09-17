@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Definitely evening",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "More evening than morning",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "More morning than evening",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Definitely morning",
+    "description": ""
+  }
+]

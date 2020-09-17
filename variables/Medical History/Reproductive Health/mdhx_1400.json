@@ -1,7 +1,7 @@
 {
   "id": "mdhx_1400",
-  "display_name": "Ovaries Removed",
+  "display_name": "Oophorectomy, bilateral: Self-reported",
   "description": "Have you had both of your ovaries removed? ",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

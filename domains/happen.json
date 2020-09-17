@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "Only when falling asleep",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Only when waking up",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Both falling asleep and waking up",
+    "description": ""
+  }
+]

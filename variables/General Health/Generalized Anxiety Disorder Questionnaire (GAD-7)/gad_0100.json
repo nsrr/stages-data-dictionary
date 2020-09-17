@@ -3,7 +3,7 @@
   "display_name": "Generalized Anxiety Disorder-7 Questionnaire: Feeling nervous, anxious, or on edge ",
   "description": "Item from the GAD-7 Questionnaire. [Spitzer et al, 2006 (PubMed ID: 16717171)](https://pubmed.ncbi.nlm.nih.gov/16717171/)<br><br>[Search for all GAD-7 Questionnaire variables within this dataset](https://sleepdata.org/datasets/stages/variables?search=gad7)",
   "type": "choices",
-  "domain": "0=not at all, 1=several days, 2=more than half the days, 3=nearly every day",
+  "domain": "gad",
   "labels": [
     "gad7",
     "gad7_01nervous"

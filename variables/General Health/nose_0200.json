@@ -3,5 +3,5 @@
   "display_name": "Nasal blockage or obstruction",
   "description": "Over the past ONE month, how much of a problem were the following conditions for you?",
   "type": "choices",
-  "domain": "0=not a problem, 1=very mild problem, 2=moderate problem, 3=fairly bad problem, 4=severe problem"
+  "domain": "problem"
 }

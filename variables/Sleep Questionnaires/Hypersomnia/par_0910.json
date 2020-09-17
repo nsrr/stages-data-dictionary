@@ -1,0 +1,7 @@
+{
+  "id": "par_0910",
+  "display_name": "Remember dreams, time frame",
+  "description": "How often do you remember your dreams? Per night/week/month/year",
+  "type": "choices",
+  "domain": "weekmonthyear"
+}

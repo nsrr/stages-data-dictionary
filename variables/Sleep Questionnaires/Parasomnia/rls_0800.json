@@ -1,0 +1,10 @@
+{
+  "id": "rls_0800",
+  "display_name": "Unpleasant feelings in legs, age of first episode (present and past)",
+  "description": "Approximately how old were you when you first noticed these unpleasant sensations in your legs while sitting or lying down?",
+  "type": "integer",
+  "units": "Year",
+  "labels": [
+    "rls_plms"
+  ]
+}

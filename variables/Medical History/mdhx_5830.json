@@ -1,7 +1,7 @@
 {
   "id": "mdhx_5830",
-  "display_name": "Type of pulmonary problems",
-  "description": "",
+  "display_name": "Pulmonary Problem, other, type: Self-reported",
+  "description": "Which surgical procedure(s) did you undergo?  ",
   "type": "choices",
-  "domain": "0=pulmonary hypertension\n1=pulmonary embolism \n2=other"
+  "domain": "pulmonary"
 }

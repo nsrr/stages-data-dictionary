@@ -3,7 +3,7 @@
   "display_name": "Caffeine consumption, rarely or never",
   "description": "How many servings of caffeine do you typically have in one day?  (one serving equals 8oz. of coffee, 8oz. of tea, 12oz of soda, 12oz energy drink) I rarely or never drink caffeine",
   "type": "choices",
-  "domain": "0=no, 1=yes, if yes, soclhx_0900 = 0",
+  "domain": "noyes",
   "labels": [
     "sleep_hygiene"
   ]

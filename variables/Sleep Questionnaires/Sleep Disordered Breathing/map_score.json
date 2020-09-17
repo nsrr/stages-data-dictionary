@@ -1,0 +1,10 @@
+{
+  "id": "map_score",
+  "display_name": "MAP Score",
+  "description": "",
+  "type": "numeric",
+  "calculation": "See Documentation from G Maslin first x is calculated where [x=-8.16+(1.299*index_1)+ (0.163*BMI)-(0.028*index_1*BMI)+(0.032*Age)+(1.278*Gender)] then map_score is calculated by [=EXP(x)/(1+EXP(x))  (Cut point is > 0.4355 for high risk based on Maislin)",
+  "labels": [
+    "sdb"
+  ]
+}

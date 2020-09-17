@@ -1,7 +1,7 @@
 {
   "id": "mdhx_3600",
-  "display_name": "Peripheral Neuropathy",
+  "display_name": "Peripheral Neuropathy: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

@@ -3,5 +3,5 @@
   "display_name": "My current mask type",
   "description": "",
   "type": "choices",
-  "domain": "0=nasal pillows, 1=nasal mask, 2=full face mask, -55=don't know"
+  "domain": "masktype"
 }

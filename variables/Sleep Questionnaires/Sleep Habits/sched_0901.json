@@ -1,7 +1,10 @@
 {
   "id": "sched_0901",
-  "display_name": "Bed Time - Week Night - Varies",
-  "description": "",
+  "display_name": "Self-reported in-bed time on week nights, school nights, work nights or days, current shift - varies",
+  "description": "When working these hours, what time do you usually get into bed to sleep?   It varies.",
   "type": "choices",
-  "domain": "0=no, 1=yes, if yes, then sched_0900=-44"
+  "domain": "noyes",
+  "labels": [
+    "sleep_timing"
+  ]
 }

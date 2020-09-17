@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Yes, extreme",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Yes, moderate",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Yes, a little",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "-44",
+    "display_name": "I don't do this",
+    "description": ""
+  }
+]

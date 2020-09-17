@@ -1,7 +1,7 @@
 {
   "id": "mdhx_2200",
-  "display_name": "Other Surgeries - Detail",
+  "display_name": "Other surgery: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

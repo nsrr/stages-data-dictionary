@@ -1,6 +1,6 @@
 {
   "id": "mdhx_6790",
-  "display_name": "Type of hemorrhagic condition - Other Description",
+  "display_name": "Bleeding Disorder, description: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

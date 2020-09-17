@@ -1,7 +1,7 @@
 {
   "id": "diet_0700",
-  "display_name": "Do you feel?",
-  "description": "",
+  "display_name": "Self-perception of weight",
+  "description": "Do you feel?",
   "type": "choices",
-  "domain": "0=underweight, 1=healthy weight, 2=overweight"
+  "domain": "underweight"
 }

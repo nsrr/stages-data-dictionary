@@ -1,0 +1,10 @@
+{
+  "id": "narc_1610",
+  "display_name": "Muscle weakness, time frame",
+  "description": "How frequently do you currently experience one of these episodes of muscle weakness? Per day/week/month/year",
+  "type": "choices",
+  "domain": "dayyear",
+  "labels": [
+    "narcolepsy"
+  ]
+}

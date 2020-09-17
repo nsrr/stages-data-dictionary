@@ -3,5 +3,5 @@
   "display_name": "What is the heated humidifier setting - Off/Don't Know",
   "description": "",
   "type": "choices",
-  "domain": "0=off, -55=don't know"
+  "domain": "offdontknow"
 }

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Tension headache",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Migraine without warning or aura",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Migraine with warning or aura",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Other",
+    "description": ""
+  }
+]

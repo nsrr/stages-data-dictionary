@@ -3,6 +3,6 @@
   "display_name": "Alcohol consumption, time frame",
   "description": "How often do you drink alcohol? Per day/week/month",
   "type": "choices",
-  "domain": "0=week, 1=month",
+  "domain": "weekmonth",
   "units": "event count"
 }

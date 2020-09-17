@@ -1,0 +1,10 @@
+{
+  "id": "map_index_3",
+  "display_name": "MAP Index 3: EDS Score",
+  "description": "",
+  "type": "numeric",
+  "calculation": "map EDS Index = Mean of map_0400, map_0700, map_0900. If a variable is = -55 or null, then don't include it in the caluclation and decrease the denominoator by 1.  If all values are -55 or null, then score is unavailable and can be coded -55",
+  "labels": [
+    "subjective_sleepiness"
+  ]
+}

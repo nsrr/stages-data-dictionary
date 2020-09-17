@@ -1,7 +1,7 @@
 {
   "id": "mdhx_5750",
-  "display_name": "Type of cardiovascular surgeries",
-  "description": "",
+  "display_name": "Cardiovascular Surgery, type: Self-reported",
+  "description": "Which cardiovascular/heart surgeries have you had?  ",
   "type": "choices",
-  "domain": "0=heart bypass surgery (for example cabg)\n1=carotid artery surgery (stents, bypass)\n2=valve replacement\n3=other\n-55=dont know"
+  "domain": "cardiosurg"
 }

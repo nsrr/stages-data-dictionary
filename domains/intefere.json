@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "Not At All Interfering",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "A Little",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Somewhat",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Much",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Very Much Noticable",
+    "description": ""
+  }
+]

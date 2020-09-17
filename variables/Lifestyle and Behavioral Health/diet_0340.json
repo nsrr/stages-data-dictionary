@@ -1,6 +1,7 @@
 {
   "id": "diet_0340",
   "display_name": "Food intake - No regular meals",
-  "description": "",
-  "type": null
+  "description": "Please approximate the percent of 24 hour food intake for each meal (should total 100%) - I have no regularly scheduled meals",
+  "type": "choices",
+  "domain": "noyes"
 }

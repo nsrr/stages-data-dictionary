@@ -1,7 +1,7 @@
 {
   "id": "mdhx_6010",
-  "display_name": "Type of Dental Issues/Work",
+  "display_name": "Dental Problems, type: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=orthodontics\n1=wisdom removed\n2=dental plates/dentures \n3=tmj\n4=limited opening of your jaw\n5=under-bite \n6=over-bite\n7=tongue thrust\n8=other "
+  "domain": "dental"
 }

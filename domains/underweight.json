@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "Underweight",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Healthy weight",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Overweight",
+    "description": ""
+  }
+]

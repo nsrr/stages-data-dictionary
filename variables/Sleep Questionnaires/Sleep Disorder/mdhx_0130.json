@@ -1,6 +1,6 @@
 {
   "id": "mdhx_0130",
-  "display_name": "Previous Diagnosis Sleep Disorder - Other Description",
+  "display_name": "Previous sleep disorder diagnosis - other description",
   "description": "Please indicate if you have been diagnosed with any of the following sleep disorders.  Check all that apply. ",
-  "type": null
+  "type": "text"
 }

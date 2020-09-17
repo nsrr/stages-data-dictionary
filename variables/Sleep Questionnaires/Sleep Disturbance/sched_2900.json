@@ -2,7 +2,7 @@
   "id": "sched_2900",
   "display_name": "Self-reported number of awakenings on week nights, school nights, work nights or days, next shift",
   "description": "On average, how many times do you awaken during the night on work (school) nights?   ____ times per night",
-  "type": null,
+  "type": "integer",
   "units": "event count",
   "labels": [
     "insomnia"

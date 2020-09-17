@@ -1,0 +1,10 @@
+{
+  "id": "par_0700",
+  "display_name": "Frequency of nightmares, times",
+  "description": "How often do you have nightmares (frightening dreams)? Times",
+  "type": "integer",
+  "units": "event count",
+  "labels": [
+    "nightmare"
+  ]
+}

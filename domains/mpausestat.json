@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Pre-menopause",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Nearing or undergoing",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Post menopause",
+    "description": ""
+  },
+  {
+    "value": "-55",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

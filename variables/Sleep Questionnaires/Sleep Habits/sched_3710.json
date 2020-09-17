@@ -2,7 +2,7 @@
   "id": "sched_3710",
   "display_name": "Self-reported sleep latency on weekend nights, non-school nights, non-work nights or days",
   "description": "On average, how long does it take you to fall asleep on non-work (non-school) nights? ___ minutes",
-  "type": null,
+  "type": "integer",
   "units": "minutes",
   "labels": [
     "sleep_latency"

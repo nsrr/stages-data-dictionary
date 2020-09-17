@@ -3,6 +3,6 @@
   "display_name": "Tobacco consumption",
   "description": "Which of the following best describes your use of tobacco products?",
   "type": "choices",
-  "domain": "0=never been a smoker, 1=former cigarette smoker, 2=former smokeless or other tobacco, 3=current cigarette smoker, 4=current smokeless or other tobacco user",
+  "domain": "smoker",
   "units": "event count"
 }

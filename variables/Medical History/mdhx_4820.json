@@ -1,6 +1,6 @@
 {
   "id": "mdhx_4820",
-  "display_name": "Anxiety Disorders - Description",
+  "display_name": "Anxiety Disorder, description: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

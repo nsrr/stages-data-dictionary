@@ -1,0 +1,72 @@
+[
+  {
+    "value": "0",
+    "display_name": "I am not currently being treated",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "I am not currently being treated",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "CPAP/BiPAP type machine",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Supplemental oxygen",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Prior sleep apnea surgery",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Oral appliance or dental device",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Weight loss",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Sleep position modification",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Provent nasal device",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Herbal product/nutritional supplement (melatonin, vitamins)",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "Cognitive Behavioral Therapy for insomnia (CBTi)",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "Sleep hygiene/other behavioral modification",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "Sleep hygiene/other behavioral modification",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "Don't know",
+    "description": ""
+  }
+]

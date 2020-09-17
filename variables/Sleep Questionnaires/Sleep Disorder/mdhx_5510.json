@@ -2,5 +2,5 @@
   "id": "mdhx_5510",
   "display_name": "Describe the trigger for the sleep disorder",
   "description": "Is there an event that triggered your sleep problems? Describe.",
-  "type": null
+  "type": "text"
 }

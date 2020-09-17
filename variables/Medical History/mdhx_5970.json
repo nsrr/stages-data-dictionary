@@ -1,6 +1,6 @@
 {
   "id": "mdhx_5970",
-  "display_name": "Type ENT problem - Other Description",
+  "display_name": "Ear, Nose, and Throat Problem, description: Self-reported",
   "description": "",
-  "type": null
+  "type": "text"
 }

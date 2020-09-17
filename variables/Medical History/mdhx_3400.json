@@ -1,7 +1,7 @@
 {
   "id": "mdhx_3400",
-  "display_name": "Seizure",
+  "display_name": "Seizure Disorder: Self-reported",
   "description": "",
   "type": "choices",
-  "domain": "0=no, 1=yes"
+  "domain": "noyes"
 }

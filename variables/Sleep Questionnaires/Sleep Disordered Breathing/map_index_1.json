@@ -1,0 +1,10 @@
+{
+  "id": "map_index_1",
+  "display_name": "MAP Index 1: Apnea Score",
+  "description": "",
+  "type": "numeric",
+  "calculation": "map Apnea Index = Mean of map_0100, map_0300, map_0600.  If a variable is = -55 or null, then don't include it in the caluclation and decrease the denominoator by 1.  If all values are -55 or null, then score is unavailable and can be coded -55",
+  "labels": [
+    "sdb"
+  ]
+}

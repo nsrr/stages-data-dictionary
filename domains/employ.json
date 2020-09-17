@@ -1,0 +1,47 @@
+[
+  {
+    "value": "0",
+    "display_name": "Employed full-time (includes volunteer work)",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Employed part-time (includes volunteer work)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Unemployed",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "A full-time student",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "A part-time student",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Full-time caretaker of another person",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Full-time homemaker",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Retired",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "On disability",
+    "description": ""
+  }
+]

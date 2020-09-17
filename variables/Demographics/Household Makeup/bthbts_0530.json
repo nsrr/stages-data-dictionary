@@ -1,7 +1,7 @@
 {
   "id": "bthbts_0530",
-  "display_name": "How many are children aged 18-59 years?",
-  "description": "",
-  "type": null,
+  "display_name": "Number of adults aged 18 - 59 living in your household",
+  "description": "How many are adults aged 18-59 years?",
+  "type": "integer",
   "units": "count"
 }

@@ -3,5 +3,5 @@
   "display_name": "Alcohol consumption, rarely or never",
   "description": "How often do you drink alcohol? I rarely or never drink alcohol",
   "type": "choices",
-  "domain": "0=no, 1=yes, if yes, soclhx_0700= 0"
+  "domain": "noyes"
 }
