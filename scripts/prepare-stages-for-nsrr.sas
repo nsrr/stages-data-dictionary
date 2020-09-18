@@ -66,6 +66,55 @@
       next_module /* administrative variable */
       survey_id /* administrative variable */
       map_1125 /* empty variable */
+      modified_bthbts_end /* extraneous survey datetime */
+      modified_bthbts_start /* extraneous survey datetime */
+      modified_cir_end /* extraneous survey datetime */
+      modified_cir_start /* extraneous survey datetime */
+      modified_dem_end /* extraneous survey datetime */
+      modified_dem_start /* extraneous survey datetime */
+      modified_diet_end /* extraneous survey datetime */
+      modified_diet_start /* extraneous survey datetime */
+      modified_ess_end /* extraneous survey datetime */
+      modified_ess_start /* extraneous survey datetime */
+      modified_famhx_end /* extraneous survey datetime */
+      modified_famhx_start /* extraneous survey datetime */
+      modified_fosq_end /* extraneous survey datetime */
+      modified_fosq_start /* extraneous survey datetime */
+      modified_fss_end /* extraneous survey datetime */
+      modified_fss_start /* extraneous survey datetime */
+      modified_gad_end /* extraneous survey datetime */
+      modified_gad_start /* extraneous survey datetime */
+      modified_isi_end /* extraneous survey datetime */
+      modified_isi_start /* extraneous survey datetime */
+      modified_isq_end /* extraneous survey datetime */
+      modified_isq_start /* extraneous survey datetime */
+      modified_map_end /* extraneous survey datetime */
+      modified_map_start /* extraneous survey datetime */
+      modified_mdhx_end /* extraneous survey datetime */
+      modified_mdhx_start /* extraneous survey datetime */
+      modified_narc_end /* extraneous survey datetime */
+      modified_narc_start /* extraneous survey datetime */
+      modified_nose_end /* extraneous survey datetime */
+      modified_nose_start /* extraneous survey datetime */
+      modified_osa_end /* extraneous survey datetime */
+      modified_osa_start /* extraneous survey datetime */
+      modified_pap_end /* extraneous survey datetime */
+      modified_pap_start /* extraneous survey datetime */
+      modified_par_end /* extraneous survey datetime */
+      modified_par_start /* extraneous survey datetime */
+      modified_phq_end /* extraneous survey datetime */
+      modified_phq_start /* extraneous survey datetime */
+      modified_rls_end /* extraneous survey datetime */
+      modified_rls_start /* extraneous survey datetime */
+      modified_sched_end /* extraneous survey datetime */
+      modified_sched_start /* extraneous survey datetime */
+      modified_slpy_end /* extraneous survey datetime */
+      modified_slpy_start /* extraneous survey datetime */
+      modified_soclhx_end /* extraneous survey datetime */
+      modified_soclhx_start /* extraneous survey datetime */
+      modified_tab_end /* extraneous survey datetime */
+      modified_tab_start /* extraneous survey datetime */
+      ;
   run;
 
   data stages_final;
@@ -98,7 +147,7 @@
   run;
 
   proc freq data=stages_final;
-    table tab_0700;
+    table rls_0801;
   run;
 
   */

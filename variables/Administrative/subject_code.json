@@ -1,0 +1,7 @@
+{
+  "id": "subject_code",
+  "display_name": "STAGES Subject Identifier",
+  "description": "",
+  "type": "identifier",
+  "commonly_used": "true"
+}

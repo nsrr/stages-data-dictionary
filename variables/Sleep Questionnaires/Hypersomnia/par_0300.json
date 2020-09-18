@@ -2,8 +2,7 @@
   "id": "par_0300",
   "display_name": "Frequency of eat/drink in sleep, number of times",
   "description": "How often do you awaken during the night and are unable to return to sleep without having something to eat or drink (other than water for thirst or a dry mouth)? Times",
-  "type": null,
-  "domain": "if never checked, par_0300=0 and _0310=1, -55=don't know",
+  "type": "integer",
   "units": "event count",
   "labels": [
     "sleep_eat"
