@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_6720",
-  "display_name": "Cancer: Self-reported",
-  "description": "Which cancer do you have or have you had?  ",
-  "type": "choices",
-  "domain": "cancertype"
-}

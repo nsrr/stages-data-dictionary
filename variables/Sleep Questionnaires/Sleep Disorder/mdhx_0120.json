@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_0120",
-  "display_name": "Previous sleep disorder diagnosis",
-  "description": "Please indicate if you have been diagnosed with any of the following sleep disorders.  Check all that apply. ",
-  "type": "choices",
-  "domain": "slpdx"
-}

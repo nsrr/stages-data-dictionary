@@ -114,6 +114,57 @@
       modified_soclhx_start /* extraneous survey datetime */
       modified_tab_end /* extraneous survey datetime */
       modified_tab_start /* extraneous survey datetime */
+
+      /* remove variables that have numerical arrays, to reconfigure later */
+      bthbts_0200
+      bthbts_0400
+      diet_0100
+      diet_0200
+      famhx_0110
+      famhx_0210
+      famhx_0310
+      famhx_0410
+      famhx_0510
+      famhx_0610
+      famhx_0710
+      famhx_0810
+      famhx_0910
+      famhx_1010
+      famhx_1110
+      famhx_1210
+      mdhx_0100
+      mdhx_0120
+      mdhx_0300
+      mdhx_5730
+      mdhx_5750
+      mdhx_5830
+      mdhx_5930
+      mdhx_5960
+      mdhx_6010
+      mdhx_6020
+      mdhx_6110
+      mdhx_6210
+      mdhx_6330
+      mdhx_6410
+      mdhx_6510
+      mdhx_6530
+      mdhx_6610
+      mdhx_6620
+      mdhx_6630
+      mdhx_6640
+      mdhx_6710
+      mdhx_6720
+      mdhx_6740
+      mdhx_6760
+      narc_0610
+      narc_0710
+      narc_0810
+      narc_0910
+      pap_2000
+      pap_2200
+      soclhx_1100
+      soclhx_1600
+      /* end removal of numerical arrays */
       ;
   run;
 

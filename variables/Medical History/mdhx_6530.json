@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_6530",
-  "display_name": "Headache, type: Self-reported",
-  "description": "What type of headaches/migraines do you have or have you had?  ",
-  "type": "choices",
-  "domain": "headache"
-}

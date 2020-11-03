@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_0300",
-  "display_name": "Current treatment for sleep problem(s)",
-  "description": "What type of treatment(s) are you currently using for your sleep problem(s)?  Check all that apply.",
-  "type": "choices",
-  "domain": "treatments"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "diet_0200",
-  "display_name": "King of diet",
-  "description": "What kind of diet are you following?",
-  "type": "choices",
-  "domain": "diet"
-}

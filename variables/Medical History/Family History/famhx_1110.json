@@ -1,7 +1,0 @@
-{
-  "id": "famhx_1110",
-  "display_name": "Relations to the family member with psychiatric treatment",
-  "description": "Have any blood relatives in your immediate family (which includes brother/sister, father/mother, son/daughter) had any of the following? Psychiatric treatment",
-  "type": "choices",
-  "domain": "family"
-}

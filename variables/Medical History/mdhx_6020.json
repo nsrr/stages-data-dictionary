@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_6020",
-  "display_name": "Orthodontics, type: Self-reported",
-  "description": "What type of orthodontic work have you had?",
-  "type": "choices",
-  "domain": "ortho"
-}
