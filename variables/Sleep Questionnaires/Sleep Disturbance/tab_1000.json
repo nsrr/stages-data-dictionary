@@ -3,7 +3,7 @@
   "display_name": "What the future might hold and what you should do for things to work out well",
   "description": "During the past month, when you lie awake in bed, how often do you think about the following?",
   "type": "choices",
-  "domain": "neveronlyfreq",
+  "domain": "neveronlyfreq5dk",
   "labels": [
     "insomnia"
   ]

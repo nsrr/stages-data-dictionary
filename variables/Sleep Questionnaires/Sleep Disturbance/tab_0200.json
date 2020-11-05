@@ -3,7 +3,7 @@
   "display_name": "What happened today and what you have to do tomorrow",
   "description": "During the past month, when you lie awake in bed, how often do you think about the following?",
   "type": "choices",
-  "domain": "neveronlyfreq",
+  "domain": "neveronlyfreq5dk",
   "labels": [
     "insomnia"
   ]
