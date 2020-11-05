@@ -3,7 +3,7 @@
   "display_name": "Hypnogogic Hallucinations, age of first episode, don't know",
   "description": "During the last month on how many nights or days per week have you had or been told you had the following (please check only one box per question)? Find yourself in a vivid dreamlike state when falling asleep even though you know you are awake, if so, how old were you when this first occurred?",
   "type": "choices",
-  "domain": "noyes",
+  "domain": "noyesdk55",
   "labels": [
     "hypnogogic_hallucinations"
   ]
