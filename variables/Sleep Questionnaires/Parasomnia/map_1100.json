@@ -3,7 +3,7 @@
   "display_name": "Hypnogogic Hallucinations, days per week",
   "description": "During the last month on how many nights or days per week have you had or been told you had the following (please check only one box per question)? Find yourself in a vivid dreamlike state when falling asleep even though you know you are awake",
   "type": "choices",
-  "domain": "never",
+  "domain": "neveronlyfreq5dk",
   "labels": [
     "hypnogogic_hallucinations"
   ]
