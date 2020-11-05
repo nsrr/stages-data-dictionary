@@ -60,6 +60,22 @@
       ;
     by subject_code survey_id;
 
+    *recode false/true character values into 0/1 numeric values;
+    if sched_1401 = 'false' then sched_1401_r = 0;
+    else if sched_1401 = 'true' then sched_1401_r = 1;
+
+    if sched_1701 = 'false' then sched_1701_r = 0;
+    else if sched_1701 = 'true' then sched_1701_r = 1;
+
+    if sched_1801 = 'false' then sched_1801_r = 0;
+    else if sched_1801 = 'true' then sched_1801_r = 1;
+
+    if soclhx_0101 = 'false' then soclhx_0101_r = 0;
+    else if soclhx_0101 = 'false' then soclhx_0101_r = 1;
+
+    *recode character month values;
+    narc_1710_r = input(narc_1710,8.);
+
     *remove variables systematically;
     drop
       last_module /* administrative variable */
@@ -115,6 +131,13 @@
       modified_tab_end /* extraneous survey datetime */
       modified_tab_start /* extraneous survey datetime */
 
+      /* recoded to numeric variable, re-add in next data step */
+      sched_1401
+      sched_1701
+      sched_1801 
+      soclhx_0101
+      narc_1710
+
       /* remove variables that have numerical arrays, to reconfigure later */
       bthbts_0200
       bthbts_0400
@@ -164,12 +187,19 @@
       pap_2200
       soclhx_1100
       soclhx_1600
-      /* end removal of numerical arrays */
       ;
   run;
 
   data stages_final;
     set asq_merge;
+
+    rename
+      sched_1401_r = sched_1401
+      sched_1701_r = sched_1701
+      sched_1801_r = sched_1801
+      soclhx_0101_r = soclhx_0101
+      narc_1710_r = narc_1710
+      ;
   run;
 
 *******************************************************************************;
