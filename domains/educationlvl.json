@@ -18,5 +18,10 @@
     "value": "3",
     "display_name": "non-degree program",
     "description": ""
+  },
+  {
+    "value": "-66",
+    "display_name": "missing",
+    "description": ""
   }
 ]
