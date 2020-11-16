@@ -3,7 +3,7 @@
   "display_name": "Meets Diagnostic Insomnia Criteria",
   "description": "",
   "type": "choices",
-  "domain": "noyes",
+  "domain": "noyesunscore",
   "calculation": "Yes IF isq1, isq2, or isq5=Frequently or Always AND isq1, isq2, OR isq5 is ? 4 weeks AND isq6, isq7, isq8, isq9, isq10, isq11, isq12, or isq13=Quite a Bit or Always OTHERWISE No",
   "labels": [
     "insomnia"

@@ -10,8 +10,8 @@
     "description": ""
   },
   {
-    "value": "-55",
-    "display_name": "Never been Pregnant",
+    "value": "-1",
+    "display_name": "ISI score less than 8",
     "description": ""
   }
 ]

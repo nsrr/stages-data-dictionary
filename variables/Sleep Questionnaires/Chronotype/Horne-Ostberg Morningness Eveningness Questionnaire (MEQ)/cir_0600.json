@@ -1,7 +1,7 @@
 {
   "id": "cir_0600",
   "display_name": "Horne-Ostberg Morningness-Eveningness Questionnaire: Morning or evening type",
-  "description": "One hears about morning and evening types of people.  Which ONE of these types do you consider yourself to be?",
+  "description": "One hears about 'morning' and 'evening' types of people.  Which ONE of these types do you consider yourself to be?",
   "type": "choices",
   "domain": "earlymorning4",
   "labels": [
