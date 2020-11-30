@@ -193,6 +193,9 @@
   data stages_final;
     set asq_merge;
 
+    *create dummy visit variable;
+    visitcode = 1;
+
     rename
       sched_1401_r = sched_1401
       sched_1701_r = sched_1701

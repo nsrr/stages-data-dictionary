@@ -1,3 +1,10 @@
 slug: stages-data-dictionary
 visit: visit
-charts: []
+charts:
+- chart: dem_0500
+  title: Sex
+webservers:
+  - name: production
+    url: https://sleepdata.org
+  - name: staging
+    url: https://staging.partners.org/sleepdata.org

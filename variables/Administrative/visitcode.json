@@ -1,0 +1,7 @@
+{
+  "id": "visitcode",
+  "display_name": "STAGES Visit",
+  "description": "",
+  "type": "choices",
+  "domain": "visitcode"
+}
