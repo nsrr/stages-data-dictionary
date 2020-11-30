@@ -1,5 +1,5 @@
-slug: stages-data-dictionary
-visit: visit
+slug: stages
+visit: visitcode
 charts:
 - chart: dem_0500
   title: Sex
