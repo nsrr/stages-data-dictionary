@@ -4,5 +4,5 @@
   "description": "How often do you drink alcohol? Times",
   "type": "integer",
   "units": "event count",
-  "calculation": "Total = soclhx_0710+_0720+_0730"
+  "calculation": "Total = soclhx_0710+soclhx_0720+soclhx_0730"
 }

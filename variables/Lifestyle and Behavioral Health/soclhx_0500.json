@@ -3,6 +3,5 @@
   "display_name": "Exercise, times per week",
   "description": "How often do you exercise?  ",
   "type": "integer",
-  "units": "events per week",
-  "calculation": "?"
+  "units": "events per week"
 }

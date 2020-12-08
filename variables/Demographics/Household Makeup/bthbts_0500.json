@@ -3,6 +3,5 @@
   "display_name": "Number of people living in your household",
   "description": "How many people live in your household?",
   "type": "integer",
-  "units": "count",
-  "calculation": "N/A"
+  "units": "count"
 }

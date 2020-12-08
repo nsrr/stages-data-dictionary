@@ -4,7 +4,6 @@
   "description": "During the last month on how many nights or days per week have you had or been told you had the following (please check only one box per question)? Feeling paralyzed or unable to move when falling asleep or when awakening, if so, how often?",
   "type": "integer",
   "units": "events per week",
-  "calculation": "?",
   "labels": [
     "narcolepsy"
   ]

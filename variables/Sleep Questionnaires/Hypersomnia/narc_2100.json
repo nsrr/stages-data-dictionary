@@ -3,7 +3,6 @@
   "display_name": "Cataplexy Frequency Score - Current",
   "description": "Summary score range from 0 to 16",
   "type": "integer",
-  "calculation": "#NAME?",
   "labels": [
     "narcolepsy"
   ]

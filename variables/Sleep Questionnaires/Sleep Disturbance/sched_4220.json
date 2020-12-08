@@ -4,7 +4,6 @@
   "description": "Calculated - total minutes of sleep needed to feel fully arrested",
   "type": "integer",
   "units": "minute",
-  "calculation": "#NAME?",
   "labels": [
     "sleep_satisfaction"
   ]

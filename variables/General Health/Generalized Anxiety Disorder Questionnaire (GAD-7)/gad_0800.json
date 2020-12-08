@@ -3,7 +3,7 @@
   "display_name": "Generalized Anxiety Disorder-7 Questionnaire: Total Score",
   "description": "Calculated - Summary score based on a 7-item questionnaires for generalized anxiety. Scale 0 - 3 for individual items; 0 - 21 for overall score. Scores of 0-5 are categorized as mild anxiety, 6-10 as moderate anxiety, 11-15 as moderately severe anxiety, 15-21 as severe anxiety, respectively. As a screening tool, score of 10 and above suggests further evalution.  [Schwartz, Jandorf & Krupp, 1993 (PubMed ID: 8229906)](https://pubmed.ncbi.nlm.nih.gov/8229906/) <br><br>[Search for all Fatigue Severity Scale variables within this dataset](https://sleepdata.org/datasets/stages/variables?search=fss)",
   "type": "integer",
-  "calculation": "GADTotal=gad_0100+_0200+_0300+_0400+_0500+_0600+_0700",
+  "calculation": "GADTotal=gad_0100+gad_0200+gad_0300+gad_0400+gad_0500+gad_0600+gad_0700",
   "labels": [
     "gad7",
     "gad7_total"

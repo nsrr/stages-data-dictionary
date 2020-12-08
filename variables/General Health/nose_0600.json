@@ -3,5 +3,5 @@
   "display_name": "NOSE Total Score",
   "description": "Over the past ONE month, how much of a problem were the following conditions for you? (0=No Problem, 20=Worst possible problem with nasal obstruction)",
   "type": "integer",
-  "calculation": "NOSE Total = (_0100+_0200+_0300+_0400+_0500)*5"
+  "calculation": "NOSE Total = (nose_0100+nose_0200+nose_0300+nose_0400+nose_0500)*5"
 }

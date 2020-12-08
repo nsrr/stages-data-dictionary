@@ -3,7 +3,6 @@
   "display_name": "Sleep Paralysis Frequency Score",
   "description": "Summary score range from 0 to 4",
   "type": "integer",
-  "calculation": "#NAME?",
   "labels": [
     "narcolepsy"
   ]
