@@ -1,8 +1,0 @@
-{
-  "id": "soclhx_1100",
-  "display_name": "Tobacco consumption",
-  "description": "Which of the following best describes your use of tobacco products?",
-  "type": "choices",
-  "domain": "smoker",
-  "units": "event count"
-}

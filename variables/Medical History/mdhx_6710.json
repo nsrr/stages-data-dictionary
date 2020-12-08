@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_6710",
-  "display_name": "Medical Problem, type: Self-reported",
-  "description": "Which medical problems do you have or have you had?  ",
-  "type": "choices",
-  "domain": "otherprob"
-}

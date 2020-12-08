@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_6740",
-  "display_name": "Autoimmune Disorder: Self-reported",
-  "description": "Which autoimmune disease(s) do you have or have you had?  ",
-  "type": "choices",
-  "domain": "autoimmune"
-}

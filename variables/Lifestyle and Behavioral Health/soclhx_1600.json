@@ -1,7 +1,0 @@
-{
-  "id": "soclhx_1600",
-  "display_name": "Street or recreational drugs consumption, regular use, type",
-  "description": "Which drugs have you used regularly?  (check all that apply)",
-  "type": "choices",
-  "domain": "drugtype"
-}
