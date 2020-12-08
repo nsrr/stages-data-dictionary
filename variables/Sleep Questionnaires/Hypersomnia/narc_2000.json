@@ -1,6 +1,6 @@
 {
   "id": "narc_2000",
-  "display_name": "HH Frequency Score",
+  "display_name": "Hypnagogic Hallucinations (HH) Frequency Score",
   "description": "Summary score range from 0 to 4",
   "type": "integer",
   "labels": [
