@@ -1,7 +1,7 @@
 {
   "id": "slpy_0400",
   "display_name": "Had an accident or near miss due to sleepiness, number of event",
-  "description": "How many times have you had an accident (motor vehicle, home or work related) or a near miss accident due to sleepiness?  (Enter 0 if you have never had an accident or near miss accident due to sleepiness).   ",
+  "description": "How many times have you had an accident (motor vehicle, home or work related) or a near miss accident due to sleepiness?  (Enter 0\" if you have never had an accident or near miss accident due to sleepiness).   \"",
   "type": "integer",
   "units": "event count",
   "labels": [

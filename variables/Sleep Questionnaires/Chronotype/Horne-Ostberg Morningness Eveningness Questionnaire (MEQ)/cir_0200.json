@@ -1,11 +1,11 @@
 {
   "id": "cir_0200",
   "display_name": "Horne-Ostberg Morningness-Eveningness Questionnaire: Ideal scheduled wake time",
-  "description": "Considering only your own feeling best rhythm, at what time of day would you get up if you were entirely free to plan your day?",
-  "type": "choices",
-  "domain": "cirtime1",
+  "description": "Considering only your own feeling best\" rhythm",
+  "type": " at what time of day would you get up if you were entirely free to plan your day?\"",
+  "units": "choices",
+  "calculation": "homeq;homeq_02wake",
   "labels": [
-    "homeq",
-    "homeq_02wake"
+    "cirtime1"
   ]
 }

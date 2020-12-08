@@ -1,0 +1,7 @@
+{
+  "id": "famhx_1210",
+  "display_name": "Relations to the family member who died during sleep",
+  "description": "Have any blood relatives in your immediate family (which includes brother/sister, father/mother, son/daughter) had any of the following? Death during sleep",
+  "type": "choices",
+  "domain": "family"
+}

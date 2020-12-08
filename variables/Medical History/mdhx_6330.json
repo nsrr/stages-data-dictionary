@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6330",
+  "display_name": "Endocrine or Metabolic Problem, type: Self-reported",
+  "description": "Which hormone/endocrine problems do you have or have you had?  ",
+  "type": "choices",
+  "domain": "endocrine"
+}

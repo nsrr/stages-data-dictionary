@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6610",
+  "display_name": "Psychiatric or Mental Health Problem, type: Self-reported",
+  "description": "Which psychiatric/mental health problems do you have or have you had?  ",
+  "type": "choices",
+  "domain": "psych"
+}

@@ -3,7 +3,7 @@
   "display_name": "Cataplexy Severity Score - Current",
   "description": "Summary score range from 0 to 30",
   "type": "integer",
-  "calculation": "=[Cataplexy Freq Score (narc_2100)] + [narc_0600+_0700+_0800+0900+1000 where yes = 2 pts] + [narc_1600 where year=0, month=1, week=2, day=4]",
+  "calculation": "[Cataplexy Freq Score (narc_2100)] + [narc_0600+narc_0700+narc_0800+narc_0900+narc_1000 where yes = 2 pts] + [narc_1600 where year=0, month=1, week=2, day=4]",
   "labels": [
     "narcolepsy"
   ]

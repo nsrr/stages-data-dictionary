@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6620",
+  "display_name": "Anxiety Disorder, type: Self-reported",
+  "description": "Which anxiety disorder do you have or have you had?  ",
+  "type": "choices",
+  "domain": "anxiety"
+}

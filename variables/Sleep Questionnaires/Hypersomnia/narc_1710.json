@@ -1,6 +1,6 @@
 {
   "id": "narc_1710",
-  "display_name": "Muscle weakness, month of first episode",
+  "display_name": "Muscle weakness, month of the first episode",
   "description": "In what month (approximately) did your first episode of muscle weakness occur?  ",
   "type": "choices",
   "domain": "month",

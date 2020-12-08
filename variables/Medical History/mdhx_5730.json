@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_5730",
+  "display_name": "Cardiovascular Problem, other, type: Self-reported",
+  "description": "Which cardiovascular/heart problems do you have or have you had?  ",
+  "type": "choices",
+  "domain": "cardio"
+}

@@ -1,6 +1,6 @@
 {
   "id": "par_0630",
-  "display_name": "Violent behavior during sleep, age of first episode",
+  "display_name": "Violent behavior during sleep, age of the first episode",
   "description": "How old were you when this first happened?",
   "type": "integer",
   "units": "years",

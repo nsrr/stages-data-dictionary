@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_6760",
+  "display_name": "Hematologic Disorder, type: Self-reported",
+  "description": "Which hematologic disease(s) do you have or have you had?  ",
+  "type": "choices",
+  "domain": "hematologic"
+}

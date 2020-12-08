@@ -1,0 +1,7 @@
+{
+  "id": "diet_0100",
+  "display_name": "Food allergies",
+  "description": "Do you have any food allergies?",
+  "type": "choices",
+  "domain": "allergies"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "mdhx_5930",
+  "display_name": "Ear, Nose, and Throat Surgery, type: Self-reported",
+  "description": "Which surgical procedure(s) did you undergo?  ",
+  "type": "choices",
+  "domain": "entsurg"
+}

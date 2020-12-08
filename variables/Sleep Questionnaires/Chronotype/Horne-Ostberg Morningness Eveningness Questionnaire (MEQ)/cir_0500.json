@@ -1,7 +1,7 @@
 {
   "id": "cir_0500",
   "display_name": "Horne-Ostberg Morningness-Eveningness Questionnaire: Time of day reaching \"feeling best\" peak",
-  "description": "At what time of the day do you think that you reach your feeling best peak? (Check one) ",
+  "description": "At what time of the day do you think that you reach your \"feeling best\" peak? (Check one) ",
   "type": "choices",
   "domain": "cirtime3",
   "labels": [
