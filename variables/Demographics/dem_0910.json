@@ -3,5 +3,6 @@
   "display_name": "Participant's ethnicity (sub hispanic or latino origin)",
   "description": "",
   "type": "choices",
-  "domain": "hisorigin"
+  "domain": "hisorigin",
+  "commonly_used": true
 }

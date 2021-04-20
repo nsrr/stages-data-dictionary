@@ -3,5 +3,6 @@
   "display_name": "Participant's sex",
   "description": "",
   "type": "choices",
-  "domain": "sex"
+  "domain": "sex",
+  "commonly_used": true
 }
