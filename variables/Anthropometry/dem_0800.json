@@ -1,6 +1,6 @@
 {
   "id": "dem_0800",
-  "display_name": "Bmi",
+  "display_name": "Body mass index (BMI)",
   "description": "",
   "type": "numeric"
 }
