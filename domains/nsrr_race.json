@@ -10,8 +10,23 @@
     "description": ""
   },
   {
-    "value": "other",
-    "display_name": "other",
+    "value": "american indian or alaska native",
+    "display_name": "american indian or alaska native",
+    "description": ""
+  },
+  {
+    "value": "asian",
+    "display_name": "asian",
+    "description": ""
+  },
+  {
+    "value": "native hawaiian or other pacific islander",
+    "display_name": "native hawaiian or other pacific islander",
+    "description": ""
+  },
+  {
+    "value": "two races or some other race",
+    "display_name": "two races or some other race",
     "description": ""
   },
   {

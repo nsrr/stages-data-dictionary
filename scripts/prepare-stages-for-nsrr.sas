@@ -85,23 +85,23 @@ run;
     narc_1710_r = input(narc_1710,8.);
 	*creating binary smoking variables from soclhx_1100;
 	
-	format never_cigarette_smoker 8.2;
+	format never_cigarette_smoker 8.0;
 	if index(soclhx_1100, '0') then never_cigarette_smoker = 1;
 	else if soclhx_1100 ne '' then never_cigarette_smoker= 0;
 
-	format former_cigarette_smoker 8.2;
+	format former_cigarette_smoker 8.0;
 	if index(soclhx_1100, '1') then former_cigarette_smoker = 1;
 	else if soclhx_1100 ne '' then former_cigarette_smoker = 0;
 	
-	format former_smokeless_user 8.2;
+	format former_smokeless_user 8.0;
 	if index(soclhx_1100, '2') then former_smokeless_user = 1;
 	else if soclhx_1100 ne '' then former_smokeless_user = 0;
 	
-	format current_cigarette_smoker 8.2;
+	format current_cigarette_smoker 8.0;
 	if index(soclhx_1100, '3') then current_cigarette_smoker = 1;
 	else if soclhx_1100 ne '' then current_cigarette_smoker = 0;
 
-	format current_smokeless_user 8.2;
+	format current_smokeless_user 8.0;
 	if index(soclhx_1100, '4') then current_smokeless_user = 1;
 	else if soclhx_1100 ne '' then current_smokeless_user = 0;
 
