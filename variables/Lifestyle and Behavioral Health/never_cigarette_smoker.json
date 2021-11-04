@@ -1,0 +1,8 @@
+{
+  "id": "never_cigarette_smoker",
+  "display_name": "Cigarette smoking, never smoker",
+  "description": "Which of the following best describes your use of tobacco products? Never been a smoker/smoked less than 100 cigarettes in my life ",
+  "type": "choices",
+  "domain": "noyes",
+  "calculation": "if index(soclhx_1100, '0') then never_cigarette_smoker = 1; else if soclhx_1100 ne '' then never_cigarette_smoker= 0;"
+}
