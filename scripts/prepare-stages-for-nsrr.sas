@@ -25,7 +25,7 @@
   libname stagesi "\\rfawin\BWH-SLEEPEPI-NSRR-STAGING\20200722-stages\nsrr-prep\_ids";
 
   *set data dictionary version;
-  %let version = 0.1.0;
+  %let version = 0.2.0.pre;
 
   *set nsrr csv release path;
   %let releasepath = \\rfawin\BWH-SLEEPEPI-NSRR-STAGING\20200722-stages\nsrr-prep\_releases;
@@ -43,6 +43,14 @@
     by subject_code survey_id;
   run;
 
+  proc contents data=asq_dem_in;
+  run;
+
+
+  
+proc freq data=asq_dem_in;
+table   soclhx_1100;
+run;
   proc import datafile="\\rfawin\BWH-SLEEPEPI-NSRR-STAGING\20200722-stages\nsrr-prep\_source\asq\STAGES ASQ ISI to DIET 20200513 Final deidentified.xlsx"
     out=asq_isi_in 
     dbms=xlsx
@@ -75,6 +83,27 @@
 
     *recode character month values;
     narc_1710_r = input(narc_1710,8.);
+	*creating binary smoking variables from soclhx_1100;
+	
+	format never_cigarette_smoker 8.2;
+	if index(soclhx_1100, '0') then never_cigarette_smoker = 1;
+	else if soclhx_1100 ne '' then never_cigarette_smoker= 0;
+
+	format former_cigarette_smoker 8.2;
+	if index(soclhx_1100, '1') then former_cigarette_smoker = 1;
+	else if soclhx_1100 ne '' then former_cigarette_smoker = 0;
+	
+	format former_smokeless_user 8.2;
+	if index(soclhx_1100, '2') then former_smokeless_user = 1;
+	else if soclhx_1100 ne '' then former_smokeless_user = 0;
+	
+	format current_cigarette_smoker 8.2;
+	if index(soclhx_1100, '3') then current_cigarette_smoker = 1;
+	else if soclhx_1100 ne '' then current_cigarette_smoker = 0;
+
+	format current_smokeless_user 8.2;
+	if index(soclhx_1100, '4') then current_smokeless_user = 1;
+	else if soclhx_1100 ne '' then current_smokeless_user = 0;
 
     *remove variables systematically;
     drop
@@ -206,6 +235,130 @@
       ;
   run;
 
+  * checking new smoking variables;
+proc freq data=stages_final;
+table   never_cigarette_smoker
+		former_cigarette_smoker
+		former_smokeless_user
+		current_cigarette_smoker
+		current_smokeless_user;
+run;
+
+
+*******************************************************************************;
+* create harmonized datasets ;
+*******************************************************************************;
+data stages1_harmonized;
+  set stages_final;
+  *create visitcode variable for Spout to use for graph generation;
+    visitcode = 1;
+
+*demographics
+*age;
+*use modified_dem_0110;
+  format nsrr_age 8.2;
+  nsrr_age = modified_dem_0110;
+
+*age_gt89;
+*use modified_dem_0110;
+  format nsrr_age_gt89 $10.; 
+  if modified_dem_0110 gt 89 then nsrr_age_gt89='yes';
+  else if modified_dem_0110 le 89 then nsrr_age_gt89='no';
+
+*sex;
+*use dem_0500;
+  format nsrr_sex $10.;
+  if dem_0500 = 'M' then nsrr_sex = 'male';
+  else if dem_0500 = 'F' then nsrr_sex = 'female';
+  else if dem_0500 = '.' then nsrr_sex = 'not reported';
+
+*race;
+*use dem_1000;
+    format nsrr_race $100.;
+    if dem_1000 = 0 then nsrr_race = 'not reported';
+	else if dem_1000 = 1 then nsrr_race = 'white';
+    else if dem_1000 = 2 then nsrr_race = 'black or african american';
+    else if dem_1000 = 3 then nsrr_race = 'american indian or alaska native';
+  	else if dem_1000 = 4 then nsrr_race = 'asian';
+	else if dem_1000 = 5 then nsrr_race = 'native hawaiian or other pacific islander';
+	else if dem_1000 = 6 then nsrr_race = 'two races or some other race';
+
+*ethnicity;
+*use dem_0900;
+  format nsrr_ethnicity $100.;
+    if dem_0900 = 1 then nsrr_ethnicity = 'hispanic or latino';
+    else if dem_0900 = 0 then nsrr_ethnicity = 'not hispanic or latino';
+  	else if dem_0900 = . then nsrr_ethnicity = 'not reported';
+
+*anthropometry
+*bmi;
+*use bmi_s1;
+  format nsrr_bmi 10.9;
+  nsrr_bmi = dem_0800;
+
+*clinical data/vital signs
+  *no bp data;
+*bp_systolic;
+*bp_diastolic;
+
+
+*lifestyle and behavioral health
+*current_smoker;
+*use current_cigarette_smoker;
+  format nsrr_current_smoker $100.;
+  if current_cigarette_smoker = 1 then nsrr_current_smoker = 'yes';
+  else if current_cigarette_smoker = 0  then nsrr_current_smoker = 'no';
+  else if current_cigarette_smoker = .  then nsrr_current_smoker = 'not reported';
+*ever_smoker;
+  *use current_cigarette_smoker, former_cigarette_smoker;
+  *note- do not need to include scenarios where current =. but former ne . - dervived from the same variable, so have same individuals that did not report;
+  format nsrr_ever_smoker $100.;
+  if current_cigarette_smoker = 1 and former_cigarette_smoker = 0 then nsrr_ever_smoker = 'yes';
+  else if current_cigarette_smoker = 1 and former_cigarette_smoker = 1 then nsrr_ever_smoker = 'yes';
+  else if current_cigarette_smoker = 0 and former_cigarette_smoker = 1 then nsrr_ever_smoker = 'yes';
+  else if current_cigarette_smoker = 1 and former_cigarette_smoker = 0 then nsrr_ever_smoker = 'yes';
+  else if current_cigarette_smoker = 0 and former_cigarette_smoker = 0 then nsrr_ever_smoker = 'no';
+  else if current_cigarette_smoker = . and former_cigarette_smoker = . then nsrr_ever_smoker = 'not reported';
+
+  keep 
+    subject_code
+    visitcode
+    nsrr_age
+    nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_bmi
+    nsrr_current_smoker
+    nsrr_ever_smoker
+    ;
+run;
+
+*******************************************************************************;
+* checking harmonized datasets ;
+*******************************************************************************;
+
+/* Checking for extreme values for continuous variables */
+
+proc means data=stages1_harmonized;
+VAR   nsrr_age
+    nsrr_bmi;
+run;
+
+/* Checking categorical variables */
+
+
+proc freq data=stages1_harmonized;
+table   nsrr_age_gt89
+    nsrr_sex
+    nsrr_race
+    nsrr_ethnicity
+    nsrr_current_smoker
+    nsrr_ever_smoker;
+run;
+
+
+
 *******************************************************************************;
 * make all variable names lowercase ;
 *******************************************************************************;
@@ -225,6 +378,7 @@
   %mend lowcase;
 
   %lowcase(stages_final);
+  %lowcase(stages1_harmonized);
 
   /*
 
@@ -252,3 +406,10 @@
     dbms=csv
     replace;
   run;
+
+    proc export data=stages1_harmonized
+    outfile="&releasepath\&version\stages1_harmonized-&version..csv"
+    dbms=csv
+    replace;
+  run;
+
