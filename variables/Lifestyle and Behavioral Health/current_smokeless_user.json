@@ -1,0 +1,8 @@
+{
+  "id": "current_smokeless_user",
+  "display_name": "Smokeless user, current smoker",
+  "description": "Which of the following best describes your use of tobacco products? Current smokeless or other tobacco user",
+  "type": "choices",
+  "domain": "noyes",
+  "calculation": "if index(soclhx_1100, '4') then current_smokeless_user = 1; else if soclhx_1100 ne '' then current_smokeless_user = 0;"
+}
