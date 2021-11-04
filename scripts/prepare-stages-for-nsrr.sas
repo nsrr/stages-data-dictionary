@@ -248,7 +248,7 @@ run;
 *******************************************************************************;
 * create harmonized datasets ;
 *******************************************************************************;
-data stages1_harmonized;
+data stages_harmonized;
   set stages_final;
   *create visitcode variable for Spout to use for graph generation;
     visitcode = 1;
@@ -340,7 +340,7 @@ run;
 
 /* Checking for extreme values for continuous variables */
 
-proc means data=stages1_harmonized;
+proc means data=stages_harmonized;
 VAR   nsrr_age
     nsrr_bmi;
 run;
@@ -348,7 +348,7 @@ run;
 /* Checking categorical variables */
 
 
-proc freq data=stages1_harmonized;
+proc freq data=stages_harmonized;
 table   nsrr_age_gt89
     nsrr_sex
     nsrr_race
@@ -378,7 +378,7 @@ run;
   %mend lowcase;
 
   %lowcase(stages_final);
-  %lowcase(stages1_harmonized);
+  %lowcase(stages_harmonized);
 
   /*
 
@@ -407,8 +407,8 @@ run;
     replace;
   run;
 
-    proc export data=stages1_harmonized
-    outfile="&releasepath\&version\stages1_harmonized-&version..csv"
+    proc export data=stages_harmonized
+    outfile="&releasepath\&version\stages_harmonized-&version..csv"
     dbms=csv
     replace;
   run;
