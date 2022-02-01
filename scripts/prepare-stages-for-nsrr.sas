@@ -25,7 +25,7 @@
   libname stagesi "\\rfawin\BWH-SLEEPEPI-NSRR-STAGING\20200722-stages\nsrr-prep\_ids";
 
   *set data dictionary version;
-  %let version = 0.2.0.pre;
+  %let version = 0.2.0;
 
   *set nsrr csv release path;
   %let releasepath = \\rfawin\BWH-SLEEPEPI-NSRR-STAGING\20200722-stages\nsrr-prep\_releases;
