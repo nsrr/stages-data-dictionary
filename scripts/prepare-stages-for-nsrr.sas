@@ -83,27 +83,27 @@ run;
 
     *recode character month values;
     narc_1710_r = input(narc_1710,8.);
-	*creating binary smoking variables from soclhx_1100;
-	
-	format never_cigarette_smoker 8.0;
-	if index(soclhx_1100, '0') then never_cigarette_smoker = 1;
-	else if soclhx_1100 ne '' then never_cigarette_smoker= 0;
+  *creating binary smoking variables from soclhx_1100;
+  
+  format never_cigarette_smoker 8.0;
+  if index(soclhx_1100, '0') then never_cigarette_smoker = 1;
+  else if soclhx_1100 ne '' then never_cigarette_smoker= 0;
 
-	format former_cigarette_smoker 8.0;
-	if index(soclhx_1100, '1') then former_cigarette_smoker = 1;
-	else if soclhx_1100 ne '' then former_cigarette_smoker = 0;
-	
-	format former_smokeless_user 8.0;
-	if index(soclhx_1100, '2') then former_smokeless_user = 1;
-	else if soclhx_1100 ne '' then former_smokeless_user = 0;
-	
-	format current_cigarette_smoker 8.0;
-	if index(soclhx_1100, '3') then current_cigarette_smoker = 1;
-	else if soclhx_1100 ne '' then current_cigarette_smoker = 0;
+  format former_cigarette_smoker 8.0;
+  if index(soclhx_1100, '1') then former_cigarette_smoker = 1;
+  else if soclhx_1100 ne '' then former_cigarette_smoker = 0;
+  
+  format former_smokeless_user 8.0;
+  if index(soclhx_1100, '2') then former_smokeless_user = 1;
+  else if soclhx_1100 ne '' then former_smokeless_user = 0;
+  
+  format current_cigarette_smoker 8.0;
+  if index(soclhx_1100, '3') then current_cigarette_smoker = 1;
+  else if soclhx_1100 ne '' then current_cigarette_smoker = 0;
 
-	format current_smokeless_user 8.0;
-	if index(soclhx_1100, '4') then current_smokeless_user = 1;
-	else if soclhx_1100 ne '' then current_smokeless_user = 0;
+  format current_smokeless_user 8.0;
+  if index(soclhx_1100, '4') then current_smokeless_user = 1;
+  else if soclhx_1100 ne '' then current_smokeless_user = 0;
 
     *remove variables systematically;
     drop
@@ -238,10 +238,10 @@ run;
   * checking new smoking variables;
 proc freq data=stages_final;
 table   never_cigarette_smoker
-		former_cigarette_smoker
-		former_smokeless_user
-		current_cigarette_smoker
-		current_smokeless_user;
+    former_cigarette_smoker
+    former_smokeless_user
+    current_cigarette_smoker
+    current_smokeless_user;
 run;
 
 
@@ -276,19 +276,19 @@ data stages_harmonized;
 *use dem_1000;
     format nsrr_race $100.;
     if dem_1000 = 0 then nsrr_race = 'not reported';
-	else if dem_1000 = 1 then nsrr_race = 'white';
+  else if dem_1000 = 1 then nsrr_race = 'white';
     else if dem_1000 = 2 then nsrr_race = 'black or african american';
     else if dem_1000 = 3 then nsrr_race = 'american indian or alaska native';
-  	else if dem_1000 = 4 then nsrr_race = 'asian';
-	else if dem_1000 = 5 then nsrr_race = 'native hawaiian or other pacific islander';
-	else if dem_1000 = 6 then nsrr_race = 'two races or some other race';
+    else if dem_1000 = 4 then nsrr_race = 'asian';
+  else if dem_1000 = 5 then nsrr_race = 'native hawaiian or other pacific islander';
+  else if dem_1000 = 6 then nsrr_race = 'other';
 
 *ethnicity;
 *use dem_0900;
   format nsrr_ethnicity $100.;
     if dem_0900 = 1 then nsrr_ethnicity = 'hispanic or latino';
     else if dem_0900 = 0 then nsrr_ethnicity = 'not hispanic or latino';
-  	else if dem_0900 = . then nsrr_ethnicity = 'not reported';
+    else if dem_0900 = . then nsrr_ethnicity = 'not reported';
 
 *anthropometry
 *bmi;
@@ -408,7 +408,7 @@ run;
   run;
 
     proc export data=stages_harmonized
-    outfile="&releasepath\&version\stages_harmonized-&version..csv"
+    outfile="&releasepath\&version\stages-harmonized-dataset-&version..csv"
     dbms=csv
     replace;
   run;
