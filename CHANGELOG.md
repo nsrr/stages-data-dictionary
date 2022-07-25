@@ -1,4 +1,4 @@
-## 0.3.0
+## 0.3.0 (July 25, 2022)
 
 - Revise RLS variables based on STAGES team request (underlying data fixes)
 - Revise 'isq_score' and 'cir_0600' definitions based on STAGES team request
