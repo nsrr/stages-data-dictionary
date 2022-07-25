@@ -60,10 +60,22 @@
     by subject_code survey_id;
   run;
 
+  proc import datafile="\\rfawin\BWH-SLEEPEPI-NSRR-STAGING\20200722-stages\nsrr-prep\_source\asq\2022.07.18 ASQ Updates and Revisions.xlsx"
+    out=asq_202207_in
+    dbms=xlsx
+    replace;
+    sheet="RLS Revised Section";
+  run;
+
+  proc sort data=asq_202207_in nodupkey;
+    by subject_code survey_id;
+  run;
+
   data asq_merge;
     merge
       asq_dem_in
-      asq_isi_in
+      asq_isi_in (drop=rls_0300 rls_0800 rls_0801 rls_0900 rls_0910 rls_probability)
+      asq_202207_in
       ;
     by subject_code survey_id;
 
@@ -85,6 +97,9 @@
 
     *recode character month values;
     narc_1710_r = input(narc_1710,8.);
+
+    *correct spelling;
+    if rls_probability = "Unlikely (possibly IN past)" then rls_probability = "Unlikely (possibly in past)";
 
     *creating binary smoking variables from soclhx_1100;
     

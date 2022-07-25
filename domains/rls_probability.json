@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Likely",
+    "display_name": "Likely",
+    "description": ""
+  },
+  {
+    "value": "Possible",
+    "display_name": "Possible",
+    "description": ""
+  },
+  {
+    "value": "Unlikely",
+    "display_name": "Unlikely",
+    "description": ""
+  },
+  {
+    "value": "Unlikely (possibly in past)",
+    "display_name": "Unlikely (possibly in past)",
+    "description": ""
+  }
+]
