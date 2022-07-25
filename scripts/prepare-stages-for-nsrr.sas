@@ -46,11 +46,10 @@
   proc contents data=asq_dem_in;
   run;
 
+  proc freq data=asq_dem_in;
+  table   soclhx_1100;
+  run;
 
-  
-proc freq data=asq_dem_in;
-table   soclhx_1100;
-run;
   proc import datafile="\\rfawin\BWH-SLEEPEPI-NSRR-STAGING\20200722-stages\nsrr-prep\_source\asq\STAGES ASQ ISI to DIET 20200513 Final deidentified.xlsx"
     out=asq_isi_in 
     dbms=xlsx
@@ -68,6 +67,9 @@ run;
       ;
     by subject_code survey_id;
 
+    *recode morningness/eveningness question to match data dictionary (per KC from STAGES group July 2022);
+    if cir_0600 = 5 then cir_0600 = 6;
+
     *recode false/true character values into 0/1 numeric values;
     if sched_1401 = 'false' then sched_1401_r = 0;
     else if sched_1401 = 'true' then sched_1401_r = 1;
@@ -83,27 +85,28 @@ run;
 
     *recode character month values;
     narc_1710_r = input(narc_1710,8.);
-  *creating binary smoking variables from soclhx_1100;
-  
-  format never_cigarette_smoker 8.0;
-  if index(soclhx_1100, '0') then never_cigarette_smoker = 1;
-  else if soclhx_1100 ne '' then never_cigarette_smoker= 0;
 
-  format former_cigarette_smoker 8.0;
-  if index(soclhx_1100, '1') then former_cigarette_smoker = 1;
-  else if soclhx_1100 ne '' then former_cigarette_smoker = 0;
-  
-  format former_smokeless_user 8.0;
-  if index(soclhx_1100, '2') then former_smokeless_user = 1;
-  else if soclhx_1100 ne '' then former_smokeless_user = 0;
-  
-  format current_cigarette_smoker 8.0;
-  if index(soclhx_1100, '3') then current_cigarette_smoker = 1;
-  else if soclhx_1100 ne '' then current_cigarette_smoker = 0;
+    *creating binary smoking variables from soclhx_1100;
+    
+    format never_cigarette_smoker 8.0;
+    if index(soclhx_1100, '0') then never_cigarette_smoker = 1;
+    else if soclhx_1100 ne '' then never_cigarette_smoker= 0;
 
-  format current_smokeless_user 8.0;
-  if index(soclhx_1100, '4') then current_smokeless_user = 1;
-  else if soclhx_1100 ne '' then current_smokeless_user = 0;
+    format former_cigarette_smoker 8.0;
+    if index(soclhx_1100, '1') then former_cigarette_smoker = 1;
+    else if soclhx_1100 ne '' then former_cigarette_smoker = 0;
+    
+    format former_smokeless_user 8.0;
+    if index(soclhx_1100, '2') then former_smokeless_user = 1;
+    else if soclhx_1100 ne '' then former_smokeless_user = 0;
+    
+    format current_cigarette_smoker 8.0;
+    if index(soclhx_1100, '3') then current_cigarette_smoker = 1;
+    else if soclhx_1100 ne '' then current_cigarette_smoker = 0;
+
+    format current_smokeless_user 8.0;
+    if index(soclhx_1100, '4') then current_smokeless_user = 1;
+    else if soclhx_1100 ne '' then current_smokeless_user = 0;
 
     *remove variables systematically;
     drop
@@ -217,6 +220,27 @@ run;
       pap_2200
       soclhx_1100
       soclhx_1600
+
+      /* empty columns */
+      mdhx_0900
+      sched_2220
+      sched_2720
+      sched_3220
+      sched_4220
+      soclhx_0500
+      soclhx_1320
+      map_1035
+      slpy_0120
+      slpy_0220
+      slpy_0320
+      isq_0130
+      isq_0230
+      isq_0330
+      isq_0430
+      isq_0530
+      par_0401
+      par_0920
+
       ;
   run;
 

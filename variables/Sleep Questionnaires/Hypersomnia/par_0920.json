@@ -1,8 +1,0 @@
-{
-  "id": "par_0920",
-  "display_name": "Remember dreams, number of episodes per week",
-  "description": "How often do you remember your dreams?",
-  "type": "integer",
-  "units": "events per week",
-  "calculation": "If par_0910=0 then par_0920=par_0900*7, If par_0910=1 then par_0920=par_0900,    If par_0910=2 then par_0920=par_0900/4, If par_0910=3 then par_0920=par_0900/52"
-}

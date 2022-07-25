@@ -1,7 +1,0 @@
-{
-  "id": "mdhx_0900",
-  "display_name": "Sleep aid medications",
-  "description": "Do you take a sleeping aid once a week or more?",
-  "type": "choices",
-  "domain": "noyes"
-}

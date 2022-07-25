@@ -1,5 +1,9 @@
 ## 0.3.0
 
+- Remove many empty columns that came from original ASQ data source
+- The CSV datasets generated from a SAS export are located here:
+  - `\\rfawin\BWH-SLEEPEPI-NSRR-STAGING\20200722-stages\nsrr-prep\_releases\0.3.0.pre\`
+
 ## 0.2.0 (February 1, 2022)
 
 - Add initial set of NSRR harmonized variables (nsrr_*)
