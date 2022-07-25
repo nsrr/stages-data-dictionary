@@ -1,3 +1,5 @@
+## 0.3.0
+
 ## 0.2.0 (February 1, 2022)
 
 - Add initial set of NSRR harmonized variables (nsrr_*)
