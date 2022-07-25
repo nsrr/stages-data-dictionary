@@ -82,6 +82,10 @@
     *recode morningness/eveningness question to match data dictionary (per KC from STAGES group July 2022);
     if cir_0600 = 5 then cir_0600 = 6;
 
+    *recode isq_score (per KC from STAGES group July 2022);
+    if isq_score = '' then isq_score = '0';
+    else if isq_score = '-1' then isq_score = '';
+
     *recode false/true character values into 0/1 numeric values;
     if sched_1401 = 'false' then sched_1401_r = 0;
     else if sched_1401 = 'true' then sched_1401_r = 1;
@@ -102,7 +106,6 @@
     if rls_probability = "Unlikely (possibly IN past)" then rls_probability = "Unlikely (possibly in past)";
 
     *creating binary smoking variables from soclhx_1100;
-    
     format never_cigarette_smoker 8.0;
     if index(soclhx_1100, '0') then never_cigarette_smoker = 1;
     else if soclhx_1100 ne '' then never_cigarette_smoker= 0;

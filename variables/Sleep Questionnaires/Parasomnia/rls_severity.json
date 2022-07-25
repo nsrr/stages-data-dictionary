@@ -1,6 +1,6 @@
 {
   "id": "rls_severity",
-  "display_name": "RLS Current Severity",
+  "display_name": "Restless Legs Syndrome (RLS) Current Severity",
   "description": "Algorithm derived by STAGES team",
   "type": "integer",
   "units": "",

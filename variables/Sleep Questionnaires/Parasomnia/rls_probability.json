@@ -1,6 +1,6 @@
 {
   "id": "rls_probability",
-  "display_name": "RLS Current Probability",
+  "display_name": "Restless Legs Syndrome (RLS) Current Probability",
   "description": "Algorithm derived by STAGES team",
   "type": "choices",
   "domain": "rls_probability",
