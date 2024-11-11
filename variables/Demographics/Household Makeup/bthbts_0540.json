@@ -3,5 +3,5 @@
   "display_name": "Number of adults aged 60 years of older living in your household",
   "description": "How many are adults aged 60 years or older?",
   "type": "integer",
-  "units": "count"
+  "units": "counts"
 }

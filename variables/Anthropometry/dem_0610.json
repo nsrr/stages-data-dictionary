@@ -3,5 +3,5 @@
   "display_name": "Height in inches",
   "description": "",
   "type": "integer",
-  "units": "inches"
+  "units": "inches (in)"
 }

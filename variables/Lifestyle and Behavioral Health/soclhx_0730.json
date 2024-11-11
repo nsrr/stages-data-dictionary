@@ -3,5 +3,5 @@
   "display_name": "Alcohol consumption, number of servings per day",
   "description": "When drinking alcohol, how many servings do you typically have in one day? (one serving equals 12oz. cans of beer, 5oz. of wine, or 1.5oz. of liquor) ",
   "type": "integer",
-  "units": "event count"
+  "units": "number of events"
 }

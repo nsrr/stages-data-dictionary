@@ -4,5 +4,5 @@
   "description": "How often do you drink alcohol? Per day/week/month",
   "type": "choices",
   "domain": "weekmonth",
-  "units": "event count"
+  "units": "number of events"
 }

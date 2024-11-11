@@ -3,7 +3,7 @@
   "display_name": "Caffeine consumption, number of servings per day",
   "description": "How many servings of caffeine do you typically have in one day?  (one serving equals 8oz. of coffee, 8oz. of tea, 12oz of soda, 12oz energy drink) ",
   "type": "integer",
-  "units": "event count",
+  "units": "number of events",
   "labels": [
     "sleep_hygiene"
   ]

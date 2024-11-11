@@ -3,7 +3,7 @@
   "display_name": "Frequency of nightmares, times",
   "description": "How often do you have nightmares (frightening dreams)? Times",
   "type": "integer",
-  "units": "event count",
+  "units": "number of events",
   "labels": [
     "nightmare"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Self-reported frequency of napping",
   "description": "How often do you nap? Number of times",
   "type": "integer",
-  "units": "event count",
+  "units": "number of events",
   "labels": [
     "sleep_hygiene"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Unpleasant feelings in legs, age of the first episode (present and past)",
   "description": "Approximately how old were you when you first noticed these unpleasant sensations in your legs while sitting or lying down?",
   "type": "integer",
-  "units": "Year",
+  "units": "years",
   "labels": [
     "rls_plms"
   ]

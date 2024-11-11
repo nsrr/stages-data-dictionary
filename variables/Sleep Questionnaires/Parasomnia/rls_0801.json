@@ -4,7 +4,7 @@
   "description": "Approximately how old were you when you first noticed these unpleasant sensations in your legs while sitting or lying down? Don't remember",
   "type": "choices",
   "domain": "noyesdontknow",
-  "units": "years-old",
+  "units": "years",
   "labels": [
     "rls_plms"
   ]

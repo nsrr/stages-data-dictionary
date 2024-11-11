@@ -3,5 +3,5 @@
   "display_name": "Usual lunch time",
   "description": "",
   "type": "numeric",
-  "units": "time"
+  "units": "H:mm:ss"
 }

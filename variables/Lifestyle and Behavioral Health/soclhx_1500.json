@@ -4,5 +4,5 @@
   "description": "Have you ever used street/recreational drugs regularly? ",
   "type": "choices",
   "domain": "streetdrugs",
-  "units": "event count"
+  "units": "number of events"
 }

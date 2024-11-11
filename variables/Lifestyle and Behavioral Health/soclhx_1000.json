@@ -3,7 +3,7 @@
   "display_name": "Caffeine consumption, time of last drink",
   "description": "What time of day do you consume your last caffeinated drink?  ",
   "type": "time",
-  "units": "time",
+  "units": "H:mm:ss",
   "labels": [
     "sleep_hygiene"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Muscle weakness, number of episode",
   "description": "How frequently do you currently experience one of these episodes of muscle weakness? Times",
   "type": "integer",
-  "units": "episodes",
+  "units": "counts",
   "labels": [
     "narcolepsy"
   ]

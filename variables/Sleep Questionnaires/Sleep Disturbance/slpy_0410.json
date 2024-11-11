@@ -3,7 +3,7 @@
   "display_name": "Had an accident or near miss due to sleepiness, last occurrence",
   "description": "Approximately what year did the last accident or near miss occur?",
   "type": "integer",
-  "units": "year",
+  "units": "years",
   "labels": [
     "sleep_related_impairment"
   ]

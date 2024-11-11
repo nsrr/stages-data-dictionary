@@ -3,5 +3,5 @@
   "display_name": "Usual additional meal/snack time4",
   "description": "",
   "type": "numeric",
-  "units": "time"
+  "units": "H:mm:ss"
 }

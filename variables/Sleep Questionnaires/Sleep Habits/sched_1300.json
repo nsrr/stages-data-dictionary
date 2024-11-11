@@ -3,7 +3,7 @@
   "display_name": "Self-reported in-bed time on week nights, school nights, work nights or days, next shift",
   "description": "When working these hours, what time do you usually get into bed to sleep?   ",
   "type": "time",
-  "units": "time",
+  "units": "H:mm:ss",
   "labels": [
     "sleep_timing"
   ]

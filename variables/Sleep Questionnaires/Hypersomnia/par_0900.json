@@ -3,5 +3,5 @@
   "display_name": "Remember dreams, times",
   "description": "How often do you remember your dreams? Times",
   "type": "integer",
-  "units": "event count"
+  "units": "number of events"
 }

@@ -3,5 +3,5 @@
   "display_name": "Number of children aged 5 years or younger living in your household",
   "description": "How many are children aged 5 years or younger? ",
   "type": "integer",
-  "units": "count"
+  "units": "counts"
 }

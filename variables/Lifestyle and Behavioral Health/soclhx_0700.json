@@ -3,6 +3,6 @@
   "display_name": "Alcohol consumption, number of times",
   "description": "How often do you drink alcohol? Times",
   "type": "integer",
-  "units": "event count",
+  "units": "number of events",
   "calculation": "Total = soclhx_0710+soclhx_0720+soclhx_0730"
 }

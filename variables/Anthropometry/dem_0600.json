@@ -3,5 +3,5 @@
   "display_name": "Height in feet",
   "description": "",
   "type": "integer",
-  "units": "feet"
+  "units": "feet (ft)"
 }

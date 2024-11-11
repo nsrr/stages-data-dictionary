@@ -3,7 +3,7 @@
   "display_name": "Self-reported number of awakenings on weekend nights, non-school nights, non-work nights or days",
   "description": "On average, how many times do you awaken during the night on non-work (non-school) nights?   ____ times per night",
   "type": "integer",
-  "units": "event count",
+  "units": "number of events",
   "labels": [
     "insomnia"
   ]

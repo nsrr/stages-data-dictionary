@@ -3,5 +3,5 @@
   "display_name": "Number of adults aged 18 - 59 living in your household",
   "description": "How many are adults aged 18-59 years?",
   "type": "integer",
-  "units": "count"
+  "units": "counts"
 }

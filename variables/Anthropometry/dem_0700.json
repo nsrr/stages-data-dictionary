@@ -3,5 +3,5 @@
   "display_name": "Weight in pounds",
   "description": "",
   "type": "integer",
-  "units": "pounds"
+  "units": "pounds (lb)"
 }

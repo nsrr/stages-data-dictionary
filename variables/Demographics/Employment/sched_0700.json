@@ -3,7 +3,7 @@
   "display_name": "Self-reported work start time, current shift",
   "description": "Please indicate the start and end times for your work shifts, beginning with your current shift:  ",
   "type": "time",
-  "units": "time",
+  "units": "H:mm:ss",
   "labels": [
     "work_schedule"
   ]

@@ -3,7 +3,7 @@
   "display_name": "Frequency of eat/drink in sleep, number of times",
   "description": "How often do you awaken during the night and are unable to return to sleep without having something to eat or drink (other than water for thirst or a dry mouth)? Times",
   "type": "integer",
-  "units": "event count",
+  "units": "number of events",
   "labels": [
     "sleep_eat"
   ]

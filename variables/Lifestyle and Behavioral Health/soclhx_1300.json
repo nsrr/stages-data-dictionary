@@ -3,5 +3,5 @@
   "display_name": "Cigarette smoking, number of cigarettes",
   "description": "How many cigarettes did you typically smoke? Number",
   "type": "integer",
-  "units": "event count"
+  "units": "number of events"
 }

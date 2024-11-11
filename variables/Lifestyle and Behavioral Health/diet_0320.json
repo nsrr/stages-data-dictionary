@@ -2,5 +2,6 @@
   "id": "diet_0320",
   "display_name": "Percentage of dinner among all food intake over 24 hours",
   "description": "Please approximate the percent of 24 hour food intake for each meal (should total 100%) - Dinner",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "percent (%)"
 }

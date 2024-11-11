@@ -3,7 +3,7 @@
   "display_name": "Self-reported total sleep duration (i.e. total sleep time) on week nights, school nights, work nights or days, 3rd shift",
   "description": "On average, how much sleep do you get on work (school) nights? Minutes",
   "type": "integer",
-  "units": "minutes",
+  "units": "minutes (min)",
   "labels": [
     "sleep_duration"
   ]
