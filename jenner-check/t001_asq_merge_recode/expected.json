@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-06-13T19:20:42Z",
+  "_captured_run_id": "r_019ec26d61d870e38ba64831ba18b99b",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote asq_merge (5 rows, 19 columns).",
+    "NOTE: Wrote stages_final (5 rows, 20 columns).",
+    "NOTE: PROC PRINT completed: 5 observations printed, 7 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}

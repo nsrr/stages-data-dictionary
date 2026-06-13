@@ -1,0 +1,8 @@
+{
+  "bundle": "t001_asq_merge_recode",
+  "source_file": "scripts/prepare-stages-for-nsrr.sas",
+  "source_blob_sha": "9cd1e76742e1d02b36915a1201f87d71288746e2",
+  "source_commit": "8d466f149b1e4824eb530218d1783b77216f7256",
+  "tier": "real_data",
+  "notes": "MERGE of the three ASQ survey exports plus the per-variable recodes (cir_0600, isq_score, true/false to 0/1, RLS spelling) and INDEX()-based derivation of the five binary smoking variables from soclhx_1100, exactly as written upstream. The three PROC IMPORT of deidentified XLSX exports are replaced by mock DATA steps in autoexec.sas that carry the columns the merge/recode logic reads; column shapes follow the data dictionary (variables/, domains/). DROP list trimmed to columns present in the sample. Logic unchanged."
+}

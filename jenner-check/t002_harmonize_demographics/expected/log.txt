@@ -1,0 +1,32 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA stages_final
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote stages_final (5 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA stages_harmonized
+
+
+NOTE: Read 5 rows from stages_final.
+NOTE: Wrote stages_harmonized (5 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_nsrr_age_gt89.spec.json
+NOTE: ODS plot written: freq_nsrr_sex.spec.json
+NOTE: ODS plot written: freq_nsrr_race.spec.json
+NOTE: ODS plot written: freq_nsrr_ethnicity.spec.json
+NOTE: ODS plot written: freq_nsrr_current_smoker.spec.json
+NOTE: ODS plot written: freq_nsrr_ever_smoker.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: PROC PRINT data=stages_harmonized
+
+NOTE: PROC PRINT completed: 5 observations printed, 10 variables

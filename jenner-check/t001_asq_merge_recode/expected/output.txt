@@ -1,0 +1,39 @@
+                                                   The FREQ Procedure
+
+                                                    Cumulative    Cumulative
+never_cigarette_smoker    Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------------------------
+0                                 3     60.00            3        60.00
+1                                 2     40.00            5       100.00
+
+                                                     Cumulative    Cumulative
+former_cigarette_smoker    Frequency    Percent     Frequency      Percent
+--------------------------------------------------------------------------------
+0                                  3     60.00            3        60.00
+1                                  2     40.00            5       100.00
+
+                                                   Cumulative    Cumulative
+former_smokeless_user    Frequency    Percent     Frequency      Percent
+------------------------------------------------------------------------------
+0                                5    100.00            5       100.00
+
+                                                      Cumulative    Cumulative
+current_cigarette_smoker    Frequency    Percent     Frequency      Percent
+---------------------------------------------------------------------------------
+0                                   3     60.00            3        60.00
+1                                   2     40.00            5       100.00
+
+                                                    Cumulative    Cumulative
+current_smokeless_user    Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------------------------
+0                                 4     80.00            4        80.00
+1                                 1     20.00            5       100.00
+
+  Obs  SUBJECT_CODE  VISITCODE  NEVER_CIGARETTE_SMOKER  CURRENT_CIGARETTE_SMOKER  SCHED_1401  NARC_1710              RLS_PROBABILITY
+-----  ------------  ---------  ----------------------  ------------------------  ----------  ---------  ---------------------------
+    1  STAGES0001            1                       1                         0           1          7  Unlikely (possibly in past)
+    2  STAGES0002            1                       0                         1           0          3  Likely
+    3  STAGES0003            1                       0                         1           1         11  Unlikely (possibly in past)
+    4  STAGES0004            1                       0                         0           0          5  Unknown
+    5  STAGES0005            1                       1                         0           1          9  Likely
+

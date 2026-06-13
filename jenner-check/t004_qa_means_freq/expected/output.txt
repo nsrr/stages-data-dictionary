@@ -1,0 +1,49 @@
+                                                  The MEANS Procedure
+
+ Variable        N           Mean        Std Dev        Minimum        Maximum
+ -----------------------------------------------------------------------------
+ nsrr_age        5     59.0000000     21.8517734     34.0000000     91.0000000
+ nsrr_bmi        5     27.0000000      3.9306488     22.1000000     31.7000000
+ -----------------------------------------------------------------------------
+
+                                                   The FREQ Procedure
+
+                                           Cumulative    Cumulative
+nsrr_age_gt89    Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------
+no                       4     80.00            4        80.00
+yes                      1     20.00            5       100.00
+
+                                      Cumulative    Cumulative
+nsrr_sex    Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------
+female              2     40.00            2        40.00
+male                3     60.00            5       100.00
+
+                                          Cumulative    Cumulative
+nsrr_race       Frequency    Percent     Frequency      Percent
+---------------------------------------------------------------------
+asian                   1     20.00            1        20.00
+black                   1     20.00            2        40.00
+not_reported            1     20.00            3        60.00
+other                   1     20.00            4        80.00
+white                   1     20.00            5       100.00
+
+                                            Cumulative    Cumulative
+nsrr_ethnicity    Frequency    Percent     Frequency      Percent
+-----------------------------------------------------------------------
+hispanic                  1     20.00            1        20.00
+not_hispanic              3     60.00            4        80.00
+not_reported              1     20.00            5       100.00
+
+                                                 Cumulative    Cumulative
+nsrr_current_smoker    Frequency    Percent     Frequency      Percent
+----------------------------------------------------------------------------
+no                             3     60.00            3        60.00
+yes                            2     40.00            5       100.00
+
+                                              Cumulative    Cumulative
+nsrr_ever_smoker    Frequency    Percent     Frequency      Percent
+-------------------------------------------------------------------------
+no                          2     40.00            2        40.00
+yes                         3     60.00            5       100.00

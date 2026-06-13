@@ -1,0 +1,8 @@
+{
+  "bundle": "t004_qa_means_freq",
+  "source_file": "scripts/prepare-stages-for-nsrr.sas",
+  "source_blob_sha": "9cd1e76742e1d02b36915a1201f87d71288746e2",
+  "source_commit": "8d466f149b1e4824eb530218d1783b77216f7256",
+  "tier": "real_data",
+  "notes": "The 'checking harmonized datasets' QA block verbatim: PROC MEANS over the continuous harmonized variables (nsrr_age, nsrr_bmi) to surface extreme values, and PROC FREQ over the six categorical harmonized variables. The stages_harmonized input is mocked in autoexec.sas with the harmonized NSRR columns and the domain labels. Logic unchanged."
+}
