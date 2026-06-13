@@ -1,0 +1,59 @@
+Jenner 0.1.0 (Unlicensed - limited to 100 observations)
+Get a license at https://jenneranalytics.com/license
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA asq_dem_in
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote asq_dem_in (5 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA asq_isi_in
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote asq_isi_in (5 rows, 7 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA asq_202207_in
+
+NOTE: Processing inline DATALINES (5 lines)
+
+NOTE: Read 5 rows from DATALINES.
+NOTE: Wrote asq_202207_in (5 rows, 3 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA asq_merge
+
+NOTE: Stream 1 processed 5 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 2 processed 5 rows, max BY-group size: 1 (O(1) memory verified)
+NOTE: Stream 3 processed 5 rows, max BY-group size: 1 (O(1) memory verified)
+
+NOTE: Wrote asq_merge (5 rows, 19 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA stages_final
+
+
+NOTE: Read 5 rows from asq_merge.
+NOTE: Wrote stages_final (5 rows, 20 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FREQ
+NOTE: ODS plot written: freq_never_cigarette_smoker.spec.json
+NOTE: ODS plot written: freq_former_cigarette_smoker.spec.json
+NOTE: ODS plot written: freq_former_smokeless_user.spec.json
+NOTE: ODS plot written: freq_current_cigarette_smoker.spec.json
+NOTE: ODS plot written: freq_current_smokeless_user.spec.json
+NOTE: PROC FREQ statement used.
+NOTE: PROC PRINT data=stages_final
+
+NOTE: PROC PRINT completed: 5 observations printed, 7 variables

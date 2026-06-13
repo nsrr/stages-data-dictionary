@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_harmonize_demographics",
+  "source_file": "scripts/prepare-stages-for-nsrr.sas",
+  "source_blob_sha": "9cd1e76742e1d02b36915a1201f87d71288746e2",
+  "source_commit": "8d466f149b1e4824eb530218d1783b77216f7256",
+  "tier": "real_data",
+  "notes": "The 'create harmonized datasets' DATA step verbatim: derivation of the NSRR harmonized demographics (nsrr_age, nsrr_age_gt89, nsrr_sex, nsrr_race, nsrr_ethnicity, nsrr_bmi, nsrr_current_smoker, nsrr_ever_smoker) from the survey variables, KEEP of the harmonized set, and the categorical QA PROC FREQ. The stages_final input is mocked in autoexec.sas with the columns this step reads; dem_0500/dem_1000/dem_0900 values follow the data dictionary domains. Logic unchanged."
+}
